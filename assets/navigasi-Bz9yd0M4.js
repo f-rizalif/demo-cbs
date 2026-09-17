@@ -1,0 +1,1 @@
+var e=`/demo-cbs/`.replace(/\/$/,``),t=`${e}/demo/`,n=t=>typeof t==`string`&&t.startsWith(`/`)&&!t.startsWith(`${e}/`)?e+t:t,r=()=>typeof window<`u`&&window.location.pathname.startsWith(t);function i(e){let n=String(e??``);return!r()||!n.startsWith(`/`)||n.startsWith(t)?n:n===`/`?`${t}index.html`:t+n.slice(1)}function a(e){window.location.href=i(e)}export{i,a as n,n as r,r as t};

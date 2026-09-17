@@ -1,0 +1,1 @@
+var e=`/demo-cbs/assets/correct-B-V8jwle.mp3`,t=`/demo-cbs/assets/incorrect-4gPtFh56.mp3`,n=new Map;function r(e){if(!(typeof Audio>`u`))try{let t=n.get(e);t||(t=new Audio(e),n.set(e,t)),t.currentTime=0,t.play().catch(()=>{})}catch{}}var i=()=>r(e),a=()=>r(t);export{i as n,a as r,r as t};

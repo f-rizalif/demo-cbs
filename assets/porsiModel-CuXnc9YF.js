@@ -1,0 +1,1 @@
+function e(e,t=1){let n=[Number(e?.target)||0,Number(e?.target2??e?.target_2)||0,Number(e?.target3??e?.target_3)||0,Number(e?.target4??e?.target_4)||0],r=n.reduce((e,t)=>e+t,0);return r>0?n[t-1]/r:+(t===1)}function t(t){return e(t)<1}export{e as n,t};

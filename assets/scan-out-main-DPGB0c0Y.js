@@ -1,0 +1,1 @@
+import{i as e,n as t,t as n}from"./jsx-runtime-JC7fXDIz.js";import{t as r}from"./client-BLQq0x_E.js";/* empty css            */import{n as i,r as a}from"./gudangKonfig-Dwrmuq1t.js";var o=e(t(),1),s=r(),c=n();(0,s.createRoot)(document.getElementById(`root`)).render((0,c.jsx)(o.StrictMode,{children:(0,c.jsx)(a,{konfig:i})}));
