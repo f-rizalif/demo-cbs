@@ -1,4 +1,4 @@
-var e=[{id:161,line:1,tanggal:`2026-03-02`,shift:`Shift 1`,part_number:`BJM-H2590-00`,group_name:`Group B`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:162,line:1,tanggal:`2026-03-02`,shift:`Shift 2`,part_number:`BJM-H2590-00`,group_name:`Group J`,target:300,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:163,line:2,tanggal:`2026-03-02`,shift:`Shift 1`,part_number:`BSS-H2590-00`,group_name:`Group C`,target:260,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:164,line:2,tanggal:`2026-03-02`,shift:`Shift 2`,part_number:`BSS-H2590-00`,group_name:`Group K`,target:260,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:165,line:3,tanggal:`2026-03-02`,shift:`Shift 1`,part_number:`BBP-H2590-21`,group_name:`Group D`,target:320,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:166,line:3,tanggal:`2026-03-02`,shift:`Shift 2`,part_number:`BBP-H2590-21`,group_name:`Group L`,target:320,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:167,line:4,tanggal:`2026-03-02`,shift:`Shift 1`,part_number:`BPN-H2590-60`,group_name:`Group E`,target:280,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:168,line:4,tanggal:`2026-03-02`,shift:`Shift 2`,part_number:`BPN-H2590-60`,group_name:`Group M`,target:280,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:169,line:6,tanggal:`2026-03-02`,shift:`Shift 1`,part_number:`BUG-H2590-00`,group_name:`Group F`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:170,line:6,tanggal:`2026-03-02`,shift:`Shift 2`,part_number:`BUG-H2590-00`,group_name:`Group N`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:171,line:7,tanggal:`2026-03-02`,shift:`Shift 1`,part_number:`BKV-H2590-10`,group_name:`Group G`,target:240,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:172,line:7,tanggal:`2026-03-02`,shift:`Shift 2`,part_number:`BKV-H2590-10`,group_name:`Group O`,target:240,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:173,line:8,tanggal:`2026-03-02`,shift:`Shift 1`,part_number:`BXY-H2590-00`,group_name:`Group A`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:174,line:8,tanggal:`2026-03-02`,shift:`Shift 2`,part_number:`BXY-H2590-00`,group_name:`Group P`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:175,line:9,tanggal:`2026-03-02`,shift:`Shift 1`,part_number:`D09-H2590-10`,group_name:`Group H`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:176,line:10,tanggal:`2026-03-02`,shift:`Shift 1`,part_number:`BPA-H2590-00`,group_name:`Group I`,target:290,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:177,line:1,tanggal:`2026-03-03`,shift:`Shift 1`,part_number:`BJM-H2590-00`,group_name:`Group B`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:178,line:1,tanggal:`2026-03-03`,shift:`Shift 2`,part_number:`BJM-H2590-00`,group_name:`Group J`,target:300,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:179,line:2,tanggal:`2026-03-03`,shift:`Shift 1`,part_number:`BSS-H2590-00`,group_name:`Group C`,target:260,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:180,line:2,tanggal:`2026-03-03`,shift:`Shift 2`,part_number:`BSS-H2590-00`,group_name:`Group K`,target:260,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:181,line:3,tanggal:`2026-03-03`,shift:`Shift 1`,part_number:`BBP-H2590-21`,group_name:`Group D`,target:320,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:182,line:3,tanggal:`2026-03-03`,shift:`Shift 2`,part_number:`BBP-H2590-21`,group_name:`Group L`,target:320,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:183,line:4,tanggal:`2026-03-03`,shift:`Shift 1`,part_number:`BPN-H2590-60`,group_name:`Group E`,target:280,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:184,line:4,tanggal:`2026-03-03`,shift:`Shift 2`,part_number:`BPN-H2590-60`,group_name:`Group M`,target:280,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:185,line:6,tanggal:`2026-03-03`,shift:`Shift 1`,part_number:`BUG-H2590-00`,group_name:`Group F`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:186,line:6,tanggal:`2026-03-03`,shift:`Shift 2`,part_number:`BUG-H2590-00`,group_name:`Group N`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:187,line:7,tanggal:`2026-03-03`,shift:`Shift 1`,part_number:`BKV-H2590-10`,group_name:`Group G`,target:240,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:188,line:7,tanggal:`2026-03-03`,shift:`Shift 2`,part_number:`BKV-H2590-10`,group_name:`Group O`,target:240,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:189,line:8,tanggal:`2026-03-03`,shift:`Shift 1`,part_number:`BXY-H2590-00`,group_name:`Group A`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:190,line:8,tanggal:`2026-03-03`,shift:`Shift 2`,part_number:`BXY-H2590-00`,group_name:`Group P`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:191,line:9,tanggal:`2026-03-03`,shift:`Shift 1`,part_number:`D09-H2590-10`,group_name:`Group H`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:192,line:10,tanggal:`2026-03-03`,shift:`Shift 1`,part_number:`BPA-H2590-00`,group_name:`Group I`,target:290,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:193,line:1,tanggal:`2026-03-04`,shift:`Shift 1`,part_number:`BJM-H2590-00`,group_name:`Group B`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:194,line:1,tanggal:`2026-03-04`,shift:`Shift 2`,part_number:`BJM-H2590-00`,group_name:`Group J`,target:300,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:195,line:2,tanggal:`2026-03-04`,shift:`Shift 1`,part_number:`BSS-H2590-00`,group_name:`Group C`,target:260,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:196,line:2,tanggal:`2026-03-04`,shift:`Shift 2`,part_number:`BSS-H2590-00`,group_name:`Group K`,target:260,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:197,line:3,tanggal:`2026-03-04`,shift:`Shift 1`,part_number:`BBP-H2590-21`,group_name:`Group D`,target:320,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:198,line:3,tanggal:`2026-03-04`,shift:`Shift 2`,part_number:`BBP-H2590-21`,group_name:`Group L`,target:320,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:199,line:4,tanggal:`2026-03-04`,shift:`Shift 1`,part_number:`BPN-H2590-60`,group_name:`Group E`,target:280,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:200,line:4,tanggal:`2026-03-04`,shift:`Shift 2`,part_number:`BPN-H2590-60`,group_name:`Group M`,target:280,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:201,line:6,tanggal:`2026-03-04`,shift:`Shift 1`,part_number:`BUG-H2590-00`,group_name:`Group F`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:202,line:6,tanggal:`2026-03-04`,shift:`Shift 2`,part_number:`BUG-H2590-00`,group_name:`Group N`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:203,line:7,tanggal:`2026-03-04`,shift:`Shift 1`,part_number:`BKV-H2590-10`,group_name:`Group G`,target:240,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:204,line:7,tanggal:`2026-03-04`,shift:`Shift 2`,part_number:`BKV-H2590-10`,group_name:`Group O`,target:240,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:205,line:8,tanggal:`2026-03-04`,shift:`Shift 1`,part_number:`BXY-H2590-00`,group_name:`Group A`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:206,line:8,tanggal:`2026-03-04`,shift:`Shift 2`,part_number:`BXY-H2590-00`,group_name:`Group P`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:207,line:9,tanggal:`2026-03-04`,shift:`Shift 1`,part_number:`D09-H2590-10`,group_name:`Group H`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:208,line:10,tanggal:`2026-03-04`,shift:`Shift 1`,part_number:`BPA-H2590-00`,group_name:`Group I`,target:290,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:209,line:1,tanggal:`2026-03-05`,shift:`Shift 1`,part_number:`BJM-H2590-00`,group_name:`Group B`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:210,line:1,tanggal:`2026-03-05`,shift:`Shift 2`,part_number:`BJM-H2590-00`,group_name:`Group J`,target:300,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:211,line:2,tanggal:`2026-03-05`,shift:`Shift 1`,part_number:`BSS-H2590-00`,group_name:`Group C`,target:260,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:212,line:2,tanggal:`2026-03-05`,shift:`Shift 2`,part_number:`BSS-H2590-00`,group_name:`Group K`,target:260,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:213,line:3,tanggal:`2026-03-05`,shift:`Shift 1`,part_number:`BBP-H2590-21`,group_name:`Group D`,target:320,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:214,line:3,tanggal:`2026-03-05`,shift:`Shift 2`,part_number:`BBP-H2590-21`,group_name:`Group L`,target:320,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:215,line:4,tanggal:`2026-03-05`,shift:`Shift 1`,part_number:`BPN-H2590-60`,group_name:`Group E`,target:280,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:216,line:4,tanggal:`2026-03-05`,shift:`Shift 2`,part_number:`BPN-H2590-60`,group_name:`Group M`,target:280,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:217,line:6,tanggal:`2026-03-05`,shift:`Shift 1`,part_number:`BUG-H2590-00`,group_name:`Group F`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:218,line:6,tanggal:`2026-03-05`,shift:`Shift 2`,part_number:`BUG-H2590-00`,group_name:`Group N`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:219,line:7,tanggal:`2026-03-05`,shift:`Shift 1`,part_number:`BKV-H2590-10`,group_name:`Group G`,target:240,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:220,line:7,tanggal:`2026-03-05`,shift:`Shift 2`,part_number:`BKV-H2590-10`,group_name:`Group O`,target:240,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:221,line:8,tanggal:`2026-03-05`,shift:`Shift 1`,part_number:`BXY-H2590-00`,group_name:`Group A`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:222,line:8,tanggal:`2026-03-05`,shift:`Shift 2`,part_number:`BXY-H2590-00`,group_name:`Group P`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:223,line:9,tanggal:`2026-03-05`,shift:`Shift 1`,part_number:`D09-H2590-10`,group_name:`Group H`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:224,line:10,tanggal:`2026-03-05`,shift:`Shift 1`,part_number:`BPA-H2590-00`,group_name:`Group I`,target:290,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:225,line:1,tanggal:`2026-03-06`,shift:`Shift 1`,part_number:`BJM-H2590-00`,group_name:`Group B`,target:300,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:226,line:1,tanggal:`2026-03-06`,shift:`Shift 2`,part_number:`BJM-H2590-00`,group_name:`Group J`,target:300,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:227,line:2,tanggal:`2026-03-06`,shift:`Shift 1`,part_number:`BSS-H2590-00`,group_name:`Group C`,target:260,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:228,line:2,tanggal:`2026-03-06`,shift:`Shift 2`,part_number:`BSS-H2590-00`,group_name:`Group K`,target:260,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:229,line:3,tanggal:`2026-03-06`,shift:`Shift 1`,part_number:`BBP-H2590-21`,group_name:`Group D`,target:320,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:230,line:3,tanggal:`2026-03-06`,shift:`Shift 2`,part_number:`BBP-H2590-21`,group_name:`Group L`,target:320,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:231,line:4,tanggal:`2026-03-06`,shift:`Shift 1`,part_number:`BPN-H2590-60`,group_name:`Group E`,target:280,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:232,line:4,tanggal:`2026-03-06`,shift:`Shift 2`,part_number:`BPN-H2590-60`,group_name:`Group M`,target:280,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:233,line:6,tanggal:`2026-03-06`,shift:`Shift 1`,part_number:`BUG-H2590-00`,group_name:`Group F`,target:340,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:234,line:6,tanggal:`2026-03-06`,shift:`Shift 2`,part_number:`BUG-H2590-00`,group_name:`Group N`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:235,line:7,tanggal:`2026-03-06`,shift:`Shift 1`,part_number:`BKV-H2590-10`,group_name:`Group G`,target:240,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:236,line:7,tanggal:`2026-03-06`,shift:`Shift 2`,part_number:`BKV-H2590-10`,group_name:`Group O`,target:240,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:237,line:8,tanggal:`2026-03-06`,shift:`Shift 1`,part_number:`BXY-H2590-00`,group_name:`Group A`,target:340,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:1,dc_2:0,dc_3:0,dc_4:0},{id:238,line:8,tanggal:`2026-03-06`,shift:`Shift 2`,part_number:`BXY-H2590-00`,group_name:`Group P`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:239,line:9,tanggal:`2026-03-06`,shift:`Shift 1`,part_number:`D09-H2590-10`,group_name:`Group H`,target:300,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:240,line:10,tanggal:`2026-03-06`,shift:`Shift 1`,part_number:`BPA-H2590-00`,group_name:`Group I`,target:290,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0}],t={OK:{161:`FT|0001|07:40|||
+import{i as e,n as t,r as n,t as r}from"./keadaan-Dgmvwy8N.js";import{n as i,t as a,u as o}from"./stations-C5q6krZ2.js";import{A as s,C as c,D as l,E as u,M as d,O as f,S as p,T as m,d as h,f as ee,g,h as _,j as v,n as y,t as te,u as b,v as ne,w as re,x as ie}from"./akunDemo-DB1jgtzT.js";import{i as ae}from"./navigasi-Bz9yd0M4.js";import"./labelBox-D4RhXJPa.js";import{a as oe,i as x,n as se,r as S}from"./waktu-C4m2AE7w.js";import{r as ce}from"./urutanWaktu-DGE5u7oa.js";function le(e){let t=e.filter(e=>e.selesai>e.mulai).map(e=>({mulai:e.mulai,selesai:e.selesai})).sort((e,t)=>e.mulai-t.mulai),n=[];for(let e of t){let t=n[n.length-1];t&&e.mulai<=t.selesai?t.selesai=Math.max(t.selesai,e.selesai):n.push(e)}return n}function ue(e,t){let n=le(t.map(e=>({mulai:e.startElapsed,selesai:e.endElapsed}))),r=0;for(let t of le(e)){let e=t.selesai-t.mulai;for(let r of n)e-=Math.max(0,Math.min(t.selesai,r.selesai)-Math.max(t.mulai,r.mulai));r+=Math.max(0,e)}return r}var de=e=>Math.round(e*1e4)/1e4;function fe({menitKerja:e,menitBerhenti:t,output:n,liveTarget:r,unitOk:i,unitNg:a}){let o=e>0?Math.min(1,Math.max(0,(e-t)/e)):null,s=o==null?0:r*o,c=s>0?n/s:null,l=c==null?null:Math.min(1,c),u=i+a,d=u>0?i/u:null,f=o!=null&&l!=null&&d!=null?o*l*d:null,p=e=>e==null?null:de(e);return{availability:p(o),performance:p(l),performaMentah:p(c),quality:p(d),oee:p(f)}}var pe=s(),me=b.target,he={...b,dc_enabled:1},ge=_/60,C=[{code:`FT`,name:`Function Test`},{code:`FI1`,name:`Final Insp. 1`},{code:`FI2`,name:`Final Insp. 2`},{code:`FI3`,name:`Final Insp. 3`},{code:i,name:`DC Function Test`},{code:a,name:`DC Final Insp.`}],w=Object.fromEntries(C.map(({code:e})=>[e,e===`DCFT`||e===`DCFI`?re(e,pe,g):l(e,pe,g)])),T=Object.fromEntries(C.map(({code:e})=>[e,u(e,g)])),_e=m(g),ve=T.FI3.filter(e=>e.rework===`CLOSE`).map(e=>({waktu:_e.find(t=>t.station===`FI3`&&t.no_label===e.no_label)?.waktu??e.waktu})),ye=w.FI3.length+ve.length,be=C.flatMap(({code:e})=>T[e]),xe=6,Se=6,Ce=(e,t,n=0)=>{if(!(e>0))return 0;let r=Math.min(e+xe,xe+t);return Math.min(e,Math.max(0,r-n))},we=h.map(([e,t])=>({startElapsed:(e-_)/60,endElapsed:(t-_)/60})),Te=e=>we.reduce((t,n)=>e<=n.startElapsed?t:t+Math.min(e,n.endElapsed)-n.startElapsed,0),Ee=(()=>{let e=b.durasi?.match(/(\d+)\s*jam\s*(\d+)\s*menit/);if(e)return Number(e[1])*60+Number(e[2]);let t=b.durasi?.match(/(\d+)\s*menit/);return t?Number(t[1]):480})(),De=e=>{let[t,n,r=0]=e.split(`:`).map(Number);return t*3600+n*60+Number(r)},Oe=e=>(De(e)-_)/60,ke=()=>{let e=new Date,t=e.getHours()*3600+e.getMinutes()*60+e.getSeconds()-_;return t<0&&(t+=86400),t/60},Ae=()=>Math.min(ke(),Ee-10),je=()=>Math.min(ke(),Ee),Me=e=>ee>0?Math.floor((e-Te(e))*60/ee):0,Ne=e=>{let t=[];for(let n=1;n<=e;n+=1){let e=`${String(Math.floor((ge+n)/60)%24).padStart(2,`0`)}:${String((ge+n)%60).padStart(2,`0`)}`,r=w.FI3.filter(t=>t.waktu.slice(0,5)<=e).length+ve.filter(t=>t.waktu.slice(0,5)<=e).length,i=be.filter(t=>t.waktu.slice(0,5)<=e).length,a=Te(n);t.push({timeMin:n-a,liveTarget:Ce(me,Me(n),Se),output:r,totalNg:i})}return t},Pe=e=>{let t=[...w.FI3.map(e=>Oe(e.waktu)),...ve.map(e=>Oe(e.waktu))].sort((e,t)=>e-t),n=T.FI3.map(e=>Oe(e.waktu)).sort((e,t)=>e-t),r=new Set([...t,...n]);for(let t=1;t<=Math.floor(e);t+=1)r.add(t);let i=[...r].sort((e,t)=>e-t).filter(t=>t>0&&t<=e),a=0,o=0,s=0,c=0;return i.map(e=>{for(;a<t.length&&t[a]<=e;)s+=1,a+=1;for(;o<n.length&&n[o]<=e;)c+=1,o+=1;return{timeMin:e-Te(e),liveTarget:Ce(me,Me(e),Se),output:s,totalNg:c}})},Fe=e=>{let t=e.get(`skipChartHistory`)===`1`,n=e.get(`skipStationHistories`)===`1`,r=Ae();return{shift:{...he},stationsData:C.map(({code:e,name:t})=>({code:e,name:t,ok:w[e].length,ng:T[e].length,ngData:[...T[e]].reverse().map(e=>({noLabel:e.no_label,partNumber:e.part_number,tanggal:e.tanggal,group:e.group_name,kategori:e.kategori,jenis:e.jenis,keterangan:e.keterangan,waktu:e.waktu,rework:e.rework}))})),outputFI3:ye,unitNg:be.length,unitOk:w.FI3.length,outputPacking:pe.Packing,liveTarget:Ce(me,Me(r),Se),chartHistory:t?[]:Ne(je()),stationChartHistories:n?{FI3:[]}:{FI3:Pe(je())}}},Ie=[{id:534,line:1,tanggal:`2026-07-06`,shift:`Shift 1`,part_number:`BJM-H2590-00`,group_name:`Group B`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:602,line:1,tanggal:`2026-07-06`,shift:`Shift 2`,part_number:`BJM-H2590-00`,group_name:`Group J`,target:300,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:538,line:2,tanggal:`2026-07-06`,shift:`Shift 1`,part_number:`BSS-H2590-00`,group_name:`Group C`,target:260,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:607,line:2,tanggal:`2026-07-06`,shift:`Shift 2`,part_number:`BSS-H2590-00`,group_name:`Group K`,target:260,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:542,line:3,tanggal:`2026-07-06`,shift:`Shift 1`,part_number:`BBP-H2590-21`,group_name:`Group D`,target:320,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:612,line:3,tanggal:`2026-07-06`,shift:`Shift 2`,part_number:`BBP-H2590-21`,group_name:`Group L`,target:320,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:546,line:4,tanggal:`2026-07-06`,shift:`Shift 1`,part_number:`BPN-H2590-60`,group_name:`Group E`,target:280,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:617,line:4,tanggal:`2026-07-06`,shift:`Shift 2`,part_number:`BPN-H2590-60`,group_name:`Group M`,target:280,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:550,line:6,tanggal:`2026-07-06`,shift:`Shift 1`,part_number:`BUG-H2590-00`,group_name:`Group F`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:622,line:6,tanggal:`2026-07-06`,shift:`Shift 2`,part_number:`BUG-H2590-00`,group_name:`Group N`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:554,line:7,tanggal:`2026-07-06`,shift:`Shift 1`,part_number:`BKV-H2590-10`,group_name:`Group G`,target:240,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:627,line:7,tanggal:`2026-07-06`,shift:`Shift 2`,part_number:`BKV-H2590-10`,group_name:`Group O`,target:240,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:529,line:8,tanggal:`2026-07-06`,shift:`Shift 1`,part_number:`BXY-H2590-00`,group_name:`Group A`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:632,line:8,tanggal:`2026-07-06`,shift:`Shift 2`,part_number:`BXY-H2590-00`,group_name:`Group P`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:558,line:9,tanggal:`2026-07-06`,shift:`Shift 1`,part_number:`D09-H2590-10`,group_name:`Group H`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:562,line:10,tanggal:`2026-07-06`,shift:`Shift 1`,part_number:`BPA-H2590-00`,group_name:`Group I`,target:290,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:535,line:1,tanggal:`2026-07-07`,shift:`Shift 1`,part_number:`BJM-H2590-00`,group_name:`Group B`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:603,line:1,tanggal:`2026-07-07`,shift:`Shift 2`,part_number:`BJM-H2590-00`,group_name:`Group J`,target:300,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:539,line:2,tanggal:`2026-07-07`,shift:`Shift 1`,part_number:`BSS-H2590-00`,group_name:`Group C`,target:260,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:608,line:2,tanggal:`2026-07-07`,shift:`Shift 2`,part_number:`BSS-H2590-00`,group_name:`Group K`,target:260,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:543,line:3,tanggal:`2026-07-07`,shift:`Shift 1`,part_number:`BBP-H2590-21`,group_name:`Group D`,target:320,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:613,line:3,tanggal:`2026-07-07`,shift:`Shift 2`,part_number:`BBP-H2590-21`,group_name:`Group L`,target:320,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:547,line:4,tanggal:`2026-07-07`,shift:`Shift 1`,part_number:`BPN-H2590-60`,group_name:`Group E`,target:280,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:618,line:4,tanggal:`2026-07-07`,shift:`Shift 2`,part_number:`BPN-H2590-60`,group_name:`Group M`,target:280,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:551,line:6,tanggal:`2026-07-07`,shift:`Shift 1`,part_number:`BUG-H2590-00`,group_name:`Group F`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:623,line:6,tanggal:`2026-07-07`,shift:`Shift 2`,part_number:`BUG-H2590-00`,group_name:`Group N`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:555,line:7,tanggal:`2026-07-07`,shift:`Shift 1`,part_number:`BKV-H2590-10`,group_name:`Group G`,target:240,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:628,line:7,tanggal:`2026-07-07`,shift:`Shift 2`,part_number:`BKV-H2590-10`,group_name:`Group O`,target:240,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:530,line:8,tanggal:`2026-07-07`,shift:`Shift 1`,part_number:`BXY-H2590-00`,group_name:`Group A`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:633,line:8,tanggal:`2026-07-07`,shift:`Shift 2`,part_number:`BXY-H2590-00`,group_name:`Group P`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:559,line:9,tanggal:`2026-07-07`,shift:`Shift 1`,part_number:`D09-H2590-10`,group_name:`Group H`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:563,line:10,tanggal:`2026-07-07`,shift:`Shift 1`,part_number:`BPA-H2590-00`,group_name:`Group I`,target:290,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:536,line:1,tanggal:`2026-07-08`,shift:`Shift 1`,part_number:`BJM-H2590-00`,group_name:`Group B`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:604,line:1,tanggal:`2026-07-08`,shift:`Shift 2`,part_number:`BJM-H2590-00`,group_name:`Group J`,target:300,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:540,line:2,tanggal:`2026-07-08`,shift:`Shift 1`,part_number:`BSS-H2590-00`,group_name:`Group C`,target:260,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:609,line:2,tanggal:`2026-07-08`,shift:`Shift 2`,part_number:`BSS-H2590-00`,group_name:`Group K`,target:260,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:544,line:3,tanggal:`2026-07-08`,shift:`Shift 1`,part_number:`BBP-H2590-21`,group_name:`Group D`,target:320,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:614,line:3,tanggal:`2026-07-08`,shift:`Shift 2`,part_number:`BBP-H2590-21`,group_name:`Group L`,target:320,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:548,line:4,tanggal:`2026-07-08`,shift:`Shift 1`,part_number:`BPN-H2590-60`,group_name:`Group E`,target:280,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:619,line:4,tanggal:`2026-07-08`,shift:`Shift 2`,part_number:`BPN-H2590-60`,group_name:`Group M`,target:280,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:552,line:6,tanggal:`2026-07-08`,shift:`Shift 1`,part_number:`BUG-H2590-00`,group_name:`Group F`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:624,line:6,tanggal:`2026-07-08`,shift:`Shift 2`,part_number:`BUG-H2590-00`,group_name:`Group N`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:556,line:7,tanggal:`2026-07-08`,shift:`Shift 1`,part_number:`BKV-H2590-10`,group_name:`Group G`,target:240,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:629,line:7,tanggal:`2026-07-08`,shift:`Shift 2`,part_number:`BKV-H2590-10`,group_name:`Group O`,target:240,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:531,line:8,tanggal:`2026-07-08`,shift:`Shift 1`,part_number:`BXY-H2590-00`,group_name:`Group A`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:634,line:8,tanggal:`2026-07-08`,shift:`Shift 2`,part_number:`BXY-H2590-00`,group_name:`Group P`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:560,line:9,tanggal:`2026-07-08`,shift:`Shift 1`,part_number:`D09-H2590-10`,group_name:`Group H`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:564,line:10,tanggal:`2026-07-08`,shift:`Shift 1`,part_number:`BPA-H2590-00`,group_name:`Group I`,target:290,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:537,line:1,tanggal:`2026-07-09`,shift:`Shift 1`,part_number:`BJM-H2590-00`,group_name:`Group B`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:605,line:1,tanggal:`2026-07-09`,shift:`Shift 2`,part_number:`BJM-H2590-00`,group_name:`Group J`,target:300,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:541,line:2,tanggal:`2026-07-09`,shift:`Shift 1`,part_number:`BSS-H2590-00`,group_name:`Group C`,target:260,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:610,line:2,tanggal:`2026-07-09`,shift:`Shift 2`,part_number:`BSS-H2590-00`,group_name:`Group K`,target:260,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:545,line:3,tanggal:`2026-07-09`,shift:`Shift 1`,part_number:`BBP-H2590-21`,group_name:`Group D`,target:320,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:615,line:3,tanggal:`2026-07-09`,shift:`Shift 2`,part_number:`BBP-H2590-21`,group_name:`Group L`,target:320,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:549,line:4,tanggal:`2026-07-09`,shift:`Shift 1`,part_number:`BPN-H2590-60`,group_name:`Group E`,target:280,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:620,line:4,tanggal:`2026-07-09`,shift:`Shift 2`,part_number:`BPN-H2590-60`,group_name:`Group M`,target:280,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:553,line:6,tanggal:`2026-07-09`,shift:`Shift 1`,part_number:`BUG-H2590-00`,group_name:`Group F`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:625,line:6,tanggal:`2026-07-09`,shift:`Shift 2`,part_number:`BUG-H2590-00`,group_name:`Group N`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:557,line:7,tanggal:`2026-07-09`,shift:`Shift 1`,part_number:`BKV-H2590-10`,group_name:`Group G`,target:240,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:630,line:7,tanggal:`2026-07-09`,shift:`Shift 2`,part_number:`BKV-H2590-10`,group_name:`Group O`,target:240,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:532,line:8,tanggal:`2026-07-09`,shift:`Shift 1`,part_number:`BXY-H2590-00`,group_name:`Group A`,target:340,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:635,line:8,tanggal:`2026-07-09`,shift:`Shift 2`,part_number:`BXY-H2590-00`,group_name:`Group P`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:561,line:9,tanggal:`2026-07-09`,shift:`Shift 1`,part_number:`D09-H2590-10`,group_name:`Group H`,target:300,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:565,line:10,tanggal:`2026-07-09`,shift:`Shift 1`,part_number:`BPA-H2590-00`,group_name:`Group I`,target:290,waktu_mulai:`07:40`,waktu_akhir:`16:25`,durasi:`8 jam 45 menit`,hari:`Senin-Kamis`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:522,line:1,tanggal:`2026-07-10`,shift:`Shift 1`,part_number:`BJM-H2590-00`,group_name:`Group B`,target:300,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:606,line:1,tanggal:`2026-07-10`,shift:`Shift 2`,part_number:`BJM-H2590-00`,group_name:`Group J`,target:300,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:523,line:2,tanggal:`2026-07-10`,shift:`Shift 1`,part_number:`BSS-H2590-00`,group_name:`Group C`,target:260,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:611,line:2,tanggal:`2026-07-10`,shift:`Shift 2`,part_number:`BSS-H2590-00`,group_name:`Group K`,target:260,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:524,line:3,tanggal:`2026-07-10`,shift:`Shift 1`,part_number:`BBP-H2590-21`,group_name:`Group D`,target:320,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:616,line:3,tanggal:`2026-07-10`,shift:`Shift 2`,part_number:`BBP-H2590-21`,group_name:`Group L`,target:320,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:525,line:4,tanggal:`2026-07-10`,shift:`Shift 1`,part_number:`BPN-H2590-60`,group_name:`Group E`,target:280,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:621,line:4,tanggal:`2026-07-10`,shift:`Shift 2`,part_number:`BPN-H2590-60`,group_name:`Group M`,target:280,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:526,line:6,tanggal:`2026-07-10`,shift:`Shift 1`,part_number:`BUG-H2590-00`,group_name:`Group F`,target:340,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:626,line:6,tanggal:`2026-07-10`,shift:`Shift 2`,part_number:`BUG-H2590-00`,group_name:`Group N`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:527,line:7,tanggal:`2026-07-10`,shift:`Shift 1`,part_number:`BKV-H2590-10`,group_name:`Group G`,target:240,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:631,line:7,tanggal:`2026-07-10`,shift:`Shift 2`,part_number:`BKV-H2590-10`,group_name:`Group O`,target:240,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:636,line:8,tanggal:`2026-07-10`,shift:`Shift 2`,part_number:`BXY-H2590-00`,group_name:`Group P`,target:340,waktu_mulai:`20:00`,waktu_akhir:`05:00`,durasi:`9 jam 0 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:528,line:9,tanggal:`2026-07-10`,shift:`Shift 1`,part_number:`D09-H2590-10`,group_name:`Group H`,target:300,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0},{id:566,line:10,tanggal:`2026-07-10`,shift:`Shift 1`,part_number:`BPA-H2590-00`,group_name:`Group I`,target:290,waktu_mulai:`07:35`,waktu_akhir:`16:40`,durasi:`9 jam 5 menit`,hari:`Jum'at`,fase_bulan:`Normal`,break_time:null,part_number_2:null,target_2:null,part_number_3:null,target_3:null,part_number_4:null,target_4:null,extratime_seconds:null,nama_leader:`RIZAL`,revisi_log:null,induk_shift_id:null,dc_enabled:0,dc_2:0,dc_3:0,dc_4:0}],Le={OK:{534:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -1461,7 +1461,7 @@ Packing|0296|16:04|59||
 Packing|0297|16:06|59||
 Packing|0298|16:07|60||
 Packing|0299|16:09|60||
-Packing|0300|16:10|60||`,162:`FT|0001|20:00|||
+Packing|0300|16:10|60||`,602:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:03|||
 FT|0004|20:05|||
@@ -2918,7 +2918,7 @@ Packing|0296|04:39|59||
 Packing|0297|04:40|60||
 Packing|0298|04:42|60||
 Packing|0299|04:43|60||
-Packing|0300|04:45|60||`,163:`FT|0001|07:40|||
+Packing|0300|04:45|60||`,538:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:43|||
 FT|0004|07:45|||
@@ -4183,7 +4183,7 @@ Packing|0256|16:03|52||
 Packing|0257|16:05|52||
 Packing|0258|16:07|52||
 Packing|0259|16:08|52||
-Packing|0260|16:10|52||`,164:`FT|0001|20:00|||
+Packing|0260|16:10|52||`,607:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:04|||
 FT|0004|20:05|||
@@ -5450,7 +5450,7 @@ Packing|0256|04:38|51||
 Packing|0257|04:40|51||
 Packing|0258|04:41|52||
 Packing|0259|04:43|52||
-Packing|0260|04:45|52||`,165:`FT|0001|07:40|||
+Packing|0260|04:45|52||`,542:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -7019,7 +7019,7 @@ Packing|0316|16:04|63||
 Packing|0317|16:06|64||
 Packing|0318|16:07|64||
 Packing|0319|16:09|64||
-Packing|0320|16:10|64||`,166:`FT|0001|20:00|||
+Packing|0320|16:10|64||`,612:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -8590,7 +8590,7 @@ Packing|0316|04:39|63||
 Packing|0317|04:41|64||
 Packing|0318|04:42|64||
 Packing|0319|04:44|64||
-Packing|0320|04:45|64||`,167:`FT|0002|07:42|||
+Packing|0320|04:45|64||`,546:`FT|0002|07:42|||
 FT|0003|07:43|||
 FT|0004|07:45|||
 FT|0005|07:46|||
@@ -9945,7 +9945,7 @@ Packing|0276|16:04|55||
 Packing|0277|16:05|55||
 Packing|0278|16:07|56||
 Packing|0279|16:08|56||
-Packing|0280|16:10|56||`,168:`FT|0001|20:00|||
+Packing|0280|16:10|56||`,617:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:03|||
 FT|0004|20:05|||
@@ -11315,7 +11315,7 @@ Packing|0276|04:38|55||
 Packing|0277|04:40|56||
 Packing|0278|04:42|56||
 Packing|0279|04:43|56||
-Packing|0280|04:45|56||`,169:`FT|0001|07:40|||
+Packing|0280|04:45|56||`,550:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -12978,7 +12978,7 @@ Packing|0336|16:05|67||
 Packing|0337|16:06|67||
 Packing|0338|16:07|68||
 Packing|0339|16:09|68||
-Packing|0340|16:10|68||`,170:`FT|0001|20:00|||
+Packing|0340|16:10|68||`,622:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -14638,7 +14638,7 @@ Packing|0336|04:40|67||
 Packing|0337|04:41|67||
 Packing|0338|04:42|68||
 Packing|0339|04:44|68||
-Packing|0340|04:45|68||`,171:`FT|0001|07:40|||
+Packing|0340|04:45|68||`,554:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:44|||
 FT|0004|07:46|||
@@ -15805,7 +15805,7 @@ Packing|0235|16:03|47||
 Packing|0236|16:04|47||
 Packing|0237|16:06|48||
 Packing|0239|16:08|48||
-Packing|0240|16:10|48||`,172:`FT|0001|20:00|||
+Packing|0240|16:10|48||`,627:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:04|||
 FT|0004|20:06|||
@@ -16973,7 +16973,7 @@ Packing|0236|04:37|47||
 Packing|0237|04:39|48||
 Packing|0238|04:41|48||
 Packing|0239|04:43|48||
-Packing|0240|04:45|48||`,173:`FT|0001|07:40|||
+Packing|0240|04:45|48||`,529:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -18630,7 +18630,7 @@ Packing|0336|16:05|67||
 Packing|0337|16:06|67||
 Packing|0338|16:07|68||
 Packing|0339|16:09|68||
-Packing|0340|16:10|68||`,174:`FT|0001|20:00|||
+Packing|0340|16:10|68||`,632:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -20288,7 +20288,7 @@ Packing|0336|04:40|68||
 Packing|0337|04:41|68||
 Packing|0338|04:42|68||
 Packing|0339|04:44|68||
-Packing|0340|04:45|68||`,175:`FT|0001|07:40|||
+Packing|0340|04:45|68||`,558:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -21747,7 +21747,7 @@ Packing|0296|16:04|59||
 Packing|0297|16:06|59||
 Packing|0298|16:07|60||
 Packing|0299|16:09|60||
-Packing|0300|16:10|60||`,176:`FT|0001|07:40|||
+Packing|0300|16:10|60||`,562:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:43|||
 FT|0004|07:45|||
@@ -23150,7 +23150,7 @@ Packing|0286|16:04|57||
 Packing|0287|16:05|58||
 Packing|0288|16:07|58||
 Packing|0289|16:08|58||
-Packing|0290|16:10|58||`,177:`FT|0001|07:40|||
+Packing|0290|16:10|58||`,535:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -24605,7 +24605,7 @@ Packing|0296|16:04|59||
 Packing|0297|16:06|60||
 Packing|0298|16:07|60||
 Packing|0299|16:09|60||
-Packing|0300|16:10|60||`,178:`FT|0001|20:00|||
+Packing|0300|16:10|60||`,603:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:03|||
 FT|0004|20:05|||
@@ -26067,7 +26067,7 @@ Packing|0296|04:39|59||
 Packing|0297|04:40|60||
 Packing|0298|04:42|60||
 Packing|0299|04:43|60||
-Packing|0300|04:45|60||`,179:`FT|0001|07:40|||
+Packing|0300|04:45|60||`,539:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:43|||
 FT|0004|07:45|||
@@ -27329,7 +27329,7 @@ Packing|0256|16:03|51||
 Packing|0257|16:05|52||
 Packing|0258|16:07|52||
 Packing|0259|16:08|52||
-Packing|0260|16:10|52||`,180:`FT|0001|20:00|||
+Packing|0260|16:10|52||`,608:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:04|||
 FT|0004|20:05|||
@@ -28594,7 +28594,7 @@ Packing|0256|04:38|52||
 Packing|0257|04:40|52||
 Packing|0258|04:41|52||
 Packing|0259|04:43|52||
-Packing|0260|04:45|52||`,181:`FT|0001|07:40|||
+Packing|0260|04:45|52||`,543:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -30146,7 +30146,7 @@ Packing|0316|16:04|63||
 Packing|0317|16:06|63||
 Packing|0318|16:07|64||
 Packing|0319|16:09|64||
-Packing|0320|16:10|64||`,182:`FT|0001|20:00|||
+Packing|0320|16:10|64||`,613:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -31710,7 +31710,7 @@ Packing|0316|04:39|63||
 Packing|0317|04:41|63||
 Packing|0318|04:42|64||
 Packing|0319|04:44|64||
-Packing|0320|04:45|64||`,183:`FT|0002|07:42|||
+Packing|0320|04:45|64||`,547:`FT|0002|07:42|||
 FT|0003|07:43|||
 FT|0004|07:45|||
 FT|0005|07:46|||
@@ -33063,7 +33063,7 @@ Packing|0276|16:04|55||
 Packing|0277|16:05|55||
 Packing|0278|16:07|56||
 Packing|0279|16:08|56||
-Packing|0280|16:10|56||`,184:`FT|0001|20:00|||
+Packing|0280|16:10|56||`,618:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:03|||
 FT|0004|20:05|||
@@ -34424,7 +34424,7 @@ Packing|0276|04:38|55||
 Packing|0277|04:40|56||
 Packing|0278|04:42|56||
 Packing|0279|04:43|56||
-Packing|0280|04:45|56||`,185:`FT|0001|07:40|||
+Packing|0280|04:45|56||`,551:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -36092,7 +36092,7 @@ Packing|0336|16:05|67||
 Packing|0337|16:06|67||
 Packing|0338|16:07|68||
 Packing|0339|16:09|68||
-Packing|0340|16:10|68||`,186:`FT|0001|20:00|||
+Packing|0340|16:10|68||`,623:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -37757,7 +37757,7 @@ Packing|0336|04:40|67||
 Packing|0337|04:41|68||
 Packing|0338|04:42|68||
 Packing|0339|04:44|68||
-Packing|0340|04:45|68||`,187:`FT|0001|07:40|||
+Packing|0340|04:45|68||`,555:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:44|||
 FT|0004|07:46|||
@@ -38917,7 +38917,7 @@ Packing|0236|16:03|47||
 Packing|0237|16:04|47||
 Packing|0238|16:06|48||
 Packing|0239|16:08|48||
-Packing|0240|16:10|48||`,188:`FT|0001|20:00|||
+Packing|0240|16:10|48||`,628:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:04|||
 FT|0004|20:06|||
@@ -40079,7 +40079,7 @@ Packing|0236|04:37|47||
 Packing|0237|04:39|48||
 Packing|0238|04:41|48||
 Packing|0239|04:43|48||
-Packing|0240|04:45|48||`,189:`FT|0001|07:40|||
+Packing|0240|04:45|48||`,530:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -41732,7 +41732,7 @@ Packing|0336|16:05|67||
 Packing|0337|16:06|67||
 Packing|0338|16:07|68||
 Packing|0339|16:09|68||
-Packing|0340|16:10|68||`,190:`FT|0001|20:00|||
+Packing|0340|16:10|68||`,633:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -43400,7 +43400,7 @@ Packing|0336|04:40|67||
 Packing|0337|04:41|68||
 Packing|0338|04:42|68||
 Packing|0339|04:44|68||
-Packing|0340|04:45|68||`,191:`FT|0001|07:40|||
+Packing|0340|04:45|68||`,559:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -44859,7 +44859,7 @@ Packing|0296|16:04|60||
 Packing|0297|16:06|60||
 Packing|0298|16:07|60||
 Packing|0299|16:09|60||
-Packing|0300|16:10|60||`,192:`FT|0001|07:40|||
+Packing|0300|16:10|60||`,563:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:43|||
 FT|0004|07:45|||
@@ -46260,7 +46260,7 @@ Packing|0286|16:04|57||
 Packing|0287|16:05|57||
 Packing|0288|16:07|58||
 Packing|0289|16:08|58||
-Packing|0290|16:10|58||`,193:`FT|0001|07:40|||
+Packing|0290|16:10|58||`,536:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -47730,7 +47730,7 @@ Packing|0296|16:04|59||
 Packing|0297|16:06|60||
 Packing|0298|16:07|60||
 Packing|0299|16:09|60||
-Packing|0300|16:10|60||`,194:`FT|0001|20:00|||
+Packing|0300|16:10|60||`,604:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:03|||
 FT|0004|20:05|||
@@ -49183,7 +49183,7 @@ Packing|0296|04:39|59||
 Packing|0297|04:40|59||
 Packing|0298|04:42|60||
 Packing|0299|04:43|60||
-Packing|0300|04:45|60||`,195:`FT|0001|07:40|||
+Packing|0300|04:45|60||`,540:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:43|||
 FT|0004|07:45|||
@@ -50445,7 +50445,7 @@ Packing|0256|16:03|51||
 Packing|0257|16:05|52||
 Packing|0258|16:07|52||
 Packing|0259|16:08|52||
-Packing|0260|16:10|52||`,196:`FT|0001|20:00|||
+Packing|0260|16:10|52||`,609:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:04|||
 FT|0004|20:05|||
@@ -51709,7 +51709,7 @@ Packing|0256|04:38|52||
 Packing|0257|04:40|52||
 Packing|0258|04:41|52||
 Packing|0259|04:43|52||
-Packing|0260|04:45|52||`,197:`FT|0001|07:40|||
+Packing|0260|04:45|52||`,544:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -53269,7 +53269,7 @@ Packing|0316|16:04|63||
 Packing|0317|16:06|64||
 Packing|0318|16:07|64||
 Packing|0319|16:09|64||
-Packing|0320|16:10|64||`,198:`FT|0001|20:00|||
+Packing|0320|16:10|64||`,614:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -54830,7 +54830,7 @@ Packing|0316|04:39|63||
 Packing|0317|04:41|63||
 Packing|0318|04:42|64||
 Packing|0319|04:44|64||
-Packing|0320|04:45|64||`,199:`FT|0001|07:40|||
+Packing|0320|04:45|64||`,548:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:43|||
 FT|0004|07:45|||
@@ -56191,7 +56191,7 @@ Packing|0276|16:04|55||
 Packing|0277|16:05|56||
 Packing|0278|16:07|56||
 Packing|0279|16:08|56||
-Packing|0280|16:10|56||`,200:`FT|0001|20:00|||
+Packing|0280|16:10|56||`,619:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:03|||
 FT|0004|20:05|||
@@ -57552,7 +57552,7 @@ Packing|0276|04:38|56||
 Packing|0277|04:40|56||
 Packing|0278|04:42|56||
 Packing|0279|04:43|56||
-Packing|0280|04:45|56||`,201:`FT|0001|07:40|||
+Packing|0280|04:45|56||`,552:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -59223,7 +59223,7 @@ Packing|0336|16:05|68||
 Packing|0337|16:06|68||
 Packing|0338|16:07|68||
 Packing|0339|16:09|68||
-Packing|0340|16:10|68||`,202:`FT|0001|20:00|||
+Packing|0340|16:10|68||`,624:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -60891,7 +60891,7 @@ Packing|0336|04:40|67||
 Packing|0337|04:41|68||
 Packing|0338|04:42|68||
 Packing|0339|04:44|68||
-Packing|0340|04:45|68||`,203:`FT|0001|07:40|||
+Packing|0340|04:45|68||`,556:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:44|||
 FT|0004|07:46|||
@@ -62053,7 +62053,7 @@ Packing|0236|16:03|48||
 Packing|0237|16:04|48||
 Packing|0238|16:06|48||
 Packing|0239|16:08|48||
-Packing|0240|16:10|48||`,204:`FT|0001|20:00|||
+Packing|0240|16:10|48||`,629:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:04|||
 FT|0004|20:06|||
@@ -63210,7 +63210,7 @@ Packing|0236|04:37|47||
 Packing|0237|04:39|48||
 Packing|0238|04:41|48||
 Packing|0239|04:43|48||
-Packing|0240|04:45|48||`,205:`FT|0001|07:40|||
+Packing|0240|04:45|48||`,531:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -64880,7 +64880,7 @@ Packing|0336|16:05|68||
 Packing|0337|16:06|68||
 Packing|0338|16:07|68||
 Packing|0339|16:09|68||
-Packing|0340|16:10|68||`,206:`FT|0001|20:00|||
+Packing|0340|16:10|68||`,634:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -66544,7 +66544,7 @@ Packing|0336|04:40|67||
 Packing|0337|04:41|68||
 Packing|0338|04:42|68||
 Packing|0339|04:44|68||
-Packing|0340|04:45|68||`,207:`FT|0001|07:40|||
+Packing|0340|04:45|68||`,560:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -68002,7 +68002,7 @@ Packing|0296|16:04|59||
 Packing|0297|16:06|60||
 Packing|0298|16:07|60||
 Packing|0299|16:09|60||
-Packing|0300|16:10|60||`,208:`FT|0001|07:40|||
+Packing|0300|16:10|60||`,564:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:43|||
 FT|0004|07:45|||
@@ -69404,7 +69404,7 @@ Packing|0286|16:04|57||
 Packing|0287|16:05|57||
 Packing|0288|16:07|58||
 Packing|0289|16:08|58||
-Packing|0290|16:10|58||`,209:`FT|0001|07:40|||
+Packing|0290|16:10|58||`,537:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -70872,7 +70872,7 @@ Packing|0296|16:04|60||
 Packing|0297|16:06|60||
 Packing|0298|16:07|60||
 Packing|0299|16:09|60||
-Packing|0300|16:10|60||`,210:`FT|0001|20:00|||
+Packing|0300|16:10|60||`,605:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:03|||
 FT|0004|20:05|||
@@ -72330,7 +72330,7 @@ Packing|0296|04:39|59||
 Packing|0297|04:40|59||
 Packing|0298|04:42|60||
 Packing|0299|04:43|60||
-Packing|0300|04:45|60||`,211:`FT|0001|07:40|||
+Packing|0300|04:45|60||`,541:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:43|||
 FT|0004|07:45|||
@@ -73591,7 +73591,7 @@ Packing|0256|16:03|51||
 Packing|0257|16:05|51||
 Packing|0258|16:07|52||
 Packing|0259|16:08|52||
-Packing|0260|16:10|52||`,212:`FT|0001|20:00|||
+Packing|0260|16:10|52||`,610:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:04|||
 FT|0004|20:05|||
@@ -74846,7 +74846,7 @@ Packing|0256|04:38|51||
 Packing|0257|04:40|52||
 Packing|0258|04:41|52||
 Packing|0259|04:43|52||
-Packing|0260|04:45|52||`,213:`FT|0001|07:40|||
+Packing|0260|04:45|52||`,545:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -76412,7 +76412,7 @@ Packing|0316|16:04|64||
 Packing|0317|16:06|64||
 Packing|0318|16:07|64||
 Packing|0319|16:09|64||
-Packing|0320|16:10|64||`,214:`FT|0001|20:00|||
+Packing|0320|16:10|64||`,615:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -77982,7 +77982,7 @@ Packing|0316|04:39|63||
 Packing|0317|04:41|64||
 Packing|0318|04:42|64||
 Packing|0319|04:44|64||
-Packing|0320|04:45|64||`,215:`FT|0001|07:40|||
+Packing|0320|04:45|64||`,549:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:43|||
 FT|0004|07:45|||
@@ -79346,7 +79346,7 @@ Packing|0276|16:04|56||
 Packing|0277|16:05|56||
 Packing|0278|16:07|56||
 Packing|0279|16:08|56||
-Packing|0280|16:10|56||`,216:`FT|0001|20:00|||
+Packing|0280|16:10|56||`,620:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:03|||
 FT|0004|20:05|||
@@ -80711,7 +80711,7 @@ Packing|0276|04:38|56||
 Packing|0277|04:40|56||
 Packing|0278|04:42|56||
 Packing|0279|04:43|56||
-Packing|0280|04:45|56||`,217:`FT|0001|07:40|||
+Packing|0280|04:45|56||`,553:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -82375,7 +82375,7 @@ Packing|0336|16:05|68||
 Packing|0337|16:06|68||
 Packing|0338|16:07|68||
 Packing|0339|16:09|68||
-Packing|0340|16:10|68||`,218:`FT|0001|20:00|||
+Packing|0340|16:10|68||`,625:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -84042,7 +84042,7 @@ Packing|0336|04:40|68||
 Packing|0337|04:41|68||
 Packing|0338|04:42|68||
 Packing|0339|04:44|68||
-Packing|0340|04:45|68||`,219:`FT|0001|07:40|||
+Packing|0340|04:45|68||`,557:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:44|||
 FT|0004|07:46|||
@@ -85205,7 +85205,7 @@ Packing|0236|16:03|48||
 Packing|0237|16:04|48||
 Packing|0238|16:06|48||
 Packing|0239|16:08|48||
-Packing|0240|16:10|48||`,220:`FT|0001|20:00|||
+Packing|0240|16:10|48||`,630:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:04|||
 FT|0004|20:06|||
@@ -86369,7 +86369,7 @@ Packing|0236|04:37|48||
 Packing|0237|04:39|48||
 Packing|0238|04:41|48||
 Packing|0239|04:43|48||
-Packing|0240|04:45|48||`,221:`FT|0001|07:40|||
+Packing|0240|04:45|48||`,532:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0003|07:43|||
 FT|0004|07:44|||
@@ -88031,7 +88031,7 @@ Packing|0336|16:05|67||
 Packing|0337|16:06|68||
 Packing|0338|16:07|68||
 Packing|0339|16:09|68||
-Packing|0340|16:10|68||`,222:`FT|0001|20:00|||
+Packing|0340|16:10|68||`,635:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -89691,7 +89691,7 @@ Packing|0336|04:40|68||
 Packing|0337|04:41|68||
 Packing|0338|04:42|68||
 Packing|0339|04:44|68||
-Packing|0340|04:45|68||`,223:`FT|0001|07:40|||
+Packing|0340|04:45|68||`,561:`FT|0001|07:40|||
 FT|0002|07:41|||
 FT|0004|07:44|||
 FT|0005|07:46|||
@@ -91152,7 +91152,7 @@ Packing|0296|16:04|59||
 Packing|0297|16:06|59||
 Packing|0298|16:07|60||
 Packing|0299|16:09|60||
-Packing|0300|16:10|60||`,224:`FT|0001|07:40|||
+Packing|0300|16:10|60||`,565:`FT|0001|07:40|||
 FT|0002|07:42|||
 FT|0003|07:43|||
 FT|0004|07:45|||
@@ -92559,7 +92559,7 @@ Packing|0286|16:04|58||
 Packing|0287|16:05|58||
 Packing|0288|16:07|58||
 Packing|0289|16:08|58||
-Packing|0290|16:10|58||`,225:`FT|0001|07:35|||
+Packing|0290|16:10|58||`,522:`FT|0001|07:35|||
 FT|0002|07:36|||
 FT|0003|07:38|||
 FT|0004|07:38|||
@@ -94030,7 +94030,7 @@ Packing|0335|15:57|67||
 Packing|0336|15:58|68||
 Packing|0337|16:00|68||
 Packing|0338|16:00|68||
-Packing|0339|16:02|68||`,226:`FT|0001|20:00|||
+Packing|0339|16:02|68||`,606:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:03|||
 FT|0004|20:05|||
@@ -95500,7 +95500,7 @@ Packing|0296|04:39|60||
 Packing|0297|04:40|60||
 Packing|0298|04:42|60||
 Packing|0299|04:43|60||
-Packing|0300|04:45|60||`,227:`FT|0001|07:35|||
+Packing|0300|04:45|60||`,523:`FT|0001|07:35|||
 FT|0002|07:36|||
 FT|0003|07:38|||
 FT|0004|07:38|||
@@ -96774,7 +96774,7 @@ Packing|0334|15:55|67||
 Packing|0335|15:57|67||
 Packing|0336|15:58|68||
 Packing|0338|16:00|68||
-Packing|0339|16:02|68||`,228:`FT|0001|20:00|||
+Packing|0339|16:02|68||`,611:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:04|||
 FT|0004|20:05|||
@@ -98031,7 +98031,7 @@ Packing|0256|04:38|51||
 Packing|0257|04:40|51||
 Packing|0258|04:41|52||
 Packing|0259|04:43|52||
-Packing|0260|04:45|52||`,229:`FT|0001|07:35|||
+Packing|0260|04:45|52||`,524:`FT|0001|07:35|||
 FT|0002|07:36|||
 FT|0003|07:38|||
 FT|0004|07:38|||
@@ -99602,7 +99602,7 @@ Packing|0335|15:57|67||
 Packing|0336|15:58|68||
 Packing|0337|16:00|68||
 Packing|0338|16:00|68||
-Packing|0339|16:02|68||`,230:`FT|0001|20:00|||
+Packing|0339|16:02|68||`,616:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -101176,7 +101176,7 @@ Packing|0316|04:39|64||
 Packing|0317|04:41|64||
 Packing|0318|04:42|64||
 Packing|0319|04:44|64||
-Packing|0320|04:45|64||`,231:`FT|0001|07:35|||
+Packing|0320|04:45|64||`,525:`FT|0001|07:35|||
 FT|0002|07:36|||
 FT|0003|07:38|||
 FT|0004|07:38|||
@@ -102549,7 +102549,7 @@ Packing|0334|15:55|67||
 Packing|0335|15:57|67||
 Packing|0337|16:00|68||
 Packing|0338|16:00|68||
-Packing|0339|16:02|68||`,232:`FT|0001|20:00|||
+Packing|0339|16:02|68||`,621:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:03|||
 FT|0004|20:05|||
@@ -103905,7 +103905,7 @@ Packing|0276|04:38|55||
 Packing|0277|04:40|55||
 Packing|0278|04:42|56||
 Packing|0279|04:43|56||
-Packing|0280|04:45|56||`,233:`FT|0001|07:35|||
+Packing|0280|04:45|56||`,526:`FT|0001|07:35|||
 FT|0002|07:36|||
 FT|0003|07:38|||
 FT|0004|07:38|||
@@ -105567,7 +105567,7 @@ Packing|0335|15:57|67||
 Packing|0336|15:58|68||
 Packing|0337|16:00|68||
 Packing|0338|16:00|68||
-Packing|0339|16:02|68||`,234:`FT|0001|20:00|||
+Packing|0339|16:02|68||`,626:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -107228,7 +107228,7 @@ Packing|0336|04:40|67||
 Packing|0337|04:41|68||
 Packing|0338|04:42|68||
 Packing|0339|04:44|68||
-Packing|0340|04:45|68||`,235:`FT|0001|07:35|||
+Packing|0340|04:45|68||`,527:`FT|0001|07:35|||
 FT|0002|07:36|||
 FT|0003|07:38|||
 FT|0005|07:40|||
@@ -108402,7 +108402,7 @@ Packing|0333|15:54|67||
 Packing|0335|15:57|67||
 Packing|0336|15:58|68||
 Packing|0338|16:00|68||
-Packing|0339|16:02|68||`,236:`FT|0001|20:00|||
+Packing|0339|16:02|68||`,631:`FT|0001|20:00|||
 FT|0002|20:02|||
 FT|0003|20:04|||
 FT|0004|20:06|||
@@ -109568,2336 +109568,7 @@ Packing|0236|04:37|47||
 Packing|0237|04:39|47||
 Packing|0238|04:41|48||
 Packing|0239|04:43|48||
-Packing|0240|04:45|48||`,237:`FT|0001|07:35|||
-FT|0002|07:36|||
-FT|0003|07:38|||
-FT|0004|07:39|||
-FT|0005|07:40|||
-FT|0006|07:41|||
-FT|0007|07:43|||
-FT|0008|07:44|||
-FT|0009|07:45|||
-FT|0010|07:46|||
-FT|0011|07:48|||
-FT|0012|07:49|||
-FT|0013|07:50|||
-FT|0014|07:52|||
-FT|0015|07:53|||
-FT|0016|07:54|||
-FT|0017|07:55|||
-FT|0018|07:57|||
-FT|0019|07:58|||
-FT|0020|07:59|||
-FT|0021|08:00|||
-FT|0022|08:02|||
-FT|0023|08:03|||
-FT|0024|08:04|||
-FT|0025|08:06|||
-FT|0026|08:07|||
-FT|0027|08:08|||
-FT|0028|08:09|||
-FT|0029|08:11|||
-FT|0030|08:12|||
-FT|0031|08:13|||
-FT|0032|08:15|||
-FT|0033|08:16|||
-FT|0034|08:17|||
-FT|0035|08:18|||
-FT|0036|08:20|||
-FT|0037|08:21|||
-FT|0038|08:22|||
-FT|0039|08:23|||
-FT|0040|08:25|||
-FT|0041|08:26|||
-FT|0042|08:27|||
-FT|0043|08:29|||
-FT|0044|08:30|||
-FT|0045|08:31|||
-FT|0046|08:32|||
-FT|0047|08:34|||
-FT|0048|08:35|||
-FT|0049|08:36|||
-FT|0050|08:37|||
-FT|0051|08:39|||
-FT|0052|08:40|||
-FT|0053|08:41|||
-FT|0054|08:43|||
-FT|0055|08:44|||
-FT|0056|08:45|||
-FT|0057|08:46|||
-FT|0058|08:48|||
-FT|0059|08:49|||
-FT|0060|08:50|||
-FT|0061|08:51|||
-FT|0062|08:53|||
-FT|0063|08:54|||
-FT|0064|08:55|||
-FT|0065|08:57|||
-FT|0066|08:58|||
-FT|0067|08:59|||
-FT|0068|09:00|||
-FT|0069|09:02|||
-FT|0070|09:03|||
-FT|0071|09:04|||
-FT|0072|09:05|||
-FT|0073|09:07|||
-FT|0074|09:08|||
-FT|0075|09:09|||
-FT|0076|09:11|||
-FT|0077|09:12|||
-FT|0078|09:13|||
-FT|0079|09:14|||
-FT|0080|09:16|||
-FT|0081|09:17|||
-FT|0082|09:18|||
-FT|0083|09:19|||
-FT|0084|09:21|||
-FT|0085|09:22|||
-FT|0086|09:23|||
-FT|0087|09:25|||
-FT|0088|09:26|||
-FT|0089|09:27|||
-FT|0090|09:28|||
-FT|0091|09:30|||
-FT|0092|09:31|||
-FT|0093|09:32|||
-FT|0094|09:34|||
-FT|0095|09:35|||
-FT|0096|09:36|||
-FT|0097|09:37|||
-FT|0098|09:39|||
-FT|0099|09:40|||
-FT|0100|09:41|||
-FT|0101|09:42|||
-FT|0102|09:44|||
-FT|0103|09:45|||
-FT|0104|09:46|||
-FT|0105|09:48|||
-FT|0106|09:49|||
-FT|0108|09:51|||
-FT|0109|09:53|||
-FT|0110|09:54|||
-FT|0111|09:55|||
-FT|0112|09:56|||
-FT|0113|09:58|||
-FT|0114|09:59|||
-FT|0115|10:15|||
-FT|0116|10:17|||
-FT|0117|10:18|||
-FT|0118|10:19|||
-FT|0119|10:20|||
-FT|0120|10:22|||
-FT|0121|10:23|||
-FT|0123|10:25|||
-FT|0124|10:27|||
-FT|0125|10:28|||
-FT|0126|10:29|||
-FT|0127|10:31|||
-FT|0128|10:32|||
-FT|0129|10:33|||
-FT|0130|10:34|||
-FT|0131|10:36|||
-FT|0132|10:37|||
-FT|0133|10:38|||
-FT|0134|10:39|||
-FT|0135|10:41|||
-FT|0136|10:42|||
-FT|0137|10:43|||
-FT|0138|10:45|||
-FT|0139|10:46|||
-FT|0140|10:47|||
-FT|0141|10:48|||
-FT|0142|10:50|||
-FT|0143|10:51|||
-FT|0144|10:52|||
-FT|0145|10:54|||
-FT|0146|10:55|||
-FT|0147|10:56|||
-FT|0148|10:57|||
-FT|0149|10:59|||
-FT|0150|11:00|||
-FT|0151|11:01|||
-FT|0152|11:02|||
-FT|0153|11:04|||
-FT|0154|11:05|||
-FT|0155|11:06|||
-FT|0156|11:08|||
-FT|0157|11:09|||
-FT|0158|11:10|||
-FT|0159|11:11|||
-FT|0160|11:13|||
-FT|0161|11:14|||
-FT|0162|11:15|||
-FT|0163|11:16|||
-FT|0164|11:18|||
-FT|0165|11:19|||
-FT|0166|11:20|||
-FT|0167|11:22|||
-FT|0168|11:23|||
-FT|0169|11:24|||
-FT|0170|11:25|||
-FT|0171|11:27|||
-FT|0172|11:28|||
-FT|0173|11:29|||
-FT|0174|11:30|||
-FT|0175|11:32|||
-FT|0176|11:33|||
-FT|0177|11:34|||
-FT|0179|11:37|||
-FT|0180|11:38|||
-FT|0181|11:39|||
-FT|0182|11:41|||
-FT|0183|11:42|||
-FT|0184|11:43|||
-FT|0185|11:44|||
-FT|0186|12:46|||
-FT|0187|12:47|||
-FT|0188|12:48|||
-FT|0189|12:50|||
-FT|0190|12:51|||
-FT|0191|12:52|||
-FT|0192|12:53|||
-FT|0193|12:55|||
-FT|0194|12:56|||
-FT|0195|12:57|||
-FT|0196|12:58|||
-FT|0197|13:00|||
-FT|0198|13:01|||
-FT|0199|13:02|||
-FT|0200|13:04|||
-FT|0201|13:05|||
-FT|0202|13:06|||
-FT|0203|13:07|||
-FT|0204|13:09|||
-FT|0205|13:10|||
-FT|0206|13:11|||
-FT|0207|13:13|||
-FT|0208|13:14|||
-FT|0209|13:15|||
-FT|0210|13:16|||
-FT|0211|13:18|||
-FT|0212|13:19|||
-FT|0213|13:20|||
-FT|0214|13:21|||
-FT|0215|13:23|||
-FT|0216|13:24|||
-FT|0217|13:25|||
-FT|0218|13:27|||
-FT|0219|13:28|||
-FT|0220|13:29|||
-FT|0221|13:30|||
-FT|0222|13:32|||
-FT|0223|13:33|||
-FT|0224|13:34|||
-FT|0225|13:35|||
-FT|0226|13:37|||
-FT|0227|13:38|||
-FT|0228|13:39|||
-FT|0229|13:41|||
-FT|0230|13:42|||
-FT|0231|13:43|||
-FT|0232|13:44|||
-FT|0233|13:46|||
-FT|0234|13:47|||
-FT|0235|13:48|||
-FT|0236|13:49|||
-FT|0237|13:51|||
-FT|0238|13:52|||
-FT|0239|13:53|||
-FT|0240|13:55|||
-FT|0241|13:56|||
-FT|0242|13:57|||
-FT|0243|13:58|||
-FT|0244|14:00|||
-FT|0245|14:01|||
-FT|0246|14:02|||
-FT|0247|14:03|||
-FT|0248|14:05|||
-FT|0249|14:06|||
-FT|0250|14:07|||
-FT|0251|14:09|||
-FT|0252|14:10|||
-FT|0253|14:11|||
-FT|0255|14:14|||
-FT|0256|14:15|||
-FT|0257|14:16|||
-FT|0258|14:18|||
-FT|0259|14:19|||
-FT|0260|14:20|||
-FT|0261|14:21|||
-FT|0262|14:23|||
-FT|0263|14:24|||
-FT|0264|14:25|||
-FT|0265|14:26|||
-FT|0266|14:28|||
-FT|0267|14:29|||
-FT|0268|14:30|||
-FT|0269|14:32|||
-FT|0270|14:33|||
-FT|0271|14:34|||
-FT|0272|14:35|||
-FT|0273|14:37|||
-FT|0274|14:38|||
-FT|0275|14:39|||
-FT|0276|14:40|||
-FT|0277|14:42|||
-FT|0278|14:43|||
-FT|0279|14:44|||
-FT|0280|14:46|||
-FT|0281|14:47|||
-FT|0282|14:48|||
-FT|0283|14:49|||
-FT|0284|14:51|||
-FT|0285|14:52|||
-FT|0286|14:53|||
-FT|0287|14:54|||
-FT|0288|14:56|||
-FT|0289|14:57|||
-FT|0290|14:58|||
-FT|0291|15:00|||
-FT|0292|15:01|||
-FT|0293|15:02|||
-FT|0294|15:03|||
-FT|0295|15:05|||
-FT|0296|15:06|||
-FT|0297|15:07|||
-FT|0298|15:08|||
-FT|0299|15:10|||
-FT|0300|15:11|||
-FT|0301|15:12|||
-FT|0302|15:14|||
-FT|0303|15:15|||
-FT|0304|15:16|||
-FT|0306|15:19|||
-FT|0307|15:20|||
-FT|0308|15:21|||
-FT|0309|15:22|||
-FT|0310|15:24|||
-FT|0311|15:25|||
-FT|0312|15:26|||
-FT|0313|15:28|||
-FT|0314|15:29|||
-FT|0315|15:30|||
-FT|0316|15:31|||
-FT|0317|15:33|||
-FT|0318|15:34|||
-FT|0319|15:35|||
-FT|0320|15:37|||
-FT|0321|15:38|||
-FT|0322|15:39|||
-FT|0323|15:40|||
-FT|0324|15:42|||
-FT|0325|15:43|||
-FT|0326|15:44|||
-FT|0327|15:45|||
-FT|0328|15:47|||
-FT|0329|15:48|||
-FT|0330|15:49|||
-FT|0331|15:51|||
-FT|0332|15:52|||
-FT|0333|15:53|||
-FT|0334|15:54|||
-FT|0335|15:56|||
-FT|0336|15:57|||
-FT|0337|15:58|||
-FT|0338|15:59|||
-FT|0339|16:01|||
-FT|0340|16:02|||
-FI1|0001|07:36|||
-FI1|0002|07:37|||
-FI1|0003|07:39|||
-FI1|0004|07:40|||
-FI1|0006|07:42|||
-FI1|0007|07:44|||
-FI1|0008|07:45|||
-FI1|0009|07:46|||
-FI1|0010|07:47|||
-FI1|0011|07:49|||
-FI1|0012|07:50|||
-FI1|0013|07:51|||
-FI1|0014|07:53|||
-FI1|0015|07:54|||
-FI1|0016|07:55|||
-FI1|0017|07:56|||
-FI1|0018|07:58|||
-FI1|0019|07:59|||
-FI1|0020|08:00|||
-FI1|0022|08:03|||
-FI1|0023|08:04|||
-FI1|0024|08:05|||
-FI1|0025|08:07|||
-FI1|0026|08:08|||
-FI1|0027|08:09|||
-FI1|0028|08:10|||
-FI1|0029|08:12|||
-FI1|0030|08:13|||
-FI1|0031|08:14|||
-FI1|0032|08:16|||
-FI1|0033|08:17|||
-FI1|0035|08:19|||
-FI1|0036|08:21|||
-FI1|0037|08:22|||
-FI1|0038|08:23|||
-FI1|0039|08:24|||
-FI1|0040|08:26|||
-FI1|0041|08:27|||
-FI1|0042|08:28|||
-FI1|0043|08:30|||
-FI1|0044|08:31|||
-FI1|0045|08:32|||
-FI1|0046|08:33|||
-FI1|0047|08:35|||
-FI1|0048|08:36|||
-FI1|0050|08:38|||
-FI1|0051|08:40|||
-FI1|0052|08:41|||
-FI1|0053|08:42|||
-FI1|0054|08:44|||
-FI1|0055|08:45|||
-FI1|0056|08:46|||
-FI1|0057|08:47|||
-FI1|0058|08:49|||
-FI1|0059|08:50|||
-FI1|0060|08:51|||
-FI1|0061|08:52|||
-FI1|0062|08:54|||
-FI1|0063|08:55|||
-FI1|0064|08:56|||
-FI1|0065|08:58|||
-FI1|0068|09:01|||
-FI1|0069|09:03|||
-FI1|0070|09:04|||
-FI1|0071|09:05|||
-FI1|0072|09:06|||
-FI1|0073|09:08|||
-FI1|0074|09:09|||
-FI1|0075|09:10|||
-FI1|0076|09:12|||
-FI1|0077|09:13|||
-FI1|0078|09:14|||
-FI1|0079|09:15|||
-FI1|0080|09:17|||
-FI1|0081|09:18|||
-FI1|0082|09:19|||
-FI1|0083|09:20|||
-FI1|0084|09:22|||
-FI1|0085|09:23|||
-FI1|0086|09:24|||
-FI1|0087|09:26|||
-FI1|0089|09:28|||
-FI1|0090|09:29|||
-FI1|0091|09:31|||
-FI1|0092|09:32|||
-FI1|0093|09:33|||
-FI1|0094|09:35|||
-FI1|0095|09:36|||
-FI1|0096|09:37|||
-FI1|0097|09:38|||
-FI1|0098|09:40|||
-FI1|0099|09:41|||
-FI1|0100|09:42|||
-FI1|0101|09:43|||
-FI1|0102|09:45|||
-FI1|0103|09:46|||
-FI1|0104|09:47|||
-FI1|0105|09:49|||
-FI1|0106|09:50|||
-FI1|0107|09:51|||
-FI1|0108|09:52|||
-FI1|0109|09:54|||
-FI1|0110|09:55|||
-FI1|0111|09:56|||
-FI1|0112|09:57|||
-FI1|0113|09:59|||
-FI1|0114|10:15|||
-FI1|0115|10:16|||
-FI1|0116|10:18|||
-FI1|0117|10:19|||
-FI1|0118|10:20|||
-FI1|0119|10:21|||
-FI1|0120|10:23|||
-FI1|0121|10:24|||
-FI1|0122|10:25|||
-FI1|0123|10:26|||
-FI1|0124|10:28|||
-FI1|0125|10:29|||
-FI1|0126|10:30|||
-FI1|0127|10:32|||
-FI1|0128|10:33|||
-FI1|0129|10:34|||
-FI1|0130|10:35|||
-FI1|0131|10:37|||
-FI1|0132|10:38|||
-FI1|0133|10:39|||
-FI1|0134|10:40|||
-FI1|0135|10:42|||
-FI1|0136|10:43|||
-FI1|0138|10:46|||
-FI1|0139|10:47|||
-FI1|0140|10:48|||
-FI1|0141|10:49|||
-FI1|0142|10:51|||
-FI1|0143|10:52|||
-FI1|0144|10:53|||
-FI1|0145|10:55|||
-FI1|0146|10:56|||
-FI1|0147|10:57|||
-FI1|0148|10:58|||
-FI1|0149|11:00|||
-FI1|0150|11:01|||
-FI1|0151|11:02|||
-FI1|0152|11:03|||
-FI1|0153|11:05|||
-FI1|0154|11:06|||
-FI1|0155|11:07|||
-FI1|0156|11:09|||
-FI1|0157|11:10|||
-FI1|0158|11:11|||
-FI1|0159|11:12|||
-FI1|0160|11:14|||
-FI1|0161|11:15|||
-FI1|0162|11:16|||
-FI1|0163|11:17|||
-FI1|0164|11:19|||
-FI1|0165|11:20|||
-FI1|0166|11:21|||
-FI1|0167|11:23|||
-FI1|0168|11:24|||
-FI1|0169|11:25|||
-FI1|0170|11:26|||
-FI1|0171|11:28|||
-FI1|0172|11:29|||
-FI1|0173|11:30|||
-FI1|0174|11:31|||
-FI1|0175|11:33|||
-FI1|0176|11:34|||
-FI1|0177|11:35|||
-FI1|0178|11:37|||
-FI1|0179|11:38|||
-FI1|0181|11:40|||
-FI1|0182|11:42|||
-FI1|0183|11:43|||
-FI1|0184|11:44|||
-FI1|0185|12:45|||
-FI1|0186|12:47|||
-FI1|0187|12:48|||
-FI1|0188|12:49|||
-FI1|0189|12:51|||
-FI1|0190|12:52|||
-FI1|0191|12:53|||
-FI1|0192|12:54|||
-FI1|0193|12:56|||
-FI1|0194|12:57|||
-FI1|0195|12:58|||
-FI1|0196|12:59|||
-FI1|0197|13:01|||
-FI1|0199|13:03|||
-FI1|0200|13:05|||
-FI1|0201|13:06|||
-FI1|0203|13:08|||
-FI1|0204|13:10|||
-FI1|0205|13:11|||
-FI1|0206|13:12|||
-FI1|0207|13:14|||
-FI1|0208|13:15|||
-FI1|0209|13:16|||
-FI1|0210|13:17|||
-FI1|0212|13:20|||
-FI1|0214|13:22|||
-FI1|0215|13:24|||
-FI1|0216|13:25|||
-FI1|0217|13:26|||
-FI1|0218|13:28|||
-FI1|0219|13:29|||
-FI1|0220|13:30|||
-FI1|0221|13:31|||
-FI1|0222|13:33|||
-FI1|0223|13:34|||
-FI1|0224|13:35|||
-FI1|0226|13:38|||
-FI1|0227|13:39|||
-FI1|0228|13:40|||
-FI1|0229|13:42|||
-FI1|0230|13:43|||
-FI1|0232|13:45|||
-FI1|0233|13:47|||
-FI1|0234|13:48|||
-FI1|0235|13:49|||
-FI1|0236|13:50|||
-FI1|0237|13:52|||
-FI1|0238|13:53|||
-FI1|0239|13:54|||
-FI1|0240|13:56|||
-FI1|0241|13:57|||
-FI1|0242|13:58|||
-FI1|0243|13:59|||
-FI1|0244|14:01|||
-FI1|0246|14:03|||
-FI1|0247|14:04|||
-FI1|0248|14:06|||
-FI1|0249|14:07|||
-FI1|0250|14:08|||
-FI1|0251|14:10|||
-FI1|0252|14:11|||
-FI1|0253|14:12|||
-FI1|0254|14:13|||
-FI1|0256|14:16|||
-FI1|0257|14:17|||
-FI1|0258|14:19|||
-FI1|0259|14:20|||
-FI1|0260|14:21|||
-FI1|0261|14:22|||
-FI1|0262|14:24|||
-FI1|0263|14:25|||
-FI1|0264|14:26|||
-FI1|0265|14:27|||
-FI1|0266|14:29|||
-FI1|0267|14:30|||
-FI1|0268|14:31|||
-FI1|0269|14:33|||
-FI1|0270|14:34|||
-FI1|0271|14:35|||
-FI1|0272|14:36|||
-FI1|0273|14:38|||
-FI1|0274|14:39|||
-FI1|0275|14:40|||
-FI1|0276|14:41|||
-FI1|0277|14:43|||
-FI1|0278|14:44|||
-FI1|0279|14:45|||
-FI1|0280|14:47|||
-FI1|0281|14:48|||
-FI1|0282|14:49|||
-FI1|0283|14:50|||
-FI1|0284|14:52|||
-FI1|0285|14:53|||
-FI1|0286|14:54|||
-FI1|0287|14:55|||
-FI1|0288|14:57|||
-FI1|0289|14:58|||
-FI1|0290|14:59|||
-FI1|0291|15:01|||
-FI1|0292|15:02|||
-FI1|0293|15:03|||
-FI1|0294|15:04|||
-FI1|0296|15:07|||
-FI1|0297|15:08|||
-FI1|0298|15:09|||
-FI1|0299|15:11|||
-FI1|0300|15:12|||
-FI1|0301|15:13|||
-FI1|0302|15:15|||
-FI1|0303|15:16|||
-FI1|0304|15:17|||
-FI1|0305|15:18|||
-FI1|0306|15:20|||
-FI1|0307|15:21|||
-FI1|0308|15:22|||
-FI1|0309|15:23|||
-FI1|0310|15:25|||
-FI1|0312|15:27|||
-FI1|0313|15:29|||
-FI1|0314|15:30|||
-FI1|0315|15:31|||
-FI1|0316|15:32|||
-FI1|0317|15:34|||
-FI1|0318|15:35|||
-FI1|0319|15:36|||
-FI1|0320|15:38|||
-FI1|0321|15:39|||
-FI1|0322|15:40|||
-FI1|0323|15:41|||
-FI1|0324|15:43|||
-FI1|0325|15:44|||
-FI1|0326|15:45|||
-FI1|0327|15:46|||
-FI1|0328|15:48|||
-FI1|0329|15:49|||
-FI1|0330|15:50|||
-FI1|0331|15:52|||
-FI1|0332|15:53|||
-FI1|0333|15:54|||
-FI1|0334|15:55|||
-FI1|0335|15:57|||
-FI1|0336|15:58|||
-FI1|0337|15:59|||
-FI1|0338|16:00|||
-FI1|0339|16:02|||
-FI1|0340|16:03|||
-FI2|0001|07:40|||
-FI2|0002|07:41|||
-FI2|0003|07:43|||
-FI2|0004|07:44|||
-FI2|0005|07:45|||
-FI2|0006|07:46|||
-FI2|0007|07:48|||
-FI2|0008|07:49|||
-FI2|0009|07:50|||
-FI2|0010|07:52|||
-FI2|0011|07:53|||
-FI2|0012|07:54|||
-FI2|0013|07:55|||
-FI2|0014|07:57|||
-FI2|0015|07:58|||
-FI2|0016|07:59|||
-FI2|0017|08:00|||
-FI2|0018|08:02|||
-FI2|0019|08:03|||
-FI2|0020|08:04|||
-FI2|0021|08:06|||
-FI2|0022|08:07|||
-FI2|0023|08:08|||
-FI2|0024|08:09|||
-FI2|0025|08:11|||
-FI2|0027|08:13|||
-FI2|0028|08:15|||
-FI2|0029|08:16|||
-FI2|0030|08:17|||
-FI2|0031|08:18|||
-FI2|0032|08:20|||
-FI2|0033|08:21|||
-FI2|0034|08:22|||
-FI2|0035|08:23|||
-FI2|0036|08:25|||
-FI2|0037|08:26|||
-FI2|0038|08:27|||
-FI2|0039|08:29|||
-FI2|0040|08:30|||
-FI2|0041|08:31|||
-FI2|0042|08:32|||
-FI2|0043|08:34|||
-FI2|0044|08:35|||
-FI2|0045|08:36|||
-FI2|0046|08:38|||
-FI2|0047|08:39|||
-FI2|0048|08:40|||
-FI2|0049|08:41|||
-FI2|0050|08:43|||
-FI2|0051|08:44|||
-FI2|0052|08:45|||
-FI2|0053|08:46|||
-FI2|0054|08:48|||
-FI2|0055|08:49|||
-FI2|0056|08:50|||
-FI2|0057|08:52|||
-FI2|0058|08:53|||
-FI2|0059|08:54|||
-FI2|0060|08:55|||
-FI2|0061|08:57|||
-FI2|0063|08:59|||
-FI2|0064|09:01|||
-FI2|0065|09:02|||
-FI2|0066|09:03|||
-FI2|0067|09:04|||
-FI2|0068|09:06|||
-FI2|0069|09:07|||
-FI2|0070|09:08|||
-FI2|0071|09:09|||
-FI2|0072|09:11|||
-FI2|0073|09:12|||
-FI2|0074|09:13|||
-FI2|0076|09:16|||
-FI2|0077|09:17|||
-FI2|0078|09:18|||
-FI2|0079|09:20|||
-FI2|0080|09:21|||
-FI2|0081|09:22|||
-FI2|0082|09:24|||
-FI2|0083|09:25|||
-FI2|0084|09:26|||
-FI2|0085|09:27|||
-FI2|0086|09:29|||
-FI2|0087|09:30|||
-FI2|0088|09:31|||
-FI2|0089|09:32|||
-FI2|0090|09:34|||
-FI2|0091|09:35|||
-FI2|0092|09:36|||
-FI2|0093|09:38|||
-FI2|0094|09:39|||
-FI2|0095|09:40|||
-FI2|0096|09:41|||
-FI2|0097|09:43|||
-FI2|0098|09:44|||
-FI2|0099|09:45|||
-FI2|0100|09:47|||
-FI2|0101|09:48|||
-FI2|0102|09:49|||
-FI2|0103|09:50|||
-FI2|0104|09:52|||
-FI2|0105|09:53|||
-FI2|0106|09:54|||
-FI2|0107|09:55|||
-FI2|0108|09:57|||
-FI2|0109|09:58|||
-FI2|0110|09:59|||
-FI2|0111|10:16|||
-FI2|0112|10:17|||
-FI2|0113|10:18|||
-FI2|0114|10:19|||
-FI2|0115|10:21|||
-FI2|0116|10:22|||
-FI2|0117|10:23|||
-FI2|0119|10:26|||
-FI2|0120|10:27|||
-FI2|0121|10:28|||
-FI2|0122|10:30|||
-FI2|0123|10:31|||
-FI2|0124|10:32|||
-FI2|0125|10:33|||
-FI2|0126|10:35|||
-FI2|0127|10:36|||
-FI2|0128|10:37|||
-FI2|0129|10:39|||
-FI2|0130|10:40|||
-FI2|0131|10:41|||
-FI2|0132|10:42|||
-FI2|0133|10:44|||
-FI2|0134|10:45|||
-FI2|0135|10:46|||
-FI2|0136|10:48|||
-FI2|0137|10:49|||
-FI2|0138|10:50|||
-FI2|0139|10:51|||
-FI2|0140|10:53|||
-FI2|0141|10:54|||
-FI2|0142|10:55|||
-FI2|0143|10:56|||
-FI2|0144|10:58|||
-FI2|0145|10:59|||
-FI2|0146|11:00|||
-FI2|0147|11:02|||
-FI2|0149|11:04|||
-FI2|0150|11:05|||
-FI2|0151|11:07|||
-FI2|0152|11:08|||
-FI2|0153|11:09|||
-FI2|0155|11:12|||
-FI2|0156|11:13|||
-FI2|0157|11:14|||
-FI2|0158|11:16|||
-FI2|0159|11:17|||
-FI2|0160|11:18|||
-FI2|0161|11:19|||
-FI2|0162|11:21|||
-FI2|0163|11:22|||
-FI2|0164|11:23|||
-FI2|0165|11:25|||
-FI2|0166|11:26|||
-FI2|0167|11:27|||
-FI2|0168|11:28|||
-FI2|0169|11:30|||
-FI2|0170|11:31|||
-FI2|0171|11:32|||
-FI2|0172|11:34|||
-FI2|0173|11:35|||
-FI2|0174|11:36|||
-FI2|0175|11:37|||
-FI2|0176|11:39|||
-FI2|0177|11:40|||
-FI2|0178|11:41|||
-FI2|0179|11:43|||
-FI2|0180|11:44|||
-FI2|0181|12:45|||
-FI2|0182|12:46|||
-FI2|0183|12:48|||
-FI2|0184|12:49|||
-FI2|0185|12:50|||
-FI2|0186|12:51|||
-FI2|0187|12:53|||
-FI2|0188|12:54|||
-FI2|0189|12:55|||
-FI2|0190|12:57|||
-FI2|0192|12:59|||
-FI2|0193|13:00|||
-FI2|0194|13:02|||
-FI2|0195|13:03|||
-FI2|0196|13:04|||
-FI2|0197|13:06|||
-FI2|0198|13:07|||
-FI2|0199|13:08|||
-FI2|0200|13:09|||
-FI2|0201|13:11|||
-FI2|0202|13:12|||
-FI2|0203|13:13|||
-FI2|0204|13:14|||
-FI2|0205|13:16|||
-FI2|0206|13:17|||
-FI2|0207|13:18|||
-FI2|0208|13:20|||
-FI2|0209|13:21|||
-FI2|0210|13:22|||
-FI2|0211|13:23|||
-FI2|0212|13:25|||
-FI2|0213|13:26|||
-FI2|0214|13:27|||
-FI2|0215|13:29|||
-FI2|0217|13:31|||
-FI2|0218|13:32|||
-FI2|0219|13:34|||
-FI2|0220|13:35|||
-FI2|0221|13:36|||
-FI2|0222|13:37|||
-FI2|0223|13:39|||
-FI2|0224|13:40|||
-FI2|0225|13:41|||
-FI2|0226|13:43|||
-FI2|0227|13:44|||
-FI2|0228|13:45|||
-FI2|0229|13:46|||
-FI2|0230|13:48|||
-FI2|0231|13:49|||
-FI2|0232|13:50|||
-FI2|0233|13:52|||
-FI2|0234|13:53|||
-FI2|0235|13:54|||
-FI2|0236|13:55|||
-FI2|0237|13:57|||
-FI2|0238|13:58|||
-FI2|0239|13:59|||
-FI2|0240|14:00|||
-FI2|0241|14:02|||
-FI2|0242|14:03|||
-FI2|0244|14:06|||
-FI2|0245|14:07|||
-FI2|0246|14:08|||
-FI2|0247|14:09|||
-FI2|0248|14:11|||
-FI2|0249|14:12|||
-FI2|0250|14:13|||
-FI2|0251|14:15|||
-FI2|0252|14:16|||
-FI2|0253|14:17|||
-FI2|0254|14:18|||
-FI2|0256|14:20|||
-FI2|0257|14:21|||
-FI2|0258|14:22|||
-FI2|0259|14:23|||
-FI2|0260|14:25|||
-FI2|0261|14:26|||
-FI2|0262|14:27|||
-FI2|0263|14:29|||
-FI2|0264|14:30|||
-FI2|0265|14:31|||
-FI2|0266|14:32|||
-FI2|0267|14:34|||
-FI2|0268|14:35|||
-FI2|0269|14:36|||
-FI2|0270|14:38|||
-FI2|0271|14:39|||
-FI2|0272|14:40|||
-FI2|0273|14:41|||
-FI2|0274|14:43|||
-FI2|0275|14:44|||
-FI2|0277|14:46|||
-FI2|0278|14:48|||
-FI2|0279|14:49|||
-FI2|0280|14:50|||
-FI2|0282|14:53|||
-FI2|0283|14:54|||
-FI2|0285|14:57|||
-FI2|0286|14:58|||
-FI2|0287|14:59|||
-FI2|0288|15:01|||
-FI2|0289|15:02|||
-FI2|0290|15:03|||
-FI2|0291|15:04|||
-FI2|0292|15:06|||
-FI2|0293|15:07|||
-FI2|0294|15:08|||
-FI2|0295|15:09|||
-FI2|0296|15:11|||
-FI2|0297|15:12|||
-FI2|0298|15:13|||
-FI2|0299|15:15|||
-FI2|0300|15:16|||
-FI2|0301|15:17|||
-FI2|0302|15:18|||
-FI2|0303|15:20|||
-FI2|0304|15:21|||
-FI2|0305|15:22|||
-FI2|0306|15:24|||
-FI2|0307|15:25|||
-FI2|0308|15:26|||
-FI2|0309|15:27|||
-FI2|0310|15:29|||
-FI2|0311|15:30|||
-FI2|0312|15:31|||
-FI2|0313|15:32|||
-FI2|0314|15:34|||
-FI2|0316|15:36|||
-FI2|0317|15:38|||
-FI2|0318|15:39|||
-FI2|0319|15:40|||
-FI2|0320|15:41|||
-FI2|0321|15:43|||
-FI2|0322|15:44|||
-FI2|0323|15:45|||
-FI2|0324|15:47|||
-FI2|0325|15:48|||
-FI2|0326|15:49|||
-FI2|0327|15:50|||
-FI2|0328|15:52|||
-FI2|0329|15:53|||
-FI2|0331|15:55|||
-FI2|0332|15:57|||
-FI2|0333|15:58|||
-FI2|0334|15:59|||
-FI2|0335|16:01|||
-FI2|0336|16:02|||
-FI2|0337|16:03|||
-FI2|0338|16:04|||
-FI2|0339|16:06|||
-FI2|0340|16:07|||
-FI3|0001|07:41|||
-FI3|0002|07:42|||
-FI3|0003|07:44|||
-FI3|0004|07:45|||
-FI3|0005|07:46|||
-FI3|0006|07:47|||
-FI3|0007|07:49|||
-FI3|0008|07:50|||
-FI3|0009|07:51|||
-FI3|0010|07:53|||
-FI3|0011|07:54|||
-FI3|0012|07:55|||
-FI3|0013|07:56|||
-FI3|0014|07:58|||
-FI3|0015|07:59|||
-FI3|0016|08:00|||
-FI3|0017|08:02|||
-FI3|0018|08:03|||
-FI3|0019|08:04|||
-FI3|0020|08:05|||
-FI3|0021|08:07|||
-FI3|0022|08:08|||
-FI3|0023|08:09|||
-FI3|0024|08:10|||
-FI3|0025|08:12|||
-FI3|0026|08:13|||
-FI3|0027|08:14|||
-FI3|0028|08:16|||
-FI3|0029|08:17|||
-FI3|0030|08:18|||
-FI3|0031|08:19|||
-FI3|0032|08:21|||
-FI3|0033|08:22|||
-FI3|0034|08:23|||
-FI3|0035|08:25|||
-FI3|0036|08:26|||
-FI3|0037|08:27|||
-FI3|0038|08:28|||
-FI3|0039|08:30|||
-FI3|0040|08:31|||
-FI3|0041|08:32|||
-FI3|0042|08:34|||
-FI3|0043|08:35|||
-FI3|0044|08:36|||
-FI3|0045|08:37|||
-FI3|0046|08:39|||
-FI3|0047|08:40|||
-FI3|0048|08:41|||
-FI3|0049|08:43|||
-FI3|0050|08:44|||
-FI3|0051|08:45|||
-FI3|0052|08:46|||
-FI3|0053|08:48|||
-FI3|0054|08:49|||
-FI3|0055|08:50|||
-FI3|0056|08:52|||
-FI3|0057|08:53|||
-FI3|0058|08:54|||
-FI3|0059|08:55|||
-FI3|0060|08:57|||
-FI3|0061|08:58|||
-FI3|0062|08:59|||
-FI3|0063|09:00|||
-FI3|0064|09:02|||
-FI3|0065|09:03|||
-FI3|0066|09:04|||
-FI3|0067|09:06|||
-FI3|0068|09:07|||
-FI3|0069|09:08|||
-FI3|0070|09:09|||
-FI3|0071|09:11|||
-FI3|0072|09:12|||
-FI3|0073|09:13|||
-FI3|0074|09:15|||
-FI3|0075|09:16|||
-FI3|0076|09:17|||
-FI3|0077|09:18|||
-FI3|0078|09:20|||
-FI3|0079|09:21|||
-FI3|0080|09:22|||
-FI3|0081|09:24|||
-FI3|0082|09:25|||
-FI3|0083|09:26|||
-FI3|0084|09:27|||
-FI3|0085|09:29|||
-FI3|0086|09:30|||
-FI3|0087|09:31|||
-FI3|0088|09:33|||
-FI3|0089|09:34|||
-FI3|0090|09:35|||
-FI3|0091|09:36|||
-FI3|0092|09:38|||
-FI3|0093|09:39|||
-FI3|0094|09:40|||
-FI3|0096|09:43|||
-FI3|0097|09:44|||
-FI3|0098|09:45|||
-FI3|0099|09:47|||
-FI3|0100|09:48|||
-FI3|0101|09:49|||
-FI3|0102|09:50|||
-FI3|0103|09:52|||
-FI3|0104|09:53|||
-FI3|0105|09:54|||
-FI3|0106|09:56|||
-FI3|0107|09:57|||
-FI3|0108|09:58|||
-FI3|0109|09:59|||
-FI3|0110|10:16|||
-FI3|0111|10:17|||
-FI3|0112|10:18|||
-FI3|0113|10:20|||
-FI3|0114|10:21|||
-FI3|0115|10:22|||
-FI3|0116|10:23|||
-FI3|0117|10:25|||
-FI3|0118|10:26|||
-FI3|0119|10:27|||
-FI3|0120|10:29|||
-FI3|0121|10:30|||
-FI3|0122|10:31|||
-FI3|0123|10:32|||
-FI3|0124|10:34|||
-FI3|0125|10:35|||
-FI3|0126|10:36|||
-FI3|0127|10:38|||
-FI3|0128|10:39|||
-FI3|0129|10:40|||
-FI3|0130|10:41|||
-FI3|0131|10:43|||
-FI3|0132|10:44|||
-FI3|0133|10:45|||
-FI3|0134|10:46|||
-FI3|0135|10:48|||
-FI3|0136|10:49|||
-FI3|0137|10:50|||
-FI3|0138|10:52|||
-FI3|0139|10:53|||
-FI3|0140|10:54|||
-FI3|0141|10:55|||
-FI3|0142|10:57|||
-FI3|0143|10:58|||
-FI3|0144|10:59|||
-FI3|0145|11:01|||
-FI3|0146|11:02|||
-FI3|0147|11:03|||
-FI3|0148|11:04|||
-FI3|0149|11:06|||
-FI3|0150|11:07|||
-FI3|0151|11:08|||
-FI3|0152|11:10|||
-FI3|0153|11:11|||
-FI3|0154|11:12|||
-FI3|0155|11:13|||
-FI3|0156|11:15|||
-FI3|0157|11:16|||
-FI3|0158|11:17|||
-FI3|0159|11:19|||
-FI3|0160|11:20|||
-FI3|0161|11:21|||
-FI3|0162|11:22|||
-FI3|0163|11:24|||
-FI3|0164|11:25|||
-FI3|0165|11:26|||
-FI3|0166|11:28|||
-FI3|0167|11:29|||
-FI3|0168|11:30|||
-FI3|0169|11:31|||
-FI3|0170|11:33|||
-FI3|0171|11:34|||
-FI3|0172|11:35|||
-FI3|0173|11:36|||
-FI3|0174|11:38|||
-FI3|0175|11:39|||
-FI3|0176|11:40|||
-FI3|0177|11:42|||
-FI3|0178|11:43|||
-FI3|0179|11:44|||
-FI3|0180|12:45|||
-FI3|0181|12:47|||
-FI3|0182|12:48|||
-FI3|0183|12:49|||
-FI3|0184|12:51|||
-FI3|0185|12:52|||
-FI3|0186|12:53|||
-FI3|0187|12:54|||
-FI3|0188|12:56|||
-FI3|0189|12:57|||
-FI3|0190|12:58|||
-FI3|0191|13:00|||
-FI3|0192|13:01|||
-FI3|0193|13:02|||
-FI3|0194|13:03|||
-FI3|0195|13:05|||
-FI3|0196|13:06|||
-FI3|0197|13:07|||
-FI3|0198|13:09|||
-FI3|0199|13:10|||
-FI3|0200|13:11|||
-FI3|0201|13:12|||
-FI3|0202|13:14|||
-FI3|0203|13:15|||
-FI3|0204|13:16|||
-FI3|0205|13:18|||
-FI3|0206|13:19|||
-FI3|0207|13:20|||
-FI3|0208|13:21|||
-FI3|0209|13:23|||
-FI3|0210|13:24|||
-FI3|0211|13:25|||
-FI3|0212|13:26|||
-FI3|0213|13:28|||
-FI3|0214|13:29|||
-FI3|0215|13:30|||
-FI3|0216|13:32|||
-FI3|0217|13:33|||
-FI3|0218|13:34|||
-FI3|0219|13:35|||
-FI3|0220|13:37|||
-FI3|0221|13:38|||
-FI3|0222|13:39|||
-FI3|0223|13:41|||
-FI3|0224|13:42|||
-FI3|0225|13:43|||
-FI3|0226|13:44|||
-FI3|0227|13:46|||
-FI3|0228|13:47|||
-FI3|0229|13:48|||
-FI3|0230|13:50|||
-FI3|0231|13:51|||
-FI3|0232|13:52|||
-FI3|0233|13:53|||
-FI3|0234|13:55|||
-FI3|0235|13:56|||
-FI3|0236|13:57|||
-FI3|0237|13:59|||
-FI3|0238|14:00|||
-FI3|0239|14:01|||
-FI3|0240|14:02|||
-FI3|0241|14:04|||
-FI3|0242|14:05|||
-FI3|0243|14:06|||
-FI3|0244|14:08|||
-FI3|0245|14:09|||
-FI3|0246|14:10|||
-FI3|0247|14:11|||
-FI3|0248|14:13|||
-FI3|0249|14:14|||
-FI3|0250|14:15|||
-FI3|0251|14:16|||
-FI3|0252|14:18|||
-FI3|0253|14:19|||
-FI3|0254|14:20|||
-FI3|0256|14:22|||
-FI3|0257|14:23|||
-FI3|0258|14:24|||
-FI3|0259|14:25|||
-FI3|0260|14:27|||
-FI3|0261|14:28|||
-FI3|0262|14:29|||
-FI3|0263|14:31|||
-FI3|0264|14:32|||
-FI3|0265|14:33|||
-FI3|0266|14:34|||
-FI3|0267|14:36|||
-FI3|0268|14:37|||
-FI3|0269|14:38|||
-FI3|0270|14:40|||
-FI3|0271|14:41|||
-FI3|0272|14:42|||
-FI3|0273|14:43|||
-FI3|0274|14:45|||
-FI3|0275|14:46|||
-FI3|0276|14:47|||
-FI3|0277|14:49|||
-FI3|0278|14:50|||
-FI3|0279|14:51|||
-FI3|0280|14:52|||
-FI3|0281|14:54|||
-FI3|0282|14:55|||
-FI3|0283|14:56|||
-FI3|0284|14:57|||
-FI3|0285|14:59|||
-FI3|0286|15:00|||
-FI3|0287|15:01|||
-FI3|0288|15:03|||
-FI3|0289|15:04|||
-FI3|0290|15:05|||
-FI3|0291|15:06|||
-FI3|0292|15:08|||
-FI3|0293|15:09|||
-FI3|0294|15:10|||
-FI3|0295|15:12|||
-FI3|0296|15:13|||
-FI3|0297|15:14|||
-FI3|0298|15:15|||
-FI3|0299|15:17|||
-FI3|0300|15:18|||
-FI3|0301|15:19|||
-FI3|0302|15:21|||
-FI3|0303|15:22|||
-FI3|0304|15:23|||
-FI3|0305|15:24|||
-FI3|0306|15:26|||
-FI3|0307|15:27|||
-FI3|0308|15:28|||
-FI3|0309|15:30|||
-FI3|0310|15:31|||
-FI3|0311|15:32|||
-FI3|0312|15:33|||
-FI3|0313|15:35|||
-FI3|0314|15:36|||
-FI3|0316|15:37|||
-FI3|0317|15:39|||
-FI3|0318|15:40|||
-FI3|0319|15:41|||
-FI3|0320|15:42|||
-FI3|0321|15:44|||
-FI3|0322|15:45|||
-FI3|0323|15:46|||
-FI3|0324|15:47|||
-FI3|0325|15:49|||
-FI3|0326|15:50|||
-FI3|0327|15:51|||
-FI3|0328|15:53|||
-FI3|0329|15:54|||
-FI3|0330|15:55|||
-FI3|0331|15:56|||
-FI3|0332|15:58|||
-FI3|0333|15:59|||
-FI3|0334|16:00|||
-FI3|0335|16:02|||
-FI3|0336|16:03|||
-FI3|0337|16:04|||
-FI3|0338|16:05|||
-FI3|0339|16:07|||
-FI3|0340|16:08|||
-Packing|0001|07:45|1||
-Packing|0002|07:46|1||
-Packing|0003|07:48|1||
-Packing|0004|07:49|1||
-Packing|0005|07:50|1||
-Packing|0006|07:51|2||
-Packing|0007|07:53|2||
-Packing|0008|07:54|2||
-Packing|0009|07:55|2||
-Packing|0010|07:57|2||
-Packing|0011|07:58|3||
-Packing|0012|07:59|3||
-Packing|0013|08:00|3||
-Packing|0014|08:02|3||
-Packing|0015|08:03|3||
-Packing|0016|08:04|4||
-Packing|0017|08:06|4||
-Packing|0018|08:07|4||
-Packing|0019|08:08|4||
-Packing|0020|08:09|4||
-Packing|0021|08:11|5||
-Packing|0022|08:12|5||
-Packing|0023|08:13|5||
-Packing|0024|08:14|5||
-Packing|0025|08:16|5||
-Packing|0026|08:17|6||
-Packing|0027|08:18|6||
-Packing|0028|08:20|6||
-Packing|0029|08:21|6||
-Packing|0030|08:22|6||
-Packing|0031|08:23|7||
-Packing|0032|08:25|7||
-Packing|0033|08:26|7||
-Packing|0034|08:27|7||
-Packing|0035|08:29|7||
-Packing|0036|08:30|8||
-Packing|0037|08:31|8||
-Packing|0038|08:32|8||
-Packing|0039|08:34|8||
-Packing|0040|08:35|8||
-Packing|0041|08:36|9||
-Packing|0042|08:38|9||
-Packing|0043|08:39|9||
-Packing|0044|08:40|9||
-Packing|0045|08:41|9||
-Packing|0046|08:43|10||
-Packing|0047|08:44|10||
-Packing|0048|08:45|10||
-Packing|0049|08:47|10||
-Packing|0050|08:48|10||
-Packing|0051|08:49|11||
-Packing|0052|08:50|11||
-Packing|0053|08:52|11||
-Packing|0054|08:53|11||
-Packing|0055|08:54|11||
-Packing|0056|08:56|12||
-Packing|0057|08:57|12||
-Packing|0058|08:58|12||
-Packing|0059|08:59|12||
-Packing|0060|09:01|12||
-Packing|0061|09:02|13||
-Packing|0062|09:03|13||
-Packing|0063|09:04|13||
-Packing|0064|09:06|13||
-Packing|0065|09:07|13||
-Packing|0066|09:08|14||
-Packing|0067|09:10|14||
-Packing|0068|09:11|14||
-Packing|0069|09:12|14||
-Packing|0070|09:13|14||
-Packing|0071|09:15|15||
-Packing|0072|09:16|15||
-Packing|0073|09:17|15||
-Packing|0074|09:19|15||
-Packing|0075|09:20|15||
-Packing|0076|09:21|16||
-Packing|0077|09:22|16||
-Packing|0078|09:24|16||
-Packing|0079|09:25|16||
-Packing|0080|09:26|16||
-Packing|0081|09:28|17||
-Packing|0082|09:29|17||
-Packing|0083|09:30|17||
-Packing|0084|09:31|17||
-Packing|0085|09:33|17||
-Packing|0086|09:34|18||
-Packing|0087|09:35|18||
-Packing|0088|09:37|18||
-Packing|0089|09:38|18||
-Packing|0090|09:39|18||
-Packing|0091|09:40|19||
-Packing|0092|09:42|19||
-Packing|0093|09:43|19||
-Packing|0094|09:44|19||
-Packing|0095|09:45|19||
-Packing|0096|09:47|20||
-Packing|0097|09:48|20||
-Packing|0098|09:49|20||
-Packing|0099|09:51|20||
-Packing|0100|09:52|20||
-Packing|0101|09:53|21||
-Packing|0102|09:54|21||
-Packing|0103|09:56|21||
-Packing|0104|09:57|21||
-Packing|0105|09:58|21||
-Packing|0106|10:00|22||
-Packing|0107|10:01|22||
-Packing|0108|10:17|22||
-Packing|0109|10:18|22||
-Packing|0110|10:20|22||
-Packing|0111|10:21|23||
-Packing|0112|10:22|23||
-Packing|0113|10:24|23||
-Packing|0114|10:25|23||
-Packing|0115|10:26|23||
-Packing|0116|10:27|24||
-Packing|0117|10:29|24||
-Packing|0118|10:30|24||
-Packing|0119|10:31|24||
-Packing|0120|10:33|24||
-Packing|0121|10:34|25||
-Packing|0122|10:35|25||
-Packing|0123|10:36|25||
-Packing|0124|10:38|25||
-Packing|0125|10:39|25||
-Packing|0126|10:40|26||
-Packing|0127|10:42|26||
-Packing|0128|10:43|26||
-Packing|0129|10:44|26||
-Packing|0130|10:45|26||
-Packing|0131|10:47|27||
-Packing|0132|10:48|27||
-Packing|0133|10:49|27||
-Packing|0134|10:50|27||
-Packing|0135|10:52|27||
-Packing|0136|10:53|28||
-Packing|0137|10:54|28||
-Packing|0138|10:56|28||
-Packing|0139|10:57|28||
-Packing|0140|10:58|28||
-Packing|0141|10:59|29||
-Packing|0142|11:01|29||
-Packing|0143|11:02|29||
-Packing|0144|11:03|29||
-Packing|0145|11:05|29||
-Packing|0146|11:06|30||
-Packing|0147|11:07|30||
-Packing|0148|11:08|30||
-Packing|0149|11:10|30||
-Packing|0150|11:11|30||
-Packing|0151|11:12|31||
-Packing|0152|11:14|31||
-Packing|0153|11:15|31||
-Packing|0154|11:16|31||
-Packing|0155|11:17|31||
-Packing|0156|11:19|32||
-Packing|0157|11:20|32||
-Packing|0158|11:21|32||
-Packing|0159|11:23|32||
-Packing|0160|11:24|32||
-Packing|0161|11:25|33||
-Packing|0162|11:26|33||
-Packing|0163|11:28|33||
-Packing|0164|11:29|33||
-Packing|0165|11:30|33||
-Packing|0166|11:32|34||
-Packing|0167|11:33|34||
-Packing|0168|11:34|34||
-Packing|0169|11:35|34||
-Packing|0170|11:37|34||
-Packing|0171|11:38|35||
-Packing|0172|11:39|35||
-Packing|0173|11:40|35||
-Packing|0174|11:42|35||
-Packing|0175|11:43|35||
-Packing|0176|11:44|36||
-Packing|0177|11:46|36||
-Packing|0178|12:47|36||
-Packing|0179|12:48|36||
-Packing|0180|12:49|36||
-Packing|0181|12:51|37||
-Packing|0182|12:52|37||
-Packing|0183|12:53|37||
-Packing|0184|12:55|37||
-Packing|0185|12:56|37||
-Packing|0186|12:57|38||
-Packing|0187|12:58|38||
-Packing|0188|13:00|38||
-Packing|0189|13:01|38||
-Packing|0190|13:02|38||
-Packing|0191|13:04|39||
-Packing|0192|13:05|39||
-Packing|0193|13:06|39||
-Packing|0194|13:07|39||
-Packing|0195|13:09|39||
-Packing|0196|13:10|40||
-Packing|0197|13:11|40||
-Packing|0198|13:13|40||
-Packing|0199|13:14|40||
-Packing|0200|13:15|40||
-Packing|0201|13:16|41||
-Packing|0202|13:18|41||
-Packing|0203|13:19|41||
-Packing|0204|13:20|41||
-Packing|0205|13:22|41||
-Packing|0206|13:23|42||
-Packing|0207|13:24|42||
-Packing|0208|13:25|42||
-Packing|0209|13:27|42||
-Packing|0210|13:28|42||
-Packing|0211|13:29|43||
-Packing|0212|13:30|43||
-Packing|0213|13:32|43||
-Packing|0214|13:33|43||
-Packing|0215|13:34|43||
-Packing|0216|13:36|44||
-Packing|0217|13:37|44||
-Packing|0218|13:38|44||
-Packing|0219|13:39|44||
-Packing|0220|13:41|44||
-Packing|0221|13:42|45||
-Packing|0222|13:43|45||
-Packing|0223|13:45|45||
-Packing|0224|13:46|45||
-Packing|0225|13:47|45||
-Packing|0226|13:48|46||
-Packing|0227|13:50|46||
-Packing|0228|13:51|46||
-Packing|0229|13:52|46||
-Packing|0230|13:54|46||
-Packing|0231|13:55|47||
-Packing|0232|13:56|47||
-Packing|0233|13:57|47||
-Packing|0234|13:59|47||
-Packing|0235|14:00|47||
-Packing|0236|14:01|48||
-Packing|0237|14:03|48||
-Packing|0238|14:04|48||
-Packing|0239|14:05|48||
-Packing|0240|14:06|48||
-Packing|0241|14:08|49||
-Packing|0242|14:09|49||
-Packing|0243|14:10|49||
-Packing|0244|14:12|49||
-Packing|0245|14:13|49||
-Packing|0246|14:14|50||
-Packing|0247|14:15|50||
-Packing|0248|14:17|50||
-Packing|0249|14:18|50||
-Packing|0250|14:19|50||
-Packing|0251|14:20|51||
-Packing|0252|14:22|51||
-Packing|0253|14:23|51||
-Packing|0254|14:24|51||
-Packing|0256|14:26|51||
-Packing|0257|14:27|52||
-Packing|0258|14:28|52||
-Packing|0259|14:29|52||
-Packing|0260|14:31|52||
-Packing|0261|14:32|52||
-Packing|0262|14:33|53||
-Packing|0263|14:35|53||
-Packing|0264|14:36|53||
-Packing|0265|14:37|53||
-Packing|0266|14:38|53||
-Packing|0267|14:40|54||
-Packing|0268|14:41|54||
-Packing|0269|14:42|54||
-Packing|0270|14:44|54||
-Packing|0271|14:45|54||
-Packing|0272|14:46|55||
-Packing|0273|14:47|55||
-Packing|0274|14:49|55||
-Packing|0275|14:50|55||
-Packing|0276|14:51|55||
-Packing|0277|14:53|56||
-Packing|0278|14:54|56||
-Packing|0279|14:55|56||
-Packing|0280|14:56|56||
-Packing|0281|14:58|56||
-Packing|0282|14:59|57||
-Packing|0283|15:00|57||
-Packing|0284|15:01|57||
-Packing|0285|15:03|57||
-Packing|0286|15:04|57||
-Packing|0287|15:05|58||
-Packing|0288|15:07|58||
-Packing|0289|15:08|58||
-Packing|0290|15:09|58||
-Packing|0291|15:10|58||
-Packing|0292|15:12|59||
-Packing|0293|15:13|59||
-Packing|0294|15:14|59||
-Packing|0295|15:16|59||
-Packing|0296|15:17|59||
-Packing|0297|15:18|60||
-Packing|0298|15:19|60||
-Packing|0299|15:21|60||
-Packing|0300|15:22|60||
-Packing|0301|15:23|60||
-Packing|0302|15:25|61||
-Packing|0303|15:26|61||
-Packing|0304|15:27|61||
-Packing|0305|15:28|61||
-Packing|0306|15:30|61||
-Packing|0307|15:31|62||
-Packing|0308|15:32|62||
-Packing|0309|15:34|62||
-Packing|0310|15:35|62||
-Packing|0311|15:36|62||
-Packing|0312|15:37|63||
-Packing|0313|15:39|63||
-Packing|0314|15:40|63||
-Packing|0316|15:41|63||
-Packing|0317|15:43|63||
-Packing|0318|15:44|64||
-Packing|0319|15:45|64||
-Packing|0320|15:46|64||
-Packing|0321|15:48|64||
-Packing|0322|15:49|64||
-Packing|0323|15:50|65||
-Packing|0324|15:51|65||
-Packing|0325|15:53|65||
-Packing|0326|15:54|65||
-Packing|0327|15:55|65||
-Packing|0328|15:57|66||
-Packing|0329|15:58|66||
-Packing|0330|15:59|66||
-Packing|0331|16:00|66||
-Packing|0332|16:02|66||
-Packing|0333|16:03|67||
-Packing|0334|16:04|67||
-Packing|0335|16:06|67||
-Packing|0336|16:07|67||
-Packing|0337|16:08|67||
-Packing|0338|16:09|68||
-Packing|0339|16:11|68||
-Packing|0340|16:12|68||
-DCFT|0001|07:42|||
-DCFT|0002|07:43|||
-DCFT|0003|07:45|||
-DCFT|0004|07:46|||
-DCFT|0005|07:47|||
-DCFT|0006|07:48|||
-DCFT|0007|07:50|||
-DCFT|0008|07:51|||
-DCFT|0009|07:52|||
-DCFT|0010|07:54|||
-DCFT|0011|07:55|||
-DCFT|0012|07:56|||
-DCFT|0013|07:57|||
-DCFT|0014|07:59|||
-DCFT|0015|08:00|||
-DCFT|0016|08:01|||
-DCFT|0017|08:03|||
-DCFT|0018|08:04|||
-DCFT|0019|08:05|||
-DCFT|0020|08:06|||
-DCFT|0021|08:08|||
-DCFT|0022|08:09|||
-DCFT|0023|08:10|||
-DCFT|0024|08:11|||
-DCFT|0025|08:13|||
-DCFT|0026|08:14|||
-DCFT|0027|08:15|||
-DCFT|0028|08:17|||
-DCFT|0029|08:18|||
-DCFT|0030|08:19|||
-DCFT|0031|08:20|||
-DCFT|0032|08:22|||
-DCFT|0033|08:23|||
-DCFT|0034|08:24|||
-DCFT|0035|08:26|||
-DCFT|0036|08:27|||
-DCFT|0037|08:28|||
-DCFT|0038|08:29|||
-DCFT|0039|08:31|||
-DCFT|0040|08:32|||
-DCFT|0041|08:33|||
-DCFT|0042|08:35|||
-DCFT|0043|08:36|||
-DCFT|0044|08:37|||
-DCFT|0045|08:38|||
-DCFT|0046|08:40|||
-DCFT|0047|08:41|||
-DCFT|0048|08:42|||
-DCFT|0049|08:44|||
-DCFT|0050|08:45|||
-DCFT|0051|08:46|||
-DCFT|0052|08:47|||
-DCFT|0053|08:49|||
-DCFT|0054|08:50|||
-DCFT|0055|08:51|||
-DCFT|0056|08:53|||
-DCFT|0057|08:54|||
-DCFT|0058|08:55|||
-DCFT|0059|08:56|||
-DCFT|0060|08:58|||
-DCFT|0061|08:59|||
-DCFT|0062|09:00|||
-DCFT|0063|09:01|||
-DCFT|0064|09:03|||
-DCFT|0065|09:04|||
-DCFT|0066|09:05|||
-DCFT|0067|09:07|||
-DCFT|0068|09:08|||
-DCFT|0069|09:09|||
-DCFT|0070|09:10|||
-DCFT|0071|09:12|||
-DCFT|0072|09:13|||
-DCFT|0073|09:14|||
-DCFT|0074|09:16|||
-DCFT|0075|09:17|||
-DCFT|0076|09:18|||
-DCFT|0077|09:19|||
-DCFT|0078|09:21|||
-DCFT|0079|09:22|||
-DCFT|0080|09:23|||
-DCFT|0081|09:25|||
-DCFT|0082|09:26|||
-DCFT|0083|09:27|||
-DCFT|0084|09:28|||
-DCFT|0085|09:30|||
-DCFT|0086|09:31|||
-DCFT|0087|09:32|||
-DCFT|0088|09:34|||
-DCFT|0089|09:35|||
-DCFT|0090|09:36|||
-DCFT|0091|09:37|||
-DCFT|0092|09:39|||
-DCFT|0093|09:40|||
-DCFT|0094|09:41|||
-DCFT|0095|09:42|||
-DCFT|0096|09:44|||
-DCFT|0097|09:45|||
-DCFT|0098|09:46|||
-DCFT|0099|09:48|||
-DCFT|0100|09:49|||
-DCFT|0101|09:50|||
-DCFT|0102|09:51|||
-DCFT|0103|09:53|||
-DCFT|0104|09:54|||
-DCFT|0105|09:55|||
-DCFT|0106|09:57|||
-DCFT|0107|09:58|||
-DCFT|0108|09:59|||
-DCFT|0109|10:00|||
-DCFT|0110|10:17|||
-DCFT|0111|10:18|||
-DCFT|0112|10:19|||
-DCFT|0113|10:21|||
-DCFT|0114|10:22|||
-DCFT|0115|10:23|||
-DCFT|0116|10:24|||
-DCFT|0117|10:26|||
-DCFT|0118|10:27|||
-DCFT|0119|10:28|||
-DCFT|0120|10:30|||
-DCFT|0121|10:31|||
-DCFT|0122|10:32|||
-DCFT|0123|10:33|||
-DCFT|0124|10:35|||
-DCFT|0125|10:36|||
-DCFT|0126|10:37|||
-DCFT|0127|10:39|||
-DCFT|0128|10:40|||
-DCFT|0129|10:41|||
-DCFT|0130|10:42|||
-DCFT|0131|10:44|||
-DCFT|0132|10:45|||
-DCFT|0133|10:46|||
-DCFT|0134|10:47|||
-DCFT|0135|10:49|||
-DCFT|0136|10:50|||
-DCFT|0137|10:51|||
-DCFT|0138|10:53|||
-DCFT|0139|10:54|||
-DCFT|0140|10:55|||
-DCFT|0141|10:56|||
-DCFT|0142|10:58|||
-DCFT|0143|10:59|||
-DCFT|0145|11:02|||
-DCFT|0146|11:03|||
-DCFT|0147|11:04|||
-DCFT|0148|11:05|||
-DCFT|0149|11:07|||
-DCFT|0150|11:08|||
-DCFT|0151|11:09|||
-DCFT|0152|11:11|||
-DCFT|0153|11:12|||
-DCFT|0154|11:13|||
-DCFT|0155|11:14|||
-DCFT|0156|11:16|||
-DCFT|0157|11:17|||
-DCFT|0158|11:18|||
-DCFT|0159|11:20|||
-DCFT|0160|11:21|||
-DCFT|0161|11:22|||
-DCFT|0162|11:23|||
-DCFT|0163|11:25|||
-DCFT|0164|11:26|||
-DCFT|0165|11:27|||
-DCFT|0166|11:29|||
-DCFT|0167|11:30|||
-DCFT|0168|11:31|||
-DCFT|0169|11:32|||
-DCFT|0170|11:34|||
-DCFT|0171|11:35|||
-DCFT|0172|11:36|||
-DCFT|0173|11:37|||
-DCFT|0174|11:39|||
-DCFT|0175|11:40|||
-DCFT|0176|11:41|||
-DCFT|0177|11:43|||
-DCFT|0178|11:44|||
-DCFT|0179|11:45|||
-DCFT|0180|12:46|||
-DCFT|0181|12:48|||
-DCFT|0182|12:49|||
-DCFT|0183|12:50|||
-DCFT|0184|12:52|||
-DCFT|0185|12:53|||
-DCFT|0186|12:54|||
-DCFT|0187|12:55|||
-DCFT|0188|12:57|||
-DCFT|0189|12:58|||
-DCFT|0190|12:59|||
-DCFT|0191|13:01|||
-DCFT|0192|13:02|||
-DCFT|0193|13:03|||
-DCFT|0194|13:04|||
-DCFT|0195|13:06|||
-DCFT|0196|13:07|||
-DCFT|0197|13:08|||
-DCFT|0198|13:10|||
-DCFT|0199|13:11|||
-DCFT|0200|13:12|||
-DCFT|0201|13:13|||
-DCFT|0202|13:15|||
-DCFT|0203|13:16|||
-DCFT|0204|13:17|||
-DCFT|0205|13:19|||
-DCFT|0206|13:20|||
-DCFT|0207|13:21|||
-DCFT|0208|13:22|||
-DCFT|0209|13:24|||
-DCFT|0210|13:25|||
-DCFT|0211|13:26|||
-DCFT|0212|13:27|||
-DCFT|0213|13:29|||
-DCFT|0214|13:30|||
-DCFT|0215|13:31|||
-DCFT|0216|13:33|||
-DCFT|0217|13:34|||
-DCFT|0218|13:35|||
-DCFT|0219|13:36|||
-DCFT|0220|13:38|||
-DCFT|0221|13:39|||
-DCFT|0222|13:40|||
-DCFT|0223|13:42|||
-DCFT|0224|13:43|||
-DCFT|0225|13:44|||
-DCFT|0226|13:45|||
-DCFT|0227|13:47|||
-DCFT|0228|13:48|||
-DCFT|0229|13:49|||
-DCFT|0230|13:51|||
-DCFT|0231|13:52|||
-DCFT|0232|13:53|||
-DCFT|0233|13:54|||
-DCFT|0234|13:56|||
-DCFT|0235|13:57|||
-DCFT|0236|13:58|||
-DCFT|0237|14:00|||
-DCFT|0238|14:01|||
-DCFT|0239|14:02|||
-DCFT|0240|14:03|||
-DCFT|0241|14:05|||
-DCFT|0242|14:06|||
-DCFT|0243|14:07|||
-DCFT|0244|14:09|||
-DCFT|0245|14:10|||
-DCFT|0246|14:11|||
-DCFT|0247|14:12|||
-DCFT|0248|14:14|||
-DCFT|0249|14:15|||
-DCFT|0250|14:16|||
-DCFT|0251|14:17|||
-DCFT|0252|14:19|||
-DCFT|0253|14:20|||
-DCFT|0254|14:21|||
-DCFT|0256|14:23|||
-DCFT|0257|14:24|||
-DCFT|0258|14:25|||
-DCFT|0259|14:26|||
-DCFT|0260|14:28|||
-DCFT|0261|14:29|||
-DCFT|0262|14:30|||
-DCFT|0263|14:32|||
-DCFT|0264|14:33|||
-DCFT|0265|14:34|||
-DCFT|0266|14:35|||
-DCFT|0267|14:37|||
-DCFT|0268|14:38|||
-DCFT|0269|14:39|||
-DCFT|0270|14:41|||
-DCFT|0271|14:42|||
-DCFT|0272|14:43|||
-DCFT|0273|14:44|||
-DCFT|0274|14:46|||
-DCFT|0275|14:47|||
-DCFT|0276|14:48|||
-DCFT|0277|14:50|||
-DCFT|0278|14:51|||
-DCFT|0279|14:52|||
-DCFT|0280|14:53|||
-DCFT|0281|14:55|||
-DCFT|0282|14:56|||
-DCFT|0283|14:57|||
-DCFT|0284|14:58|||
-DCFT|0285|15:00|||
-DCFT|0286|15:01|||
-DCFT|0287|15:02|||
-DCFT|0288|15:04|||
-DCFT|0289|15:05|||
-DCFT|0290|15:06|||
-DCFT|0291|15:07|||
-DCFT|0292|15:09|||
-DCFT|0293|15:10|||
-DCFT|0294|15:11|||
-DCFT|0295|15:13|||
-DCFT|0296|15:14|||
-DCFT|0297|15:15|||
-DCFT|0298|15:16|||
-DCFT|0299|15:18|||
-DCFT|0300|15:19|||
-DCFT|0301|15:20|||
-DCFT|0302|15:22|||
-DCFT|0303|15:23|||
-DCFT|0304|15:24|||
-DCFT|0305|15:25|||
-DCFT|0306|15:27|||
-DCFT|0307|15:28|||
-DCFT|0308|15:29|||
-DCFT|0309|15:31|||
-DCFT|0310|15:32|||
-DCFT|0311|15:33|||
-DCFT|0312|15:34|||
-DCFT|0313|15:36|||
-DCFT|0314|15:37|||
-DCFT|0316|15:38|||
-DCFT|0317|15:40|||
-DCFT|0318|15:41|||
-DCFT|0319|15:42|||
-DCFT|0320|15:43|||
-DCFT|0321|15:45|||
-DCFT|0322|15:46|||
-DCFT|0323|15:47|||
-DCFT|0324|15:48|||
-DCFT|0325|15:50|||
-DCFT|0326|15:51|||
-DCFT|0327|15:52|||
-DCFT|0328|15:54|||
-DCFT|0329|15:55|||
-DCFT|0330|15:56|||
-DCFT|0331|15:57|||
-DCFT|0332|15:59|||
-DCFT|0333|16:00|||
-DCFT|0334|16:01|||
-DCFT|0335|16:03|||
-DCFT|0336|16:04|||
-DCFT|0337|16:05|||
-DCFT|0338|16:06|||
-DCFT|0339|16:08|||
-DCFT|0340|16:09|||
-DCFI|0001|07:43|||
-DCFI|0002|07:44|||
-DCFI|0003|07:46|||
-DCFI|0004|07:47|||
-DCFI|0005|07:48|||
-DCFI|0006|07:49|||
-DCFI|0007|07:51|||
-DCFI|0008|07:52|||
-DCFI|0009|07:53|||
-DCFI|0010|07:55|||
-DCFI|0011|07:56|||
-DCFI|0012|07:57|||
-DCFI|0013|07:58|||
-DCFI|0014|08:00|||
-DCFI|0015|08:01|||
-DCFI|0016|08:02|||
-DCFI|0017|08:04|||
-DCFI|0018|08:05|||
-DCFI|0019|08:06|||
-DCFI|0020|08:07|||
-DCFI|0021|08:09|||
-DCFI|0022|08:10|||
-DCFI|0023|08:11|||
-DCFI|0024|08:12|||
-DCFI|0025|08:14|||
-DCFI|0026|08:15|||
-DCFI|0027|08:16|||
-DCFI|0028|08:18|||
-DCFI|0029|08:19|||
-DCFI|0030|08:20|||
-DCFI|0031|08:21|||
-DCFI|0032|08:23|||
-DCFI|0033|08:24|||
-DCFI|0034|08:25|||
-DCFI|0035|08:27|||
-DCFI|0036|08:28|||
-DCFI|0037|08:29|||
-DCFI|0038|08:30|||
-DCFI|0039|08:32|||
-DCFI|0040|08:33|||
-DCFI|0041|08:34|||
-DCFI|0042|08:36|||
-DCFI|0043|08:37|||
-DCFI|0044|08:38|||
-DCFI|0045|08:39|||
-DCFI|0046|08:41|||
-DCFI|0047|08:42|||
-DCFI|0048|08:43|||
-DCFI|0049|08:45|||
-DCFI|0050|08:46|||
-DCFI|0051|08:47|||
-DCFI|0052|08:48|||
-DCFI|0053|08:50|||
-DCFI|0054|08:51|||
-DCFI|0055|08:52|||
-DCFI|0056|08:54|||
-DCFI|0057|08:55|||
-DCFI|0058|08:56|||
-DCFI|0059|08:57|||
-DCFI|0060|08:59|||
-DCFI|0061|09:00|||
-DCFI|0062|09:01|||
-DCFI|0063|09:02|||
-DCFI|0064|09:04|||
-DCFI|0065|09:05|||
-DCFI|0066|09:06|||
-DCFI|0067|09:08|||
-DCFI|0068|09:09|||
-DCFI|0069|09:10|||
-DCFI|0070|09:11|||
-DCFI|0071|09:13|||
-DCFI|0072|09:14|||
-DCFI|0073|09:15|||
-DCFI|0074|09:17|||
-DCFI|0075|09:18|||
-DCFI|0076|09:19|||
-DCFI|0077|09:20|||
-DCFI|0078|09:22|||
-DCFI|0079|09:23|||
-DCFI|0080|09:24|||
-DCFI|0081|09:26|||
-DCFI|0082|09:27|||
-DCFI|0083|09:28|||
-DCFI|0084|09:29|||
-DCFI|0085|09:31|||
-DCFI|0086|09:32|||
-DCFI|0087|09:33|||
-DCFI|0088|09:35|||
-DCFI|0089|09:36|||
-DCFI|0090|09:37|||
-DCFI|0091|09:38|||
-DCFI|0092|09:40|||
-DCFI|0093|09:41|||
-DCFI|0094|09:42|||
-DCFI|0095|09:43|||
-DCFI|0096|09:45|||
-DCFI|0097|09:46|||
-DCFI|0098|09:47|||
-DCFI|0099|09:49|||
-DCFI|0100|09:50|||
-DCFI|0101|09:51|||
-DCFI|0102|09:52|||
-DCFI|0103|09:54|||
-DCFI|0104|09:55|||
-DCFI|0105|09:56|||
-DCFI|0106|09:58|||
-DCFI|0107|09:59|||
-DCFI|0108|10:00|||
-DCFI|0109|10:01|||
-DCFI|0110|10:18|||
-DCFI|0111|10:19|||
-DCFI|0112|10:20|||
-DCFI|0113|10:22|||
-DCFI|0114|10:23|||
-DCFI|0115|10:24|||
-DCFI|0116|10:25|||
-DCFI|0117|10:27|||
-DCFI|0118|10:28|||
-DCFI|0119|10:29|||
-DCFI|0120|10:31|||
-DCFI|0121|10:32|||
-DCFI|0122|10:33|||
-DCFI|0123|10:34|||
-DCFI|0124|10:36|||
-DCFI|0125|10:37|||
-DCFI|0126|10:38|||
-DCFI|0127|10:40|||
-DCFI|0128|10:41|||
-DCFI|0129|10:42|||
-DCFI|0130|10:43|||
-DCFI|0131|10:45|||
-DCFI|0132|10:46|||
-DCFI|0133|10:47|||
-DCFI|0134|10:48|||
-DCFI|0135|10:50|||
-DCFI|0136|10:51|||
-DCFI|0137|10:52|||
-DCFI|0138|10:54|||
-DCFI|0139|10:55|||
-DCFI|0140|10:56|||
-DCFI|0141|10:57|||
-DCFI|0142|10:59|||
-DCFI|0143|11:00|||
-DCFI|0144|11:01|||
-DCFI|0145|11:03|||
-DCFI|0146|11:04|||
-DCFI|0147|11:05|||
-DCFI|0148|11:06|||
-DCFI|0149|11:08|||
-DCFI|0150|11:09|||
-DCFI|0151|11:10|||
-DCFI|0152|11:12|||
-DCFI|0153|11:13|||
-DCFI|0154|11:14|||
-DCFI|0155|11:15|||
-DCFI|0156|11:17|||
-DCFI|0157|11:18|||
-DCFI|0158|11:19|||
-DCFI|0159|11:21|||
-DCFI|0160|11:22|||
-DCFI|0161|11:23|||
-DCFI|0162|11:24|||
-DCFI|0163|11:26|||
-DCFI|0164|11:27|||
-DCFI|0165|11:28|||
-DCFI|0166|11:30|||
-DCFI|0167|11:31|||
-DCFI|0168|11:32|||
-DCFI|0169|11:33|||
-DCFI|0170|11:35|||
-DCFI|0171|11:36|||
-DCFI|0172|11:37|||
-DCFI|0173|11:38|||
-DCFI|0174|11:40|||
-DCFI|0175|11:41|||
-DCFI|0176|11:42|||
-DCFI|0177|11:44|||
-DCFI|0178|11:45|||
-DCFI|0179|11:46|||
-DCFI|0180|12:47|||
-DCFI|0181|12:49|||
-DCFI|0182|12:50|||
-DCFI|0183|12:51|||
-DCFI|0184|12:53|||
-DCFI|0185|12:54|||
-DCFI|0186|12:55|||
-DCFI|0187|12:56|||
-DCFI|0188|12:58|||
-DCFI|0189|12:59|||
-DCFI|0190|13:00|||
-DCFI|0191|13:02|||
-DCFI|0192|13:03|||
-DCFI|0193|13:04|||
-DCFI|0194|13:05|||
-DCFI|0195|13:07|||
-DCFI|0196|13:08|||
-DCFI|0197|13:09|||
-DCFI|0198|13:11|||
-DCFI|0199|13:12|||
-DCFI|0200|13:13|||
-DCFI|0201|13:14|||
-DCFI|0202|13:16|||
-DCFI|0203|13:17|||
-DCFI|0204|13:18|||
-DCFI|0205|13:20|||
-DCFI|0206|13:21|||
-DCFI|0207|13:22|||
-DCFI|0208|13:23|||
-DCFI|0209|13:25|||
-DCFI|0210|13:26|||
-DCFI|0211|13:27|||
-DCFI|0212|13:28|||
-DCFI|0213|13:30|||
-DCFI|0214|13:31|||
-DCFI|0215|13:32|||
-DCFI|0216|13:34|||
-DCFI|0217|13:35|||
-DCFI|0218|13:36|||
-DCFI|0219|13:37|||
-DCFI|0220|13:39|||
-DCFI|0221|13:40|||
-DCFI|0222|13:41|||
-DCFI|0223|13:43|||
-DCFI|0224|13:44|||
-DCFI|0225|13:45|||
-DCFI|0226|13:46|||
-DCFI|0227|13:48|||
-DCFI|0228|13:49|||
-DCFI|0229|13:50|||
-DCFI|0230|13:52|||
-DCFI|0231|13:53|||
-DCFI|0232|13:54|||
-DCFI|0233|13:55|||
-DCFI|0234|13:57|||
-DCFI|0235|13:58|||
-DCFI|0236|13:59|||
-DCFI|0237|14:01|||
-DCFI|0239|14:03|||
-DCFI|0240|14:04|||
-DCFI|0241|14:06|||
-DCFI|0242|14:07|||
-DCFI|0243|14:08|||
-DCFI|0244|14:10|||
-DCFI|0245|14:11|||
-DCFI|0246|14:12|||
-DCFI|0247|14:13|||
-DCFI|0248|14:15|||
-DCFI|0249|14:16|||
-DCFI|0250|14:17|||
-DCFI|0251|14:18|||
-DCFI|0252|14:20|||
-DCFI|0253|14:21|||
-DCFI|0254|14:22|||
-DCFI|0256|14:24|||
-DCFI|0257|14:25|||
-DCFI|0258|14:26|||
-DCFI|0259|14:27|||
-DCFI|0260|14:29|||
-DCFI|0261|14:30|||
-DCFI|0262|14:31|||
-DCFI|0263|14:33|||
-DCFI|0264|14:34|||
-DCFI|0265|14:35|||
-DCFI|0266|14:36|||
-DCFI|0267|14:38|||
-DCFI|0268|14:39|||
-DCFI|0269|14:40|||
-DCFI|0270|14:42|||
-DCFI|0271|14:43|||
-DCFI|0272|14:44|||
-DCFI|0273|14:45|||
-DCFI|0274|14:47|||
-DCFI|0275|14:48|||
-DCFI|0276|14:49|||
-DCFI|0277|14:51|||
-DCFI|0278|14:52|||
-DCFI|0279|14:53|||
-DCFI|0280|14:54|||
-DCFI|0281|14:56|||
-DCFI|0282|14:57|||
-DCFI|0283|14:58|||
-DCFI|0284|14:59|||
-DCFI|0285|15:01|||
-DCFI|0286|15:02|||
-DCFI|0287|15:03|||
-DCFI|0288|15:05|||
-DCFI|0289|15:06|||
-DCFI|0290|15:07|||
-DCFI|0291|15:08|||
-DCFI|0292|15:10|||
-DCFI|0293|15:11|||
-DCFI|0294|15:12|||
-DCFI|0295|15:14|||
-DCFI|0296|15:15|||
-DCFI|0297|15:16|||
-DCFI|0298|15:17|||
-DCFI|0299|15:19|||
-DCFI|0300|15:20|||
-DCFI|0301|15:21|||
-DCFI|0302|15:23|||
-DCFI|0303|15:24|||
-DCFI|0304|15:25|||
-DCFI|0305|15:26|||
-DCFI|0306|15:28|||
-DCFI|0307|15:29|||
-DCFI|0308|15:30|||
-DCFI|0309|15:32|||
-DCFI|0310|15:33|||
-DCFI|0311|15:34|||
-DCFI|0312|15:35|||
-DCFI|0313|15:37|||
-DCFI|0314|15:38|||
-DCFI|0316|15:39|||
-DCFI|0317|15:41|||
-DCFI|0318|15:42|||
-DCFI|0319|15:43|||
-DCFI|0320|15:44|||
-DCFI|0321|15:46|||
-DCFI|0322|15:47|||
-DCFI|0323|15:48|||
-DCFI|0324|15:49|||
-DCFI|0325|15:51|||
-DCFI|0326|15:52|||
-DCFI|0327|15:53|||
-DCFI|0328|15:55|||
-DCFI|0329|15:56|||
-DCFI|0330|15:57|||
-DCFI|0331|15:58|||
-DCFI|0332|16:00|||
-DCFI|0333|16:01|||
-DCFI|0334|16:02|||
-DCFI|0335|16:04|||
-DCFI|0336|16:05|||
-DCFI|0337|16:06|||
-DCFI|0338|16:07|||
-DCFI|0339|16:09|||
-DCFI|0340|16:10|||`,238:`FT|0001|20:00|||
+Packing|0240|04:45|48||`,636:`FT|0001|20:00|||
 FT|0002|20:01|||
 FT|0003|20:03|||
 FT|0004|20:04|||
@@ -113557,7 +111228,7 @@ Packing|0336|04:40|67||
 Packing|0337|04:41|68||
 Packing|0338|04:42|68||
 Packing|0339|04:44|68||
-Packing|0340|04:45|68||`,239:`FT|0001|07:35|||
+Packing|0340|04:45|68||`,528:`FT|0001|07:35|||
 FT|0002|07:36|||
 FT|0003|07:38|||
 FT|0004|07:38|||
@@ -115028,7 +112699,7 @@ Packing|0335|15:57|67||
 Packing|0336|15:58|68||
 Packing|0337|16:00|68||
 Packing|0338|16:00|68||
-Packing|0339|16:02|68||`,240:`FT|0001|07:35|||
+Packing|0339|16:02|68||`,566:`FT|0001|07:35|||
 FT|0002|07:37|||
 FT|0003|07:38|||
 FT|0004|07:40|||
@@ -116424,7 +114095,7 @@ Packing|0286|16:19|57||
 Packing|0287|16:20|57||
 Packing|0288|16:22|58||
 Packing|0289|16:23|58||
-Packing|0290|16:25|58||`},NG:{161:`FT|0005|07:46|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
+Packing|0290|16:25|58||`},NG:{534:`FT|0005|07:46|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0177|13:00|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0226|14:13|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FI1|0004|07:45|Critical|NFI|SW.H.L RED (B)|CLOSE|||
@@ -116455,7 +114126,7 @@ FI2|0192|13:28|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI2|0251|14:56|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI2|0257|15:05|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI3|0101|10:29|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||
-FI3|0175|13:04|Critical|PNG|B.WIRE ISC BLACK (Sb)|OPEN|||`,162:`FT|0084|22:22|Critical|PNG|B.COVER METER|CLOSE|||
+FI3|0175|13:04|Critical|PNG|B.WIRE ISC BLACK (Sb)|OPEN|||`,602:`FT|0084|22:22|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0183|00:53|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FT|0249|03:19|Critical|Seal Out|HL (BY)|CLOSE|||
 FI1|0002|20:03|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
@@ -116494,7 +114165,7 @@ FI3|0134|23:45|Critical|PNG|B.COVER METER|CLOSE|||
 FI3|0244|03:17|Critical|PNG|B.COVER METER|CLOSE|||
 FI3|0280|04:12|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
 FI3|0286|04:22|Critical|Seal Out|HL (BY)|CLOSE|||
-FI3|0291|04:29|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||`,163:`FT|0035|08:38|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
+FI3|0291|04:29|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||`,538:`FT|0035|08:38|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0089|10:25|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0132|11:39|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0151|12:56|Critical|Seal Out|HL (BY)|CLOSE|||
@@ -116527,7 +114198,7 @@ FI2|0175|13:42|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI2|0192|14:11|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI2|0205|14:33|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI3|0059|09:25|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
-FI3|0167|13:29|Critical|Seal Out|HL (BY)|CLOSE|||`,164:`FT|0042|21:12|Critical|Seal In|OBD RED (LgL)|CLOSE|||
+FI3|0167|13:29|Critical|Seal Out|HL (BY)|CLOSE|||`,607:`FT|0042|21:12|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0090|22:52|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0216|03:19|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FI1|0002|20:03|Non-critical|BTap|BRANCH FUSEBOX|CLOSE|||
@@ -116553,7 +114224,7 @@ FI2|0119|23:49|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI2|0141|00:28|Non-critical|DOS|CLAMP 7 TO CLAMP 8 (400 +-10)|CLOSE|||
 FI2|0157|00:56|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI2|0217|03:26|Non-critical|WOB|DETAIL JOINT 1|CLOSE|||
-FI3|0051|21:35|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||`,165:`FT|0159|11:34|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
+FI3|0051|21:35|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||`,542:`FT|0159|11:34|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0199|13:14|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0225|13:50|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FI1|0007|07:49|Critical|NFI|SW.H.L RED (B)|CLOSE|||
@@ -116580,7 +114251,7 @@ FI2|0244|14:22|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI2|0252|14:33|Non-critical|PNG|B.SLEEVE HORN 1|OPEN|||
 FI2|0311|15:55|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI3|0111|10:34|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
-FI3|0293|15:30|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,166:`FT|0092|22:25|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
+FI3|0293|15:30|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,612:`FT|0092|22:25|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0111|22:53|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0179|00:30|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FI1|0003|20:04|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
@@ -116604,7 +114275,7 @@ FI2|0061|21:31|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI2|0138|23:35|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI2|0201|01:51|Non-critical|WOB|DETAIL JOINT 1|CLOSE|||
 FI2|0237|02:43|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
-FI3|0151|23:55|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,167:`FT|0001|07:40|Critical|Seal In|OBD RED (LgL)|CLOSE|||
+FI3|0151|23:55|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,546:`FT|0001|07:40|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0145|11:43|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0180|13:24|Critical|Seal Out|HL (BY)|OPEN|||
 FT|0202|13:58|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
@@ -116640,7 +114311,7 @@ FI3|0043|08:51|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FI3|0131|11:27|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
 FI3|0166|13:08|Non-critical|BTap|BRANCH FR STOP SW|CLOSE|||
 FI3|0168|13:11|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
-FI3|0264|15:42|Critical|NFI|SGCU 1 B (W)|CLOSE|||`,168:`FT|0012|20:18|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
+FI3|0264|15:42|Critical|NFI|SGCU 1 B (W)|CLOSE|||`,617:`FT|0012|20:18|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0276|04:30|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FI1|0059|21:36|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI1|0135|23:55|Critical|Unlock|FPS GRAY|CLOSE|||
@@ -116665,7 +114336,7 @@ FI3|0023|20:42|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FI3|0087|22:42|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FI3|0151|00:28|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FI3|0190|02:15|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
-FI3|0275|04:35|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,169:`FT|0040|08:31|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
+FI3|0275|04:35|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,550:`FT|0040|08:31|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0073|09:14|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FT|0235|13:45|Critical|NFI|SGCU 1 B (W)|CLOSE|||
 FT|0305|15:16|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
@@ -116696,7 +114367,7 @@ FI3|0066|09:11|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FI3|0099|09:55|Critical|Seal Out|HL (BY)|CLOSE|||
 FI3|0104|10:16|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FI3|0171|11:44|Non-critical|BTap|BRANCH FR STOP SW|CLOSE|||
-FI3|0292|15:06|Critical|NFI|SGCU 1 B (W)|CLOSE|||`,170:`FT|0084|21:52|Critical|PNG|B.COVER METER|CLOSE|||
+FI3|0292|15:06|Critical|NFI|SGCU 1 B (W)|CLOSE|||`,622:`FT|0084|21:52|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0161|23:51|Critical|NFI|SGCU 1 B (W)|CLOSE|||
 FT|0299|03:42|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FI1|0041|20:55|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
@@ -116729,7 +114400,7 @@ FI2|0273|03:11|Non-critical|WOB|DETAIL JOINT 1|CLOSE|||
 FI2|0302|03:51|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI3|0015|20:25|Critical|NFI|SW.H.L RED (B)|CLOSE|||
 FI3|0157|23:53|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
-FI3|0190|00:36|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||`,171:`FT|0039|08:50|Critical|NFI|SGCU 1 B (W)|CLOSE|||
+FI3|0190|00:36|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||`,554:`FT|0039|08:50|Critical|NFI|SGCU 1 B (W)|CLOSE|||
 FT|0062|09:33|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0083|10:27|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FI1|0001|07:41|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
@@ -116757,7 +114428,7 @@ FI2|0192|14:38|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI2|0203|14:59|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI2|0225|15:39|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI2|0238|16:03|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|OPEN|||
-FI3|0097|10:59|Critical|NoP|NO RETAINER INJECTOR|OPEN|||`,172:`FT|0017|20:31|Critical|PNG|B.COVER METER|CLOSE|||
+FI3|0097|10:59|Critical|NoP|NO RETAINER INJECTOR|OPEN|||`,627:`FT|0017|20:31|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0237|04:31|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FI1|0019|20:35|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
 FI1|0022|20:41|Non-critical|TUN|BD EARTH|CLOSE|||
@@ -116785,7 +114456,7 @@ FI2|0224|04:11|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI3|0037|21:15|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FI3|0045|21:30|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||
 FI3|0119|00:06|Critical|NFI|SW.H.L RED (B)|CLOSE|||
-FI3|0225|04:14|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||`,173:`FT|0010|07:52|Critical|Seal In|OBD RED (LgL)|CLOSE|||
+FI3|0225|04:14|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||`,529:`FT|0010|07:52|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0229|13:37|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0255|14:11|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0332|15:52|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
@@ -116820,7 +114491,7 @@ FI2|0323|15:45|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI2|0327|15:50|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI3|0143|11:07|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0185|12:47|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||
-FI3|0257|14:20|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||`,174:`FT|0271|03:04|Critical|Seal In|OBD RED (LgL)|CLOSE|||
+FI3|0257|14:20|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||`,632:`FT|0271|03:04|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0330|04:24|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0338|04:34|Critical|Seal Out|HL (BY)|CLOSE|||
 FI1|0011|20:14|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +10-0)|CLOSE|||
@@ -116860,7 +114531,7 @@ FI3|0040|20:59|Critical|NFI|SW.H.L RED (B)|CLOSE|||
 FI3|0091|22:22|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FI3|0129|23:14|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0242|02:31|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
-FI3|0303|03:53|Critical|PNG|B.COVER METER|CLOSE|||`,175:`FT|0047|08:48|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
+FI3|0303|03:53|Critical|PNG|B.COVER METER|CLOSE|||`,558:`FT|0047|08:48|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FT|0080|09:37|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0092|09:55|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0258|15:00|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
@@ -116893,7 +114564,7 @@ FI2|0251|14:54|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI2|0267|15:18|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI2|0276|15:31|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI3|0094|10:18|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
-FI3|0257|15:04|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||`,176:`FT|0050|08:55|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
+FI3|0257|15:04|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||`,562:`FT|0050|08:55|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FT|0077|09:36|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0113|10:46|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0160|11:58|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
@@ -116936,7 +114607,7 @@ FI2|0274|15:43|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI3|0025|08:23|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI3|0098|10:30|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI3|0164|12:55|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
-FI3|0269|15:36|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,177:`FT|0009|07:52|Critical|Seal Out|HL (BY)|CLOSE|||
+FI3|0269|15:36|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,535:`FT|0009|07:52|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0046|08:47|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0163|11:54|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0164|11:56|Critical|Seal Out|HL (BY)|CLOSE|||
@@ -116976,7 +114647,7 @@ FI2|0246|14:47|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI2|0277|15:33|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI2|0288|15:49|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI3|0003|07:49|Critical|NFI|SW.H.L RED (B)|CLOSE|||
-FI3|0299|16:07|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,178:`FT|0076|21:55|Critical|Seal Out|HL (BY)|CLOSE|||
+FI3|0299|16:07|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,603:`FT|0076|21:55|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0196|01:58|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FI1|0002|20:03|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI1|0041|21:02|Non-critical|TOV|FL RELAY|CLOSE|||
@@ -117010,7 +114681,7 @@ FI2|0272|03:59|Non-critical|DOS|CLAMP 7 TO CLAMP 8 (400 +-10)|CLOSE|||
 FI2|0288|04:24|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0068|21:49|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FI3|0169|00:37|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
-FI3|0248|03:23|Critical|PNG|B.SEAL HL (Br)|CLOSE|||`,179:`FT|0164|13:18|Critical|Seal Out|HL (BY)|OPEN|||
+FI3|0248|03:23|Critical|PNG|B.SEAL HL (Br)|CLOSE|||`,539:`FT|0164|13:18|Critical|Seal Out|HL (BY)|OPEN|||
 FT|0182|13:49|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FI1|0002|07:43|Non-critical|WOB|BRANCH TERMINAL|CLOSE|||
 FI1|0011|07:58|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
@@ -117042,7 +114713,7 @@ FI2|0208|14:38|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI2|0214|14:48|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI2|0221|15:00|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI2|0259|16:05|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
-FI3|0013|08:07|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||`,180:`FT|0007|20:11|Critical|PNG|B.COVER METER|CLOSE|||
+FI3|0013|08:07|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||`,608:`FT|0007|20:11|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0020|20:34|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FT|0064|21:51|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0075|22:26|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
@@ -117075,7 +114746,7 @@ FI3|0049|21:31|Non-critical|BTap|BRANCH FR STOP SW|CLOSE|||
 FI3|0096|23:09|Critical|NFI|SW.H.L RED (B)|CLOSE|||
 FI3|0174|02:11|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
 FI3|0205|03:06|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
-FI3|0249|04:24|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,181:`FT|0147|11:17|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
+FI3|0249|04:24|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,543:`FT|0147|11:17|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FT|0183|12:52|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0186|12:56|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0255|14:32|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
@@ -117115,7 +114786,7 @@ FI2|0293|15:29|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0019|08:11|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FI3|0026|08:21|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
 FI3|0098|10:16|Non-critical|BTap|BRANCH FR STOP SW|CLOSE|||
-FI3|0307|15:50|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,182:`FT|0008|20:10|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
+FI3|0307|15:50|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,613:`FT|0008|20:10|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0167|00:13|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0180|00:31|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0231|02:29|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
@@ -117146,7 +114817,7 @@ FI3|0109|22:56|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FI3|0172|00:27|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
 FI3|0197|01:48|Critical|PNG|B.SOKET INJECTOR|OPEN|||
 FI3|0222|02:24|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
-FI3|0313|04:33|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||`,183:`FT|0001|07:40|Critical|Seal In|OBD RED (LgL)|OPEN|||
+FI3|0313|04:33|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||`,547:`FT|0001|07:40|Critical|Seal In|OBD RED (LgL)|OPEN|||
 FT|0139|11:34|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0168|13:05|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0188|13:36|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
@@ -117184,7 +114855,7 @@ FI2|0256|15:29|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0003|07:48|Critical|NFI|SGCU 1 B (W)|CLOSE|||
 FI3|0079|09:47|Critical|NFI|SGCU 1 B (W)|CLOSE|||
 FI3|0231|14:50|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
-FI3|0249|15:19|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,184:`FT|0106|23:07|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
+FI3|0249|15:19|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,618:`FT|0106|23:07|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0169|00:50|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0177|01:48|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0270|04:21|Critical|NFI|SGCU 1 B (W)|CLOSE|||
@@ -117218,7 +114889,7 @@ FI3|0024|20:44|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||
 FI3|0138|00:06|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FI3|0145|00:18|Critical|Seal Out|HL (BY)|CLOSE|||
 FI3|0248|03:50|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||
-FI3|0262|04:13|Critical|NFI|SW.H.L RED (B)|CLOSE|||`,185:`FT|0021|08:06|Critical|Seal In|OBD RED (LgL)|CLOSE|||
+FI3|0262|04:13|Critical|NFI|SW.H.L RED (B)|CLOSE|||`,551:`FT|0021|08:06|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0057|08:53|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0227|13:35|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0256|14:12|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
@@ -117244,7 +114915,7 @@ FI2|0233|13:47|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI2|0253|14:13|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI2|0285|14:55|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI3|0101|09:55|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||
-FI3|0147|11:11|Critical|NFI|SGCU 1 B (W)|OPEN|||`,186:`FT|0015|20:19|Critical|Seal Out|HL (BY)|CLOSE|||
+FI3|0147|11:11|Critical|NFI|SGCU 1 B (W)|OPEN|||`,623:`FT|0015|20:19|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0086|21:55|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0276|03:11|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0317|04:06|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
@@ -117274,7 +114945,7 @@ FI3|0054|21:18|Critical|PNG|B.SEAL SMARTKEY (Ch)|CLOSE|||
 FI3|0122|23:05|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI3|0233|02:20|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
 FI3|0258|02:53|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||
-FI3|0275|03:16|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,187:`FT|0025|08:24|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
+FI3|0275|03:16|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,555:`FT|0025|08:24|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0076|09:59|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0210|15:07|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FI1|0053|09:17|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
@@ -117306,7 +114977,7 @@ FI2|0153|13:27|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI2|0220|15:30|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0140|13:03|Critical|Seal Out|HL (BY)|CLOSE|||
 FI3|0168|13:56|Non-critical|BTap|BRANCH FR STOP SW|CLOSE|||
-FI3|0223|15:36|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||`,188:`FT|0112|23:47|Critical|Seal Out|HL (BY)|CLOSE|||
+FI3|0223|15:36|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||`,628:`FT|0112|23:47|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0115|23:53|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FI1|0005|20:09|Non-critical|TUN|BD EARTH|CLOSE|||
 FI1|0019|20:35|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
@@ -117339,7 +115010,7 @@ FI3|0068|22:28|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0126|00:19|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0150|01:50|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FI3|0230|04:24|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
-FI3|0231|04:26|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,189:`FT|0180|11:48|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
+FI3|0231|04:26|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,530:`FT|0180|11:48|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0185|11:55|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0291|14:58|Critical|PNG|B.SEAL HL (Br)|OPEN|||
 FT|0305|15:16|Critical|Seal In|OBD RED (LgL)|CLOSE|||
@@ -117378,7 +115049,7 @@ FI2|0296|15:09|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI2|0328|15:51|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0082|09:32|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0101|09:57|Non-critical|BTap|BRANCH FR STOP SW|CLOSE|||
-FI3|0334|16:00|Critical|NFI|SW.H.L RED (B)|CLOSE|||`,190:`FT|0180|00:16|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
+FI3|0334|16:00|Critical|NFI|SW.H.L RED (B)|CLOSE|||`,633:`FT|0180|00:16|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0303|03:47|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FI1|0059|21:19|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
 FI1|0074|21:39|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
@@ -117406,7 +115077,7 @@ FI2|0213|01:51|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI2|0299|03:47|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI2|0317|04:11|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI3|0018|20:29|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
-FI3|0111|22:50|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||`,191:`FT|0086|09:46|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
+FI3|0111|22:50|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||`,559:`FT|0086|09:46|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0247|14:44|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FI1|0004|07:45|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI1|0012|07:57|Non-critical|BTap|BRANCH FUSEBOX|CLOSE|||
@@ -117445,7 +115116,7 @@ FI2|0294|15:58|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI2|0296|16:01|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI3|0023|08:19|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
 FI3|0033|08:33|Critical|Seal In|OBD RED (LgL)|CLOSE|||
-FI3|0259|15:07|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||`,192:`FT|0005|07:46|Critical|Seal In|OBD RED (LgL)|CLOSE|||
+FI3|0259|15:07|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||`,563:`FT|0005|07:46|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0048|08:52|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0057|09:06|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0081|09:42|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
@@ -117486,7 +115157,7 @@ FI2|0230|14:36|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0102|10:35|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FI3|0132|11:21|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||
 FI3|0151|11:50|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
-FI3|0259|15:20|Critical|NFI|SW.H.L RED (B)|CLOSE|||`,193:`FT|0030|08:23|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
+FI3|0259|15:20|Critical|NFI|SW.H.L RED (B)|CLOSE|||`,536:`FT|0030|08:23|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0231|14:20|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0280|15:32|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0286|15:41|Critical|NFI|SGCU 1 B (W)|CLOSE|||
@@ -117512,7 +115183,7 @@ FI2|0257|15:03|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI2|0283|15:42|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI3|0074|09:34|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||
 FI3|0093|10:17|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
-FI3|0291|15:55|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||`,194:`FT|0035|20:52|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
+FI3|0291|15:55|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||`,604:`FT|0035|20:52|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0245|03:13|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0275|03:59|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FI1|0001|20:01|Non-critical|BTap|BRANCH FUSEBOX|CLOSE|||
@@ -117552,7 +115223,7 @@ FI3|0179|00:53|Critical|NFI|SW.H.L RED (B)|CLOSE|||
 FI3|0197|02:05|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
 FI3|0253|03:31|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
 FI3|0261|03:43|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
-FI3|0285|04:20|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,195:`FT|0083|10:15|Critical|Seal Out|HL (BY)|CLOSE|||
+FI3|0285|04:20|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,540:`FT|0083|10:15|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0129|11:33|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0147|12:49|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0219|14:52|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
@@ -117585,7 +115256,7 @@ FI3|0050|09:08|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI3|0126|11:33|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
 FI3|0149|12:58|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FI3|0212|14:46|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
-FI3|0254|15:58|Critical|PNG|B.SEAL HL (BW)|CLOSE|||`,196:`FT|0067|21:56|Critical|PNG|B.COVER METER|CLOSE|||
+FI3|0254|15:58|Critical|PNG|B.SEAL HL (BW)|CLOSE|||`,609:`FT|0067|21:56|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0097|23:04|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0121|23:47|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0180|02:16|Critical|Seal In|OBD RED (LgL)|CLOSE|||
@@ -117619,7 +115290,7 @@ FI2|0145|00:34|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI2|0209|03:12|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI2|0251|04:26|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI2|0255|04:33|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
-FI3|0099|23:14|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,197:`FT|0020|08:06|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
+FI3|0099|23:14|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,544:`FT|0020|08:06|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0128|10:51|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0283|15:11|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0284|15:12|Critical|Seal In|OBD RED (LgL)|CLOSE|||
@@ -117654,7 +115325,7 @@ FI3|0035|08:33|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI3|0045|08:47|Critical|Seal Out|HL (BY)|CLOSE|||
 FI3|0085|09:43|Non-critical|BTap|BRANCH FR STOP SW|CLOSE|||
 FI3|0123|10:51|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
-FI3|0124|10:52|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||`,198:`FT|0098|22:34|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
+FI3|0124|10:52|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||`,614:`FT|0098|22:34|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0184|00:37|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0209|01:58|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FT|0263|03:15|Critical|PNG|B.COVER METER|CLOSE|||
@@ -117685,7 +115356,7 @@ FI2|0316|04:36|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI3|0042|21:05|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FI3|0147|23:50|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FI3|0222|02:22|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||
-FI3|0303|04:18|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,199:`FT|0017|08:05|Critical|NFI|SGCU 1 B (W)|CLOSE|||
+FI3|0303|04:18|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,548:`FT|0017|08:05|Critical|NFI|SGCU 1 B (W)|CLOSE|||
 FT|0019|08:09|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FT|0067|09:25|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FT|0202|13:58|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
@@ -117719,7 +115390,7 @@ FI2|0206|14:09|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI2|0238|15:00|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI2|0245|15:11|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI3|0210|14:17|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
-FI3|0219|14:31|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||`,200:`FT|0042|21:07|Critical|Seal In|OBD RED (LgL)|CLOSE|||
+FI3|0219|14:31|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||`,619:`FT|0042|21:07|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0180|01:53|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0198|02:23|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0250|03:48|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
@@ -117756,7 +115427,7 @@ FI3|0121|23:38|Critical|Seal Out|HL (BY)|CLOSE|||
 FI3|0126|23:46|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FI3|0190|02:16|Critical|PNG|B.COVER METER|CLOSE|||
 FI3|0211|02:50|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||
-FI3|0254|04:00|Critical|PNG|B.SEAL SMARTKEY (Ch)|CLOSE|||`,201:`FT|0214|13:18|Critical|Seal Out|HL (BY)|CLOSE|||
+FI3|0254|04:00|Critical|PNG|B.SEAL SMARTKEY (Ch)|CLOSE|||`,552:`FT|0214|13:18|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0216|13:20|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0309|15:22|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FI1|0038|08:29|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
@@ -117783,7 +115454,7 @@ FI2|0126|10:43|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI2|0155|11:21|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI2|0221|13:32|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0054|08:55|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
-FI3|0315|15:35|Critical|NFI|SGCU 1 B (W)|CLOSE|||`,202:`FT|0044|20:58|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
+FI3|0315|15:35|Critical|NFI|SGCU 1 B (W)|CLOSE|||`,624:`FT|0044|20:58|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0236|02:17|Critical|PNG|B.COVER METER|CLOSE|||
 FI1|0003|20:04|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI1|0013|20:17|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
@@ -117811,7 +115482,7 @@ FI2|0158|23:52|Non-critical|DUS|LIPATAN PVC SS.SW.BLUE (25+-5)|CLOSE|||
 FI2|0185|00:28|Non-critical|DUS|SGCU 3 (225 +-5)|OPEN|||
 FI2|0275|03:14|Non-critical|DOS|CLAMP 7 TO CLAMP 8 (400 +-10)|CLOSE|||
 FI3|0036|20:53|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
-FI3|0330|04:29|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,203:`FT|0082|10:25|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
+FI3|0330|04:29|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,556:`FT|0082|10:25|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0155|13:25|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FI1|0011|07:59|Critical|Unlock|FPS GRAY|CLOSE|||
 FI1|0015|08:07|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
@@ -117847,7 +115518,7 @@ FI3|0083|10:33|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FI3|0125|11:50|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FI3|0140|13:03|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||
 FI3|0150|13:22|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
-FI3|0162|13:44|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||`,204:`FT|0077|22:40|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
+FI3|0162|13:44|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||`,629:`FT|0077|22:40|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0087|22:59|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
 FT|0183|02:48|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0191|03:03|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
@@ -117885,7 +115556,7 @@ FI3|0135|00:38|Critical|PNG|B.SEAL HL (BW)|CLOSE|||
 FI3|0208|03:42|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0221|04:07|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
 FI3|0231|04:26|Critical|Seal In|OBD RED (LgL)|CLOSE|||
-FI3|0232|04:28|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||`,205:`FT|0078|09:20|Critical|Seal Out|HL (BY)|CLOSE|||
+FI3|0232|04:28|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||`,531:`FT|0078|09:20|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0087|09:32|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0291|14:58|Critical|NFI|SGCU 1 B (W)|CLOSE|||
 FT|0294|15:02|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
@@ -117913,7 +115584,7 @@ FI2|0303|15:19|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI2|0323|15:45|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI2|0335|16:00|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI2|0337|16:03|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
-FI3|0117|10:32|Critical|PNG|B.SEAL HL (Br)|CLOSE|||`,206:`FT|0120|22:55|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
+FI3|0117|10:32|Critical|PNG|B.SEAL HL (Br)|CLOSE|||`,634:`FT|0120|22:55|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0208|00:54|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0255|02:42|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0262|02:52|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
@@ -117944,7 +115615,7 @@ FI2|0233|02:19|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI2|0258|02:52|Non-critical|WOB|DETAIL JOINT 1|CLOSE|||
 FI2|0279|03:21|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI2|0315|04:08|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
-FI3|0071|21:41|Critical|NFI|SW.H.L RED (B)|CLOSE|||`,207:`FT|0125|10:58|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
+FI3|0071|21:41|Critical|NFI|SW.H.L RED (B)|CLOSE|||`,560:`FT|0125|10:58|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0182|13:08|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0201|13:36|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0221|14:05|Critical|Seal Out|HL (BY)|CLOSE|||
@@ -117981,7 +115652,7 @@ FI3|0147|11:36|Critical|Seal Out|HL (BY)|CLOSE|||
 FI3|0214|14:00|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0253|14:58|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||
 FI3|0256|15:03|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
-FI3|0284|15:44|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||`,208:`FT|0010|07:54|Critical|PNG|B.COVER METER|CLOSE|||
+FI3|0284|15:44|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||`,564:`FT|0010|07:54|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0077|09:36|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0081|09:42|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0217|14:10|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
@@ -118022,7 +115693,7 @@ FI2|0268|15:33|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|OPEN|||
 FI3|0098|10:30|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI3|0114|10:55|Critical|Unlock|FPS GRAY|CLOSE|||
 FI3|0196|13:46|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
-FI3|0214|14:14|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||`,209:`FT|0064|09:13|Critical|Seal Out|HL (BY)|CLOSE|||
+FI3|0214|14:14|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||`,537:`FT|0064|09:13|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0090|09:52|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0135|11:13|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0165|11:57|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
@@ -118052,7 +115723,7 @@ FI2|0283|15:42|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI2|0290|15:52|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI2|0292|15:55|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI3|0086|09:52|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
-FI3|0268|15:21|Critical|NFI|SGCU 1 B (W)|CLOSE|||`,210:`FT|0078|21:58|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
+FI3|0268|15:21|Critical|NFI|SGCU 1 B (W)|CLOSE|||`,605:`FT|0078|21:58|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0089|22:30|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0159|00:16|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0292|04:25|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
@@ -118087,7 +115758,7 @@ FI3|0041|21:08|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
 FI3|0053|21:26|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI3|0138|23:50|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
 FI3|0168|00:36|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||
-FI3|0194|02:01|Critical|PNG|B.SOKET INJECTOR|CLOSE|||`,211:`FT|0091|10:29|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
+FI3|0194|02:01|Critical|PNG|B.SOKET INJECTOR|CLOSE|||`,541:`FT|0091|10:29|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0099|10:42|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0225|15:02|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FI1|0002|07:43|Non-critical|BTap|BRANCH FUSEBOX|CLOSE|||
@@ -118119,7 +115790,7 @@ FI2|0226|15:09|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI2|0244|15:40|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI2|0246|15:43|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0025|08:27|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
-FI3|0121|11:27|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||`,212:`FT|0018|20:30|Critical|Seal In|OBD RED (LgL)|CLOSE|||
+FI3|0121|11:27|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||`,610:`FT|0018|20:30|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0033|20:56|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0041|21:11|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0096|23:03|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
@@ -118160,7 +115831,7 @@ FI3|0001|20:06|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0069|22:21|Critical|NFI|SW.H.L RED (B)|CLOSE|||
 FI3|0082|22:44|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FI3|0104|23:23|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||
-FI3|0257|04:38|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,213:`FT|0006|07:47|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
+FI3|0257|04:38|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,545:`FT|0006|07:47|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0186|12:56|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0255|14:32|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0314|15:54|Critical|Seal In|OBD RED (LgL)|CLOSE|||
@@ -118192,7 +115863,7 @@ FI3|0018|08:10|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI3|0021|08:14|Critical|NFI|SGCU 1 B (W)|CLOSE|||
 FI3|0067|09:17|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0137|11:09|Critical|NFI|SW.H.L RED (B)|CLOSE|||
-FI3|0217|13:45|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||`,214:`FT|0101|22:38|Critical|NFI|SGCU 1 B (W)|CLOSE|||
+FI3|0217|13:45|Non-critical|Detail NG|NO DETAIL JOINT 7|CLOSE|||`,615:`FT|0101|22:38|Critical|NFI|SGCU 1 B (W)|CLOSE|||
 FT|0221|02:15|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0259|03:10|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FI1|0029|20:41|Non-critical|WOB|BRANCH TERMINAL|CLOSE|||
@@ -118217,7 +115888,7 @@ FI2|0246|02:56|Non-critical|BTap|DETAIL COVER SG|CLOSE|||
 FI2|0264|03:22|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI2|0296|04:08|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI2|0312|04:31|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
-FI3|0066|21:39|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||`,215:`FT|0089|09:59|Critical|NFI|SGCU 1 B (W)|CLOSE|||
+FI3|0066|21:39|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||`,549:`FT|0089|09:59|Critical|NFI|SGCU 1 B (W)|CLOSE|||
 FT|0135|11:27|Critical|NFI|SGCU 1 B (W)|CLOSE|||
 FT|0210|14:11|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0225|14:35|Critical|NFI|SGCU 1 B (W)|CLOSE|||
@@ -118251,7 +115922,7 @@ FI2|0278|16:04|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI3|0049|09:02|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0073|09:40|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FI3|0125|11:17|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||
-FI3|0182|13:33|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,216:`FT|0070|21:53|Critical|NFI|SGCU 1 B (W)|CLOSE|||
+FI3|0182|13:33|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,620:`FT|0070|21:53|Critical|NFI|SGCU 1 B (W)|CLOSE|||
 FT|0102|23:00|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FT|0194|02:16|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0278|04:34|Critical|NFI|SGCU 1 B (W)|CLOSE|||
@@ -118284,7 +115955,7 @@ FI2|0271|04:27|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI3|0017|20:32|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0178|01:56|Critical|NFI|SW.H.L RED (B)|CLOSE|||
 FI3|0220|03:05|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
-FI3|0222|03:08|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||`,217:`FT|0044|08:36|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
+FI3|0222|03:08|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||`,553:`FT|0044|08:36|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0124|10:35|Critical|NFI|SGCU 1 B (W)|CLOSE|||
 FI1|0037|08:28|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI1|0046|08:40|Non-critical|BTap|BRANCH FUSEBOX|CLOSE|||
@@ -118318,7 +115989,7 @@ FI2|0282|14:51|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI2|0306|15:23|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI2|0325|15:47|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI3|0335|16:01|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
-FI3|0336|16:03|Critical|PNG|B.SEAL HL (Br)|CLOSE|||`,218:`FT|0011|20:13|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
+FI3|0336|16:03|Critical|PNG|B.SEAL HL (Br)|CLOSE|||`,625:`FT|0011|20:13|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0126|23:04|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0141|23:24|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0143|23:26|Critical|Seal Out|HL (BY)|CLOSE|||
@@ -118349,7 +116020,7 @@ FI2|0259|02:53|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI2|0304|03:53|Non-critical|BTap|DETAIL COVER SG|CLOSE|||
 FI2|0336|04:37|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0164|00:01|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
-FI3|0231|02:16|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||`,219:`FT|0128|11:50|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
+FI3|0231|02:16|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||`,557:`FT|0128|11:50|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0240|16:02|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FI1|0023|08:22|Critical|NFI|SW.H.L RED (B)|CLOSE|||
 FI1|0032|08:38|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
@@ -118384,7 +116055,7 @@ FI3|0029|08:38|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0037|08:53|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI3|0085|10:36|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0151|13:23|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
-FI3|0154|13:29|Critical|NFI|SGCU 1 B (W)|CLOSE|||`,220:`FT|0085|22:56|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
+FI3|0154|13:29|Critical|NFI|SGCU 1 B (W)|CLOSE|||`,630:`FT|0085|22:56|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0187|02:56|Critical|Seal Out|HL (BY)|CLOSE|||
 FI1|0015|20:28|Non-critical|BTap|BRANCH FUSEBOX|CLOSE|||
 FI1|0031|20:58|Critical|PNG|B.SEAL SMARTKEY (Ch)|CLOSE|||
@@ -118418,7 +116089,7 @@ FI3|0086|23:04|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
 FI3|0129|00:26|Critical|Unlock|FPS GRAY|CLOSE|||
 FI3|0142|00:51|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI3|0153|01:57|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
-FI3|0206|03:38|Non-critical|BTap|BRANCH FR STOP SW|CLOSE|||`,221:`FT|0033|08:22|Critical|Seal In|OBD RED (LgL)|CLOSE|||
+FI3|0206|03:38|Non-critical|BTap|BRANCH FR STOP SW|CLOSE|||`,532:`FT|0033|08:22|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0165|11:29|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0247|14:01|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FI1|0007|07:49|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
@@ -118451,7 +116122,7 @@ FI2|0296|15:09|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI3|0025|08:17|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FI3|0067|09:12|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||
 FI3|0181|11:56|Critical|Seal Out|HL (BY)|CLOSE|||
-FI3|0285|14:56|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||`,222:`FT|0010|20:12|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
+FI3|0285|14:56|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||`,635:`FT|0010|20:12|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0021|20:27|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0238|02:19|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0258|02:46|Critical|NFI|SGCU 1 B (W)|CLOSE|||
@@ -118489,7 +116160,7 @@ FI2|0288|03:32|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI2|0317|04:11|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI2|0330|04:29|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0190|00:36|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
-FI3|0293|03:40|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||`,223:`FT|0003|07:43|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
+FI3|0293|03:40|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||`,561:`FT|0003|07:43|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0055|09:00|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0082|09:40|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FT|0245|14:41|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
@@ -118521,7 +116192,7 @@ FI3|0093|10:16|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FI3|0117|10:51|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||
 FI3|0156|11:49|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI3|0204|13:45|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
-FI3|0299|16:07|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,224:`FT|0030|08:24|Critical|Seal Out|HL (BY)|CLOSE|||
+FI3|0299|16:07|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||`,565:`FT|0030|08:24|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0051|08:56|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0074|09:32|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0128|11:09|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
@@ -118562,7 +116233,7 @@ FI2|0280|15:52|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI3|0011|08:01|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI3|0013|08:04|Critical|NFI|SW.H.L RED (B)|CLOSE|||
 FI3|0220|14:21|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
-FI3|0229|14:35|Critical|NFI|SGCU 1 B (W)|CLOSE|||`,225:`FT|0001|08:43|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
+FI3|0229|14:35|Critical|NFI|SGCU 1 B (W)|CLOSE|||`,522:`FT|0001|08:43|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FT|0086|10:39|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0171|12:36|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
 FT|0256|14:32|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
@@ -118598,7 +116269,7 @@ FI2|0280|14:32|Non-critical|DUS|CLAMP 3 TO CLAMP 6 (555+-5)|CLOSE|||
 FI2|0309|15:11|Non-critical|BTap|DETAIL COVER SG|CLOSE|||
 FI3|0001|09:03|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0113|11:38|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||
-FI3|0227|14:13|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,226:`FT|0013|20:18|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
+FI3|0227|14:13|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,606:`FT|0013|20:18|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0058|21:27|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
 FT|0064|21:36|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FT|0286|04:16|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
@@ -118626,7 +116297,7 @@ FI2|0297|04:37|Non-critical|BTap|DETAIL COVER SG|CLOSE|||
 FI3|0082|22:25|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
 FI3|0103|22:57|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||
 FI3|0193|01:59|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
-FI3|0220|02:41|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,227:`FT|0001|09:03|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
+FI3|0220|02:41|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,523:`FT|0001|09:03|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FT|0114|11:38|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0227|14:13|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
 FI1|0001|07:56|Non-critical|BTap|BRANCH FUSEBOX|CLOSE|||
@@ -118670,7 +116341,7 @@ FI2|0316|15:15|Non-critical|DUS|CLAMP 3 TO CLAMP 6 (555+-5)|CLOSE|||
 FI3|0001|08:43|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0085|10:39|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||
 FI3|0170|12:36|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
-FI3|0255|14:32|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||`,228:`FT|0025|20:42|Critical|Seal Out|HL (BY)|OPEN|||
+FI3|0255|14:32|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||`,611:`FT|0025|20:42|Critical|Seal Out|HL (BY)|OPEN|||
 FT|0030|20:51|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0159|00:54|Critical|Seal Out|HL (BY)|CLOSE|||
 FI1|0012|20:20|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
@@ -118704,7 +116375,7 @@ FI2|0196|02:48|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
 FI2|0204|03:02|Non-critical|DOS|CLAMP 7 TO CLAMP 8 (400 +-10)|CLOSE|||
 FI2|0210|03:13|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI2|0219|03:29|Non-critical|DUS|LIPATAN PVC SS.SW.BLUE (25+-5)|CLOSE|||
-FI3|0227|03:44|Critical|PNG|B.SOKET INJECTOR|CLOSE|||`,229:`FT|0001|08:32|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
+FI3|0227|03:44|Critical|PNG|B.SOKET INJECTOR|CLOSE|||`,524:`FT|0001|08:32|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FT|0069|10:05|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0138|11:38|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
 FT|0205|13:11|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
@@ -118741,7 +116412,7 @@ FI3|0001|08:32|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0068|10:05|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||
 FI3|0136|11:38|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0204|13:11|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||
-FI3|0272|14:44|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,230:`FT|0048|21:07|Critical|Seal In|OBD RED (LgL)|CLOSE|||
+FI3|0272|14:44|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,616:`FT|0048|21:07|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FT|0111|22:53|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FT|0127|23:16|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
 FT|0160|00:03|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
@@ -118765,7 +116436,7 @@ FI2|0073|21:48|Non-critical|DUS|LIPATAN PVC SS.SW.BLUE (25+-5)|CLOSE|||
 FI2|0178|00:34|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
 FI2|0221|02:20|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
 FI2|0295|04:06|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
-FI3|0181|00:39|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||`,231:`FT|0001|08:43|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
+FI3|0181|00:39|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||`,525:`FT|0001|08:43|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FT|0086|10:39|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0171|12:36|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
 FT|0256|14:32|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
@@ -118809,7 +116480,7 @@ FI2|0300|14:51|Non-critical|BTap|DETAIL COVER SG|CLOSE|||
 FI2|0319|15:17|Non-critical|DUS|LIPATAN PVC SS.SW.BLUE (25+-5)|CLOSE|||
 FI3|0001|09:03|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0113|11:38|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||
-FI3|0226|14:13|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,232:`FT|0087|22:36|Critical|Seal Out|HL (BY)|CLOSE|||
+FI3|0226|14:13|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,621:`FT|0087|22:36|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0109|23:12|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
 FI1|0011|20:17|Non-critical|TOV|FL RELAY|CLOSE|||
 FI1|0076|22:19|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
@@ -118846,7 +116517,7 @@ FI2|0250|03:53|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|CLOSE|||
 FI2|0253|03:58|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI3|0070|22:15|Critical|NFI|SW.H.L RED (B)|CLOSE|||
 FI3|0116|23:29|Critical|NFI|SW.H.L RED (B)|CLOSE|||
-FI3|0188|02:11|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||`,233:`FT|0001|09:03|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
+FI3|0188|02:11|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||`,526:`FT|0001|09:03|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FT|0115|11:38|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0228|14:13|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
 FI1|0001|07:54|Non-critical|BTap|BRANCH FUSEBOX|CLOSE|||
@@ -118892,7 +116563,7 @@ FI3|0001|08:32|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0068|10:05|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||
 FI3|0136|11:38|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0204|13:11|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||
-FI3|0272|14:44|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,234:`FT|0088|21:57|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
+FI3|0272|14:44|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,626:`FT|0088|21:57|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
 FT|0299|03:42|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0330|04:24|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0334|04:29|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
@@ -118927,7 +116598,7 @@ FI2|0303|03:52|Non-critical|DUS|CLAMP 3 TO CLAMP 6 (555+-5)|CLOSE|||
 FI3|0024|20:37|Non-critical|BTap|BRANCH FR STOP SW|CLOSE|||
 FI3|0143|23:33|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||
 FI3|0262|02:58|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
-FI3|0306|03:57|Critical|PNG|B.COVER METER|CLOSE|||`,235:`FT|0001|08:32|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
+FI3|0306|03:57|Critical|PNG|B.COVER METER|CLOSE|||`,527:`FT|0001|08:32|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FT|0069|10:05|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0137|11:38|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
 FT|0205|13:11|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
@@ -118960,7 +116631,7 @@ FI2|0304|15:07|Non-critical|DOS|CLAMP 7 TO CLAMP 8 (400 +-10)|CLOSE|||
 FI3|0001|08:43|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0085|10:39|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||
 FI3|0170|12:36|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
-FI3|0255|14:32|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||`,236:`FT|0121|00:04|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
+FI3|0255|14:32|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||`,631:`FT|0121|00:04|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0204|03:28|Critical|Seal In|OBD RED (LgL)|CLOSE|||
 FI1|0001|20:01|Critical|NFI|SW.H.L RED (B)|CLOSE|||
 FI1|0045|21:25|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
@@ -118988,47 +116659,7 @@ FI2|0207|03:39|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
 FI3|0079|22:49|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0092|23:13|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0171|02:30|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
-FI3|0174|02:36|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||`,237:`FT|0107|09:50|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
-FT|0122|10:24|Critical|Seal Out|HL (BY)|CLOSE|||
-FT|0178|11:36|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
-FT|0254|14:12|Critical|Seal Out|HL (BY)|CLOSE|||
-FT|0305|15:17|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
-FI1|0005|07:41|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
-FI1|0021|08:01|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +10-0)|CLOSE|||
-FI1|0034|08:18|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
-FI1|0049|08:37|Critical|PNG|T.DEFORM TL (Dg)|CLOSE|||
-FI1|0066|08:59|Non-critical|Slec|SGCU 1 B (LW)|CLOSE|||
-FI1|0067|09:00|Critical|NFI|SW.H.L RED (B)|CLOSE|||
-FI1|0088|09:27|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
-FI1|0137|10:44|Non-critical|BTap|BRANCH FUSEBOX|CLOSE|||
-FI1|0180|11:39|Non-critical|BTap|BRANCH FUSEBOX|CLOSE|||
-FI1|0198|13:02|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
-FI1|0202|13:07|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
-FI1|0211|13:19|Non-critical|BTap|BRANCH FUSEBOX|CLOSE|||
-FI1|0213|13:21|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
-FI1|0225|13:36|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
-FI1|0231|13:44|Critical|WPW|FP.S GRAY (GW, BG)|CLOSE|||
-FI1|0245|14:02|Non-critical|WOB|BRANCH TERMINAL|CLOSE|||
-FI1|0255|14:15|Critical|NoP|NO RETAINER INJECTOR|OPEN|||
-FI1|0295|15:06|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +10-0)|CLOSE|||
-FI1|0311|15:26|Non-critical|BTap|BRANCH FUSEBOX|CLOSE|||
-FI2|0026|08:12|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
-FI2|0062|08:58|Non-critical|BTap|BRANCH IG COIL 1|CLOSE|||
-FI2|0075|09:15|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
-FI2|0118|10:25|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
-FI2|0148|11:03|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
-FI2|0154|11:11|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
-FI2|0191|12:58|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
-FI2|0216|13:30|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
-FI2|0243|14:04|Non-critical|PNG|B.SLEEVE HORN 1|CLOSE|||
-FI2|0276|14:45|Non-critical|DUS|SGCU 3 (225 +-5)|CLOSE|||
-FI2|0281|14:52|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
-FI2|0284|14:55|Non-critical|PNG|B.SLEEVE IG COIL 2|CLOSE|||
-FI2|0315|15:35|Non-critical|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|OPEN|||
-FI2|0330|15:54|Non-critical|BTap|DETAIL COVER SG|CLOSE|||
-FI3|0095|09:41|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
-DCFT|0144|11:00|Critical|Seal Out|HL (BY)|CLOSE|||
-DCFI|0238|14:02|Non-critical|BTap|BRANCH FUSEBOX|CLOSE|||`,238:`FT|0022|20:28|Critical|Seal Out|HL (BY)|CLOSE|||
+FI3|0174|02:36|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||`,636:`FT|0022|20:28|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0024|20:31|Critical|TBD|SW.H.L RED (Dg)|CLOSE|||
 FT|0166|23:57|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
 FI1|0020|20:27|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +10-0)|CLOSE|||
@@ -119063,7 +116694,7 @@ FI3|0096|22:28|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
 FI3|0122|23:03|Critical|NoP|NO RETAINER INJECTOR|CLOSE|||
 FI3|0140|23:28|Non-critical|BTap|BRANCH FR STOP SW|CLOSE|||
 FI3|0183|00:26|Critical|PNG|B.SEAL HL (Br)|CLOSE|||
-FI3|0192|00:38|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||`,239:`FT|0001|08:43|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
+FI3|0192|00:38|Non-critical|DOS|DRAINHOLE SGCU 1 B (25 +-10)|CLOSE|||`,528:`FT|0001|08:43|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
 FT|0086|10:39|Critical|PNG|B.COVER METER|CLOSE|||
 FT|0171|12:36|Critical|WPW|SMARTKEY (Dg, CH)|CLOSE|||
 FT|0256|14:32|Critical|PNG|B.SOKET INJECTOR|CLOSE|||
@@ -119112,7 +116743,7 @@ FI2|0304|14:55|Non-critical|WOB|DETAIL JOINT 1|CLOSE|||
 FI2|0323|15:18|Non-critical|DOS|CLAMP 7 TO CLAMP 8 (400 +-10)|CLOSE|||
 FI3|0001|09:03|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0113|11:38|Non-critical|Slec|FUSEBOX (RY)|CLOSE|||
-FI3|0227|14:13|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,240:`FT|0015|07:57|Critical|PNG|T.DEFORM TL (Dg)|OPEN|||
+FI3|0227|14:13|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||`,566:`FT|0015|07:57|Critical|PNG|T.DEFORM TL (Dg)|OPEN|||
 FT|0154|12:47|Critical|Seal Out|HL (BY)|CLOSE|||
 FT|0218|14:26|Critical|PNG|B.WIRE ISC BLACK (Sb)|CLOSE|||
 FT|0242|15:03|Critical|PNG|B.COVER METER|CLOSE|||
@@ -119157,7 +116788,7 @@ FI3|0062|09:14|Critical|Seal Out|HL (BY)|CLOSE|||
 FI3|0096|10:22|Non-critical|BTap|BRANCH TO MAIN RELAY|CLOSE|||
 FI3|0105|10:36|Non-critical|BTap|BRANCH BD EARTH|CLOSE|||
 FI3|0110|10:44|Critical|Part Asing|TERMINAL (BrB)|CLOSE|||
-FI3|0254|15:27|Critical|NFI|SW.H.L RED (B)|CLOSE|||`},REWORK:{161:`FT|0005|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|08:09|07:46||
+FI3|0254|15:27|Critical|NFI|SW.H.L RED (B)|CLOSE|||`},REWORK:{534:`FT|0005|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|08:09|07:46||
 FT|0177|Seal In|OBD RED (LgL)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|13:28|13:00||
 FT|0226|PNG|B.WIRE ISC BLACK (Sb)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|14:29|14:13||
 FI1|0004|NFI|SW.H.L RED (B)|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|08:07|07:45||
@@ -119186,7 +116817,7 @@ FI2|0147|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ul
 FI2|0192|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|13:58|13:28||
 FI2|0251|BTap|BRANCH IG COIL 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|15:25|14:56||
 FI2|0257|PNG|B.SLEEVE IG COIL 2|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|15:27|15:05||
-FI3|0101|Detail NG|NO DETAIL JOINT 7|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|10:46|10:29||`,162:`FT|0084|PNG|B.COVER METER|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|22:50|22:22||
+FI3|0101|Detail NG|NO DETAIL JOINT 7|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|10:46|10:29||`,602:`FT|0084|PNG|B.COVER METER|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|22:50|22:22||
 FT|0183|PNG|T.DEFORM TL (Dg)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|01:17|00:53||
 FT|0249|Seal Out|HL (BY)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|03:52|03:19||
 FI1|0002|PNG|T.DEFORM TL (Dg)|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|20:20|20:03||
@@ -119224,7 +116855,7 @@ FI3|0134|PNG|B.COVER METER|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|00:04
 FI3|0244|PNG|B.COVER METER|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|03:27|03:17||
 FI3|0280|NoP|NO RETAINER INJECTOR|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|04:37|04:12||
 FI3|0286|Seal Out|HL (BY)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|04:56|04:22||
-FI3|0291|Detail NG|NO DETAIL JOINT 7|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|04:42|04:29||`,163:`FT|0035|PNG|B.SEAL HL (Br)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|08:51|08:38||
+FI3|0291|Detail NG|NO DETAIL JOINT 7|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|04:42|04:29||`,538:`FT|0035|PNG|B.SEAL HL (Br)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|08:51|08:38||
 FT|0089|TBD|SW.H.L RED (Dg)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|11:03|10:25||
 FT|0132|PNG|B.SEAL HL (Br)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|12:06|11:39||
 FT|0151|Seal Out|HL (BY)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|13:07|12:56||
@@ -119257,7 +116888,7 @@ FI2|0175|BTap|BRANCH IG COIL 1|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|14:07
 FI2|0192|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|14:33|14:11||
 FI2|0205|DUS|SGCU 3 (225 +-5)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|15:07|14:33||
 FI3|0059|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|10:02|09:25||
-FI3|0167|Seal Out|HL (BY)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|14:02|13:29||`,164:`FT|0042|Seal In|OBD RED (LgL)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|21:27|21:12||
+FI3|0167|Seal Out|HL (BY)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|14:02|13:29||`,607:`FT|0042|Seal In|OBD RED (LgL)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|21:27|21:12||
 FT|0090|TBD|SW.H.L RED (Dg)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|23:06|22:52||
 FT|0216|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|03:30|03:19||
 FI1|0002|BTap|BRANCH FUSEBOX|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|20:32|20:03||
@@ -119281,7 +116912,7 @@ FI2|0119|DUS|SGCU 3 (225 +-5)|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|00:21|
 FI2|0141|DOS|CLAMP 7 TO CLAMP 8 (400 +-10)|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|01:01|00:28||
 FI2|0157|PNG|B.SLEEVE IG COIL 2|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|01:21|00:56||
 FI2|0217|WOB|DETAIL JOINT 1|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|03:54|03:26||
-FI3|0051|PNG|B.WIRE ISC BLACK (Sb)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|22:07|21:35||`,165:`FT|0159|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|11:47|11:34||
+FI3|0051|PNG|B.WIRE ISC BLACK (Sb)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|22:07|21:35||`,542:`FT|0159|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|11:47|11:34||
 FT|0199|PNG|B.SEAL HL (Br)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|13:34|13:14||
 FT|0225|PNG|B.SEAL HL (Br)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|14:06|13:50||
 FI1|0007|NFI|SW.H.L RED (B)|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|08:08|07:49||
@@ -119307,7 +116938,7 @@ FI2|0240|PNG|B.SLEEVE IG COIL 2|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|1
 FI2|0244|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|14:45|14:22||
 FI2|0311|BTap|BRANCH IG COIL 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|16:06|15:55||
 FI3|0111|WPW|FP.S GRAY (GW, BG)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|10:54|10:34||
-FI3|0293|BTap|BRANCH BD EARTH|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|15:57|15:30||`,166:`FT|0092|TBD|SW.H.L RED (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|22:54|22:25||
+FI3|0293|BTap|BRANCH BD EARTH|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|15:57|15:30||`,612:`FT|0092|TBD|SW.H.L RED (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|22:54|22:25||
 FT|0111|PNG|B.COVER METER|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|23:28|22:53||
 FT|0179|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|00:49|00:30||
 FI1|0003|NoP|NO RETAINER INJECTOR|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|20:38|20:04||
@@ -119330,7 +116961,7 @@ FI2|0061|PNG|B.SLEEVE HORN 1|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI
 FI2|0138|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|23:59|23:35||
 FI2|0201|WOB|DETAIL JOINT 1|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|02:02|01:51||
 FI2|0237|PNG|B.SLEEVE IG COIL 2|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|03:13|02:43||
-FI3|0151|BTap|BRANCH TO MAIN RELAY|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|00:15|23:55||`,167:`FT|0001|Seal In|OBD RED (LgL)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|07:59|07:40||
+FI3|0151|BTap|BRANCH TO MAIN RELAY|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|00:15|23:55||`,546:`FT|0001|Seal In|OBD RED (LgL)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|07:59|07:40||
 FT|0145|Seal Out|HL (BY)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|12:08|11:43||
 FT|0202|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|14:17|13:58||
 FI1|0018|BTap|BRANCH FUSEBOX|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|08:30|08:08||
@@ -119364,7 +116995,7 @@ FI3|0043|TBD|SW.H.L RED (Dg)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR
 FI3|0131|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|11:47|11:27||
 FI3|0166|BTap|BRANCH FR STOP SW|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|13:23|13:08||
 FI3|0168|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|13:43|13:11||
-FI3|0264|NFI|SGCU 1 B (W)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|16:00|15:42||`,168:`FT|0012|Part Asing|TERMINAL (BrB)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|20:39|20:18||
+FI3|0264|NFI|SGCU 1 B (W)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|16:00|15:42||`,617:`FT|0012|Part Asing|TERMINAL (BrB)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|20:39|20:18||
 FT|0276|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|05:02|04:30||
 FI1|0059|WPW|FP.S GRAY (GW, BG)|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|21:54|21:36||
 FI1|0135|Unlock|FPS GRAY|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|00:13|23:55||
@@ -119388,7 +117019,7 @@ FI3|0023|Part Asing|TERMINAL (BrB)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSI
 FI3|0087|PNG|T.DEFORM TL (Dg)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|23:02|22:42||
 FI3|0151|PNG|T.DEFORM TL (Dg)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|00:43|00:28||
 FI3|0190|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|02:40|02:15||
-FI3|0275|BTap|BRANCH TO MAIN RELAY|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|04:53|04:35||`,169:`FT|0040|TBD|SW.H.L RED (Dg)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|09:08|08:31||
+FI3|0275|BTap|BRANCH TO MAIN RELAY|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|04:53|04:35||`,550:`FT|0040|TBD|SW.H.L RED (Dg)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|09:08|08:31||
 FT|0073|PNG|T.DEFORM TL (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|09:44|09:14||
 FT|0235|NFI|SGCU 1 B (W)|[MAN]:SITI|Belum hafal urutan assembly|SAMSIR|14:15|13:45||
 FT|0305|Part Asing|TERMINAL (BrB)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|15:34|15:16||
@@ -119417,7 +117048,7 @@ FI3|0066|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Proses tidak mengikuti standa
 FI3|0099|Seal Out|HL (BY)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|10:10|09:55||
 FI3|0104|TBD|SW.H.L RED (Dg)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|10:52|10:16||
 FI3|0171|BTap|BRANCH FR STOP SW|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|12:14|11:44||
-FI3|0292|NFI|SGCU 1 B (W)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|15:36|15:06||`,170:`FT|0084|PNG|B.COVER METER|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|22:10|21:52||
+FI3|0292|NFI|SGCU 1 B (W)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|15:36|15:06||`,622:`FT|0084|PNG|B.COVER METER|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|22:10|21:52||
 FT|0161|NFI|SGCU 1 B (W)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|00:27|23:51||
 FT|0299|Part Asing|TERMINAL (BrB)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|04:02|03:42||
 FI1|0041|WPW|FP.S GRAY (GW, BG)|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|21:12|20:55||
@@ -119448,7 +117079,7 @@ FI2|0273|WOB|DETAIL JOINT 1|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|
 FI2|0302|PNG|B.SLEEVE HORN 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|04:08|03:51||
 FI3|0015|NFI|SW.H.L RED (B)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|20:33|20:25||
 FI3|0157|NoP|NO RETAINER INJECTOR|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|00:03|23:53||
-FI3|0190|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|01:06|00:36||`,171:`FT|0039|NFI|SGCU 1 B (W)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|09:21|08:50||
+FI3|0190|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|01:06|00:36||`,554:`FT|0039|NFI|SGCU 1 B (W)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|09:21|08:50||
 FT|0062|PNG|B.WIRE ISC BLACK (Sb)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|10:05|09:33||
 FT|0083|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|11:01|10:27||
 FI1|0001|NoP|NO RETAINER INJECTOR|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|07:58|07:41||
@@ -119474,7 +117105,7 @@ FI2|0169|PNG|B.SLEEVE IG COIL 2|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai
 FI2|0171|PNG|B.SLEEVE IG COIL 2|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|14:23|13:59||
 FI2|0192|BTap|BRANCH IG COIL 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|14:51|14:38||
 FI2|0203|PNG|B.SLEEVE HORN 1|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|15:16|14:59||
-FI2|0225|BTap|BRANCH IG COIL 1|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|16:10|15:39||`,172:`FT|0017|PNG|B.COVER METER|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|20:56|20:31||
+FI2|0225|BTap|BRANCH IG COIL 1|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|16:10|15:39||`,627:`FT|0017|PNG|B.COVER METER|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|20:56|20:31||
 FT|0237|PNG|B.SEAL HL (Br)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|04:50|04:31||
 FI1|0019|NoP|NO RETAINER INJECTOR|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|21:02|20:35||
 FI1|0022|TUN|BD EARTH|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|21:13|20:41||
@@ -119501,7 +117132,7 @@ FI2|0224|PNG|B.SLEEVE IG COIL 2|[METHOD]:PROSES|Proses tidak mengikuti standar|M
 FI3|0037|TBD|SW.H.L RED (Dg)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|21:41|21:15||
 FI3|0045|BTap|BRANCH BD EARTH|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|21:55|21:30||
 FI3|0119|NFI|SW.H.L RED (B)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|00:22|00:06||
-FI3|0225|WPW|FP.S GRAY (GW, BG)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|04:44|04:14||`,173:`FT|0010|Seal In|OBD RED (LgL)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|08:06|07:52||
+FI3|0225|WPW|FP.S GRAY (GW, BG)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|04:44|04:14||`,529:`FT|0010|Seal In|OBD RED (LgL)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|08:06|07:52||
 FT|0229|Part Asing|TERMINAL (BrB)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|14:12|13:37||
 FT|0255|PNG|B.WIRE ISC BLACK (Sb)|[MAN]:SITI|Belum hafal urutan assembly|SAMSIR|14:21|14:11||
 FT|0332|Part Asing|TERMINAL (BrB)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|16:09|15:52||
@@ -119534,7 +117165,7 @@ FI2|0323|DUS|SGCU 3 (225 +-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai s
 FI2|0327|PNG|B.SLEEVE IG COIL 2|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|16:16|15:50||
 FI3|0143|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|11:29|11:07||
 FI3|0185|Detail NG|NO DETAIL JOINT 7|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|13:18|12:47||
-FI3|0257|NoP|NO RETAINER INJECTOR|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|14:43|14:20||`,174:`FT|0271|Seal In|OBD RED (LgL)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|03:23|03:04||
+FI3|0257|NoP|NO RETAINER INJECTOR|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|14:43|14:20||`,632:`FT|0271|Seal In|OBD RED (LgL)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|03:23|03:04||
 FT|0330|Seal In|OBD RED (LgL)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|04:38|04:24||
 FT|0338|Seal Out|HL (BY)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|05:01|04:34||
 FI1|0011|DOS|DRAINHOLE SGCU 1 B (25 +10-0)|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|20:45|20:14||
@@ -119574,7 +117205,7 @@ FI3|0040|NFI|SW.H.L RED (B)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|21:1
 FI3|0091|Part Asing|TERMINAL (BrB)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|22:41|22:22||
 FI3|0129|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|23:29|23:14||
 FI3|0242|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|02:46|02:31||
-FI3|0303|PNG|B.COVER METER|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|04:23|03:53||`,175:`FT|0047|PNG|T.DEFORM TL (Dg)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|09:00|08:48||
+FI3|0303|PNG|B.COVER METER|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|04:23|03:53||`,558:`FT|0047|PNG|T.DEFORM TL (Dg)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|09:00|08:48||
 FT|0080|Seal In|OBD RED (LgL)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|10:05|09:37||
 FT|0092|TBD|SW.H.L RED (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|10:06|09:55||
 FT|0258|Part Asing|TERMINAL (BrB)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|15:20|15:00||
@@ -119605,7 +117236,7 @@ FI2|0251|PNG|B.SLEEVE IG COIL 2|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|15:2
 FI2|0267|PNG|B.SLEEVE HORN 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|15:51|15:18||
 FI2|0276|BTap|BRANCH IG COIL 1|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|16:02|15:31||
 FI3|0094|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|10:42|10:18||
-FI3|0257|TBD|SW.H.L RED (Dg)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|15:23|15:04||`,176:`FT|0050|PNG|B.SOKET INJECTOR|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|09:17|08:55||
+FI3|0257|TBD|SW.H.L RED (Dg)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|15:23|15:04||`,562:`FT|0050|PNG|B.SOKET INJECTOR|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|09:17|08:55||
 FT|0077|TBD|SW.H.L RED (Dg)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|10:09|09:36||
 FT|0113|Part Asing|TERMINAL (BrB)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|11:10|10:46||
 FT|0160|WPW|SMARTKEY (Dg, CH)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|12:20|11:58||
@@ -119647,7 +117278,7 @@ FI2|0274|PNG|B.SLEEVE HORN 1|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|16:17|1
 FI3|0025|WPW|FP.S GRAY (GW, BG)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|09:01|08:23||
 FI3|0098|WPW|FP.S GRAY (GW, BG)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|11:00|10:30||
 FI3|0164|WPW|FP.S GRAY (GW, BG)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|13:18|12:55||
-FI3|0269|BTap|BRANCH BD EARTH|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|16:11|15:36||`,177:`FT|0009|Seal Out|HL (BY)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|08:23|07:52||
+FI3|0269|BTap|BRANCH BD EARTH|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|16:11|15:36||`,535:`FT|0009|Seal Out|HL (BY)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|08:23|07:52||
 FT|0046|Seal In|OBD RED (LgL)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|09:02|08:47||
 FT|0163|PNG|B.WIRE ISC BLACK (Sb)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|12:24|11:54||
 FT|0164|Seal Out|HL (BY)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|12:11|11:56||
@@ -119686,7 +117317,7 @@ FI2|0246|DUS|SGCU 3 (225 +-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai s
 FI2|0277|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|15:48|15:33||
 FI2|0288|DUS|SGCU 3 (225 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|16:20|15:49||
 FI3|0003|NFI|SW.H.L RED (B)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|08:14|07:49||
-FI3|0299|BTap|BRANCH BD EARTH|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|16:20|16:07||`,178:`FT|0076|Seal Out|HL (BY)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|22:27|21:55||
+FI3|0299|BTap|BRANCH BD EARTH|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|16:20|16:07||`,603:`FT|0076|Seal Out|HL (BY)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|22:27|21:55||
 FT|0196|PNG|T.DEFORM TL (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|02:18|01:58||
 FI1|0002|WPW|FP.S GRAY (GW, BG)|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|20:19|20:03||
 FI1|0041|TOV|FL RELAY|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|MUJI|21:39|21:02||
@@ -119719,7 +117350,7 @@ FI2|0272|DOS|CLAMP 7 TO CLAMP 8 (400 +-10)|[MATERIAL]:SOCKET|Kualitas komponen t
 FI2|0288|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|04:59|04:24||
 FI3|0068|PNG|B.SOKET INJECTOR|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|21:59|21:49||
 FI3|0169|BTap|BRANCH TO MAIN RELAY|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|01:05|00:37||
-FI3|0248|PNG|B.SEAL HL (Br)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|03:39|03:23||`,179:`FT|0182|TBD|SW.H.L RED (Dg)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|14:12|13:49||
+FI3|0248|PNG|B.SEAL HL (Br)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|03:39|03:23||`,539:`FT|0182|TBD|SW.H.L RED (Dg)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|14:12|13:49||
 FI1|0002|WOB|BRANCH TERMINAL|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|MUJI|08:09|07:43||
 FI1|0011|WPW|FP.S GRAY (GW, BG)|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|08:18|07:58||
 FI1|0012|BTap|BRANCH FUSEBOX|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|08:29|08:00||
@@ -119750,7 +117381,7 @@ FI2|0208|PNG|B.SLEEVE IG COIL 2|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai
 FI2|0214|DUS|SGCU 3 (225 +-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|15:16|14:48||
 FI2|0221|DUS|SGCU 3 (225 +-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|15:38|15:00||
 FI2|0259|PNG|B.SLEEVE IG COIL 2|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|16:18|16:05||
-FI3|0013|TBD|SW.H.L RED (Dg)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|08:28|08:07||`,180:`FT|0007|PNG|B.COVER METER|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|20:39|20:11||
+FI3|0013|TBD|SW.H.L RED (Dg)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|08:28|08:07||`,608:`FT|0007|PNG|B.COVER METER|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|20:39|20:11||
 FT|0020|PNG|T.DEFORM TL (Dg)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|20:46|20:34||
 FT|0064|PNG|B.SEAL HL (Br)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|22:03|21:51||
 FT|0075|TBD|SW.H.L RED (Dg)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|23:01|22:26||
@@ -119783,7 +117414,7 @@ FI3|0049|BTap|BRANCH FR STOP SW|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|22
 FI3|0096|NFI|SW.H.L RED (B)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|23:28|23:09||
 FI3|0174|NoP|NO RETAINER INJECTOR|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|02:31|02:11||
 FI3|0205|WPW|FP.S GRAY (GW, BG)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|03:31|03:06||
-FI3|0249|BTap|BRANCH BD EARTH|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|04:47|04:24||`,181:`FT|0147|PNG|T.DEFORM TL (Dg)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|11:36|11:17||
+FI3|0249|BTap|BRANCH BD EARTH|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|04:47|04:24||`,543:`FT|0147|PNG|T.DEFORM TL (Dg)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|11:36|11:17||
 FT|0183|PNG|B.WIRE ISC BLACK (Sb)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|13:16|12:52||
 FT|0186|Seal In|OBD RED (LgL)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|13:11|12:56||
 FT|0255|PNG|B.SEAL HL (Br)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|14:54|14:32||
@@ -119821,7 +117452,7 @@ FI2|0293|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[METHOD]:PROSES|Proses tidak mengikuti
 FI3|0019|Part Asing|TERMINAL (BrB)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|08:34|08:11||
 FI3|0026|NoP|NO RETAINER INJECTOR|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|08:56|08:21||
 FI3|0098|BTap|BRANCH FR STOP SW|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|10:50|10:16||
-FI3|0307|BTap|BRANCH BD EARTH|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|16:20|15:50||`,182:`FT|0008|Part Asing|TERMINAL (BrB)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|20:43|20:10||
+FI3|0307|BTap|BRANCH BD EARTH|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|16:20|15:50||`,613:`FT|0008|Part Asing|TERMINAL (BrB)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|20:43|20:10||
 FT|0167|PNG|B.COVER METER|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|00:23|00:13||
 FT|0180|PNG|B.SEAL HL (Br)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|00:44|00:31||
 FT|0231|PNG|T.DEFORM TL (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|02:42|02:29||
@@ -119850,7 +117481,7 @@ FI2|0278|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[METHOD]:PROSES|Proses tidak mengikuti
 FI3|0109|TBD|SW.H.L RED (Dg)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|23:24|22:56||
 FI3|0172|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|01:02|00:27||
 FI3|0222|PNG|B.SOKET INJECTOR|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|02:57|02:24||
-FI3|0313|WPW|FP.S GRAY (GW, BG)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|05:06|04:33||`,183:`FT|0139|Part Asing|TERMINAL (BrB)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|11:56|11:34||
+FI3|0313|WPW|FP.S GRAY (GW, BG)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|05:06|04:33||`,547:`FT|0139|Part Asing|TERMINAL (BrB)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|11:56|11:34||
 FT|0168|Part Asing|TERMINAL (BrB)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|13:18|13:05||
 FT|0188|PNG|T.DEFORM TL (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|13:52|13:36||
 FI1|0019|DOS|DRAINHOLE SGCU 1 B (25 +10-0)|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|08:36|08:08||
@@ -119886,7 +117517,7 @@ FI2|0256|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MATERIAL]:SOCKET|Kualitas komponen ti
 FI3|0003|NFI|SGCU 1 B (W)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|08:07|07:48||
 FI3|0079|NFI|SGCU 1 B (W)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|10:05|09:47||
 FI3|0231|PNG|B.SEAL HL (Br)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|15:05|14:50||
-FI3|0249|BTap|BRANCH BD EARTH|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|15:48|15:19||`,184:`FT|0106|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|23:24|23:07||
+FI3|0249|BTap|BRANCH BD EARTH|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|15:48|15:19||`,618:`FT|0106|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|23:24|23:07||
 FT|0169|TBD|SW.H.L RED (Dg)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|01:07|00:50||
 FT|0177|PNG|B.SEAL HL (Br)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|02:22|01:48||
 FT|0270|NFI|SGCU 1 B (W)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|04:55|04:21||
@@ -119919,7 +117550,7 @@ FI3|0024|BTap|BRANCH BD EARTH|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJ
 FI3|0138|PNG|B.SOKET INJECTOR|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|00:39|00:06||
 FI3|0145|Seal Out|HL (BY)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|00:31|00:18||
 FI3|0248|Detail NG|NO DETAIL JOINT 7|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|04:23|03:50||
-FI3|0262|NFI|SW.H.L RED (B)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|04:32|04:13||`,185:`FT|0021|Seal In|OBD RED (LgL)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|08:34|08:06||
+FI3|0262|NFI|SW.H.L RED (B)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|04:32|04:13||`,551:`FT|0021|Seal In|OBD RED (LgL)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|08:34|08:06||
 FT|0057|TBD|SW.H.L RED (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|09:24|08:53||
 FT|0227|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|13:52|13:35||
 FT|0256|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|14:20|14:12||
@@ -119943,7 +117574,7 @@ FI2|0183|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[METHOD]:PROSES|Proses tidak mengikuti
 FI2|0233|BTap|BRANCH IG COIL 1|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|14:11|13:47||
 FI2|0253|BTap|BRANCH IG COIL 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|14:39|14:13||
 FI2|0285|DUS|SGCU 3 (225 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|15:20|14:55||
-FI3|0101|BTap|BRANCH BD EARTH|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|10:10|09:55||`,186:`FT|0015|Seal Out|HL (BY)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|20:41|20:19||
+FI3|0101|BTap|BRANCH BD EARTH|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|10:10|09:55||`,623:`FT|0015|Seal Out|HL (BY)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|20:41|20:19||
 FT|0086|PNG|B.SEAL HL (Br)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|22:15|21:55||
 FT|0276|Seal In|OBD RED (LgL)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|03:26|03:11||
 FT|0317|TBD|SW.H.L RED (Dg)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|04:23|04:06||
@@ -119972,7 +117603,7 @@ FI3|0054|PNG|B.SEAL SMARTKEY (Ch)|[METHOD]:PROSES|Proses tidak mengikuti standar
 FI3|0122|WPW|FP.S GRAY (GW, BG)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|23:20|23:05||
 FI3|0233|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|02:52|02:20||
 FI3|0258|Detail NG|NO DETAIL JOINT 7|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|03:14|02:53||
-FI3|0275|BTap|BRANCH TO MAIN RELAY|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|03:24|03:16||`,187:`FT|0025|TBD|SW.H.L RED (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|08:36|08:24||
+FI3|0275|BTap|BRANCH TO MAIN RELAY|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|03:24|03:16||`,555:`FT|0025|TBD|SW.H.L RED (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|08:36|08:24||
 FT|0076|Seal In|OBD RED (LgL)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|10:20|09:59||
 FT|0210|PNG|T.DEFORM TL (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|15:36|15:07||
 FI1|0053|NoP|NO RETAINER INJECTOR|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|09:45|09:17||
@@ -120002,7 +117633,7 @@ FI2|0153|BTap|BRANCH IG COIL 1|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|13
 FI2|0220|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|15:52|15:30||
 FI3|0140|Seal Out|HL (BY)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|13:34|13:03||
 FI3|0168|BTap|BRANCH FR STOP SW|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|14:25|13:56||
-FI3|0223|NoP|NO RETAINER INJECTOR|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|15:57|15:36||`,188:`FT|0112|Seal Out|HL (BY)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|00:08|23:47||
+FI3|0223|NoP|NO RETAINER INJECTOR|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|15:57|15:36||`,628:`FT|0112|Seal Out|HL (BY)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|00:08|23:47||
 FT|0115|Part Asing|TERMINAL (BrB)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|00:02|23:53||
 FI1|0005|TUN|BD EARTH|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|20:36|20:09||
 FI1|0019|NoP|NO RETAINER INJECTOR|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|20:53|20:35||
@@ -120034,7 +117665,7 @@ FI3|0068|BTap|BRANCH TO MAIN RELAY|[MAN]:SITI|Detail joint tidak sesuai drawing|
 FI3|0126|BTap|BRANCH TO MAIN RELAY|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|00:39|00:19||
 FI3|0150|PNG|T.DEFORM TL (Dg)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|02:14|01:50||
 FI3|0230|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|04:41|04:24||
-FI3|0231|BTap|BRANCH TO MAIN RELAY|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|04:54|04:26||`,189:`FT|0180|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|11:56|11:48||
+FI3|0231|BTap|BRANCH TO MAIN RELAY|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|04:54|04:26||`,530:`FT|0180|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|11:56|11:48||
 FT|0185|Part Asing|TERMINAL (BrB)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|12:19|11:55||
 FT|0305|Seal In|OBD RED (LgL)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|15:42|15:16||
 FI1|0038|NFI|SW.H.L RED (B)|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|08:56|08:29||
@@ -120071,7 +117702,7 @@ FI2|0296|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ul
 FI2|0328|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|16:25|15:51||
 FI3|0082|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|09:57|09:32||
 FI3|0101|BTap|BRANCH FR STOP SW|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|10:17|09:57||
-FI3|0334|NFI|SW.H.L RED (B)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|16:17|16:00||`,190:`FT|0180|PNG|B.SEAL HL (Br)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|00:46|00:16||
+FI3|0334|NFI|SW.H.L RED (B)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|16:17|16:00||`,633:`FT|0180|PNG|B.SEAL HL (Br)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|00:46|00:16||
 FT|0303|TBD|SW.H.L RED (Dg)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|04:13|03:47||
 FI1|0059|NoP|NO RETAINER INJECTOR|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|21:36|21:19||
 FI1|0074|NoP|NO RETAINER INJECTOR|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|22:13|21:39||
@@ -120098,7 +117729,7 @@ FI2|0213|PNG|B.SLEEVE HORN 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai st
 FI2|0299|PNG|B.SLEEVE HORN 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|04:12|03:47||
 FI2|0317|PNG|B.SLEEVE HORN 1|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|04:31|04:11||
 FI3|0018|NoP|NO RETAINER INJECTOR|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|20:41|20:29||
-FI3|0111|Slec|FUSEBOX (RY)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|23:14|22:50||`,191:`FT|0086|PNG|B.WIRE ISC BLACK (Sb)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|10:19|09:46||
+FI3|0111|Slec|FUSEBOX (RY)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|23:14|22:50||`,559:`FT|0086|PNG|B.WIRE ISC BLACK (Sb)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|10:19|09:46||
 FT|0247|PNG|B.SEAL HL (Br)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|15:05|14:44||
 FI1|0004|WPW|FP.S GRAY (GW, BG)|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|08:06|07:45||
 FI1|0012|BTap|BRANCH FUSEBOX|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|08:23|07:57||
@@ -120137,7 +117768,7 @@ FI2|0294|PNG|B.SLEEVE IG COIL 2|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai
 FI2|0296|PNG|B.SLEEVE HORN 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|16:25|16:01||
 FI3|0023|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|08:31|08:19||
 FI3|0033|Seal In|OBD RED (LgL)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|09:00|08:33||
-FI3|0259|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|15:25|15:07||`,192:`FT|0005|Seal In|OBD RED (LgL)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|08:00|07:46||
+FI3|0259|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|15:25|15:07||`,563:`FT|0005|Seal In|OBD RED (LgL)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|08:00|07:46||
 FT|0048|PNG|B.SEAL HL (Br)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|09:16|08:52||
 FT|0057|TBD|SW.H.L RED (Dg)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|09:25|09:06||
 FT|0081|PNG|B.WIRE ISC BLACK (Sb)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|09:57|09:42||
@@ -120176,7 +117807,7 @@ FI2|0230|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ul
 FI3|0102|PNG|T.DEFORM TL (Dg)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|10:45|10:35||
 FI3|0132|Detail NG|NO DETAIL JOINT 7|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|11:48|11:21||
 FI3|0151|NoP|NO RETAINER INJECTOR|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|12:25|11:50||
-FI3|0259|NFI|SW.H.L RED (B)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|15:34|15:20||`,193:`FT|0030|TBD|SW.H.L RED (Dg)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|08:57|08:23||
+FI3|0259|NFI|SW.H.L RED (B)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|15:34|15:20||`,536:`FT|0030|TBD|SW.H.L RED (Dg)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|08:57|08:23||
 FT|0231|TBD|SW.H.L RED (Dg)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|14:49|14:20||
 FT|0280|Seal In|OBD RED (LgL)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|15:49|15:32||
 FT|0286|NFI|SGCU 1 B (W)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|15:52|15:41||
@@ -120201,7 +117832,7 @@ FI2|0257|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MATERIAL]:SOCKET|Kualitas komponen ti
 FI2|0283|DUS|SGCU 3 (225 +-5)|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|15:56|15:42||
 FI3|0074|BTap|BRANCH BD EARTH|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|10:02|09:34||
 FI3|0093|TBD|SW.H.L RED (Dg)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|10:41|10:17||
-FI3|0291|Detail NG|NO DETAIL JOINT 7|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|16:24|15:55||`,194:`FT|0035|Part Asing|TERMINAL (BrB)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|21:26|20:52||
+FI3|0291|Detail NG|NO DETAIL JOINT 7|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|16:24|15:55||`,604:`FT|0035|Part Asing|TERMINAL (BrB)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|21:26|20:52||
 FT|0245|PNG|B.SEAL HL (Br)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|03:36|03:13||
 FT|0275|PNG|B.SEAL HL (Br)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|04:27|03:59||
 FI1|0001|BTap|BRANCH FUSEBOX|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|20:19|20:01||
@@ -120239,7 +117870,7 @@ FI3|0179|NFI|SW.H.L RED (B)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|
 FI3|0197|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|02:24|02:05||
 FI3|0253|NoP|NO RETAINER INJECTOR|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|03:46|03:31||
 FI3|0261|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|03:58|03:43||
-FI3|0285|BTap|BRANCH TO MAIN RELAY|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|04:52|04:20||`,195:`FT|0083|Seal Out|HL (BY)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|10:41|10:15||
+FI3|0285|BTap|BRANCH TO MAIN RELAY|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|04:52|04:20||`,540:`FT|0083|Seal Out|HL (BY)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|10:41|10:15||
 FT|0129|PNG|B.WIRE ISC BLACK (Sb)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|11:56|11:33||
 FT|0147|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|13:21|12:49||
 FT|0219|PNG|B.SEAL HL (Br)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|15:19|14:52||
@@ -120271,7 +117902,7 @@ FI3|0050|WPW|FP.S GRAY (GW, BG)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|
 FI3|0126|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|11:45|11:33||
 FI3|0149|PNG|B.SEAL HL (Br)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|13:30|12:58||
 FI3|0212|PNG|T.DEFORM TL (Dg)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|15:01|14:46||
-FI3|0254|PNG|B.SEAL HL (BW)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|16:32|15:58||`,196:`FT|0067|PNG|B.COVER METER|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|22:20|21:56||
+FI3|0254|PNG|B.SEAL HL (BW)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|16:32|15:58||`,609:`FT|0067|PNG|B.COVER METER|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|22:20|21:56||
 FT|0097|Seal Out|HL (BY)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|23:39|23:04||
 FT|0121|PNG|B.SEAL HL (Br)|[MAN]:SITI|Belum hafal urutan assembly|SAMSIR|00:23|23:47||
 FT|0180|Seal In|OBD RED (LgL)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|02:52|02:16||
@@ -120305,7 +117936,7 @@ FI2|0145|BTap|BRANCH IG COIL 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai 
 FI2|0209|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|03:28|03:12||
 FI2|0251|BTap|BRANCH IG COIL 1|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|04:50|04:26||
 FI2|0255|BTap|BRANCH IG COIL 1|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|05:09|04:33||
-FI3|0099|BTap|BRANCH TO MAIN RELAY|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|23:46|23:14||`,197:`FT|0020|Part Asing|TERMINAL (BrB)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|08:15|08:06||
+FI3|0099|BTap|BRANCH TO MAIN RELAY|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|23:46|23:14||`,544:`FT|0020|Part Asing|TERMINAL (BrB)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|08:15|08:06||
 FT|0128|TBD|SW.H.L RED (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|11:19|10:51||
 FT|0283|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|15:39|15:11||
 FT|0284|Seal In|OBD RED (LgL)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|15:30|15:12||
@@ -120339,7 +117970,7 @@ FI3|0035|WPW|FP.S GRAY (GW, BG)|[METHOD]:PROSES|Proses tidak mengikuti standar|S
 FI3|0045|Seal Out|HL (BY)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|08:59|08:47||
 FI3|0085|BTap|BRANCH FR STOP SW|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|09:57|09:43||
 FI3|0123|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|11:06|10:51||
-FI3|0124|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|11:11|10:52||`,198:`FT|0098|PNG|B.WIRE ISC BLACK (Sb)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|22:45|22:34||
+FI3|0124|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|11:11|10:52||`,614:`FT|0098|PNG|B.WIRE ISC BLACK (Sb)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|22:45|22:34||
 FT|0184|Seal In|OBD RED (LgL)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|00:55|00:37||
 FT|0209|PNG|T.DEFORM TL (Dg)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|02:11|01:58||
 FT|0263|PNG|B.COVER METER|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|03:32|03:15||
@@ -120368,7 +117999,7 @@ FI2|0316|DUS|SGCU 3 (225 +-5)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJ
 FI3|0042|PNG|B.SOKET INJECTOR|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|21:27|21:05||
 FI3|0147|PNG|T.DEFORM TL (Dg)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|00:08|23:50||
 FI3|0222|Detail NG|NO DETAIL JOINT 7|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|02:51|02:22||
-FI3|0303|BTap|BRANCH TO MAIN RELAY|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|04:49|04:18||`,199:`FT|0017|NFI|SGCU 1 B (W)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|08:20|08:05||
+FI3|0303|BTap|BRANCH TO MAIN RELAY|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|04:49|04:18||`,548:`FT|0017|NFI|SGCU 1 B (W)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|08:20|08:05||
 FT|0019|PNG|T.DEFORM TL (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|08:36|08:09||
 FT|0067|PNG|T.DEFORM TL (Dg)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|09:57|09:25||
 FT|0202|TBD|SW.H.L RED (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|14:31|13:58||
@@ -120401,7 +118032,7 @@ FI2|0206|PNG|B.SLEEVE IG COIL 2|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|1
 FI2|0238|BTap|BRANCH IG COIL 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|15:29|15:00||
 FI2|0245|BTap|BRANCH IG COIL 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|15:34|15:11||
 FI3|0210|PNG|T.DEFORM TL (Dg)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|14:49|14:17||
-FI3|0219|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|14:57|14:31||`,200:`FT|0042|Seal In|OBD RED (LgL)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|21:23|21:07||
+FI3|0219|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|14:57|14:31||`,619:`FT|0042|Seal In|OBD RED (LgL)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|21:23|21:07||
 FT|0180|Part Asing|TERMINAL (BrB)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|02:26|01:53||
 FT|0198|PNG|B.COVER METER|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|02:38|02:23||
 FT|0250|PNG|B.WIRE ISC BLACK (Sb)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|04:18|03:48||
@@ -120438,7 +118069,7 @@ FI3|0121|Seal Out|HL (BY)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|00:07|
 FI3|0126|Seal In|OBD RED (LgL)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|23:56|23:46||
 FI3|0190|PNG|B.COVER METER|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|02:44|02:16||
 FI3|0211|Slec|FUSEBOX (RY)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|03:14|02:50||
-FI3|0254|PNG|B.SEAL SMARTKEY (Ch)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|04:19|04:00||`,201:`FT|0214|Seal Out|HL (BY)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|13:51|13:18||
+FI3|0254|PNG|B.SEAL SMARTKEY (Ch)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|04:19|04:00||`,552:`FT|0214|Seal Out|HL (BY)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|13:51|13:18||
 FT|0216|TBD|SW.H.L RED (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|13:38|13:20||
 FT|0309|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|15:51|15:22||
 FI1|0038|NoP|NO RETAINER INJECTOR|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|09:07|08:29||
@@ -120465,7 +118096,7 @@ FI2|0126|PNG|B.SLEEVE HORN 1|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|11:18|1
 FI2|0155|PNG|B.SLEEVE IG COIL 2|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|11:44|11:21||
 FI2|0221|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|13:56|13:32||
 FI3|0054|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|09:06|08:55||
-FI3|0315|NFI|SGCU 1 B (W)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|16:09|15:35||`,202:`FT|0044|PNG|B.SEAL HL (Br)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|21:14|20:58||
+FI3|0315|NFI|SGCU 1 B (W)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|16:09|15:35||`,624:`FT|0044|PNG|B.SEAL HL (Br)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|21:14|20:58||
 FT|0236|PNG|B.COVER METER|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|02:41|02:17||
 FI1|0003|WPW|FP.S GRAY (GW, BG)|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|20:32|20:04||
 FI1|0013|WPW|FP.S GRAY (GW, BG)|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|20:46|20:17||
@@ -120492,7 +118123,7 @@ FI2|0140|DUS|SGCU 3 (225 +-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai s
 FI2|0158|DUS|LIPATAN PVC SS.SW.BLUE (25+-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|00:07|23:52||
 FI2|0275|DOS|CLAMP 7 TO CLAMP 8 (400 +-10)|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|03:42|03:14||
 FI3|0036|NoP|NO RETAINER INJECTOR|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|21:27|20:53||
-FI3|0330|BTap|BRANCH TO MAIN RELAY|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|05:03|04:29||`,203:`FT|0082|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|10:44|10:25||
+FI3|0330|BTap|BRANCH TO MAIN RELAY|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|05:03|04:29||`,556:`FT|0082|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|10:44|10:25||
 FT|0155|PNG|T.DEFORM TL (Dg)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|13:41|13:25||
 FI1|0011|Unlock|FPS GRAY|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|08:25|07:59||
 FI1|0015|NoP|NO RETAINER INJECTOR|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|08:29|08:07||
@@ -120528,7 +118159,7 @@ FI3|0083|Part Asing|TERMINAL (BrB)|[MAN]:SITI|Detail joint tidak sesuai drawing|
 FI3|0125|TBD|SW.H.L RED (Dg)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|11:59|11:50||
 FI3|0140|Detail NG|NO DETAIL JOINT 7|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|13:31|13:03||
 FI3|0150|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|13:52|13:22||
-FI3|0162|Detail NG|NO DETAIL JOINT 7|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|14:10|13:44||`,204:`FT|0077|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|23:05|22:40||
+FI3|0162|Detail NG|NO DETAIL JOINT 7|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|14:10|13:44||`,629:`FT|0077|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|23:05|22:40||
 FT|0087|WPW|SMARTKEY (Dg, CH)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|23:28|22:59||
 FT|0183|PNG|B.SEAL HL (Br)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|03:18|02:48||
 FT|0191|PNG|T.DEFORM TL (Dg)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|03:20|03:03||
@@ -120565,7 +118196,7 @@ FI3|0135|PNG|B.SEAL HL (BW)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|
 FI3|0208|BTap|BRANCH TO MAIN RELAY|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|04:09|03:42||
 FI3|0221|WPW|SMARTKEY (Dg, CH)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|04:35|04:07||
 FI3|0231|Seal In|OBD RED (LgL)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|04:56|04:26||
-FI3|0232|WPW|FP.S GRAY (GW, BG)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|05:05|04:28||`,205:`FT|0078|Seal Out|HL (BY)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|09:53|09:20||
+FI3|0232|WPW|FP.S GRAY (GW, BG)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|05:05|04:28||`,531:`FT|0078|Seal Out|HL (BY)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|09:53|09:20||
 FT|0087|Seal In|OBD RED (LgL)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|09:52|09:32||
 FT|0291|NFI|SGCU 1 B (W)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|15:31|14:58||
 FT|0294|Part Asing|TERMINAL (BrB)|[MAN]:SITI|Belum hafal urutan assembly|SAMSIR|15:28|15:02||
@@ -120593,7 +118224,7 @@ FI2|0303|DUS|SGCU 3 (225 +-5)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJ
 FI2|0323|PNG|B.SLEEVE HORN 1|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|16:11|15:45||
 FI2|0335|PNG|B.SLEEVE IG COIL 2|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|16:35|16:00||
 FI2|0337|PNG|B.SLEEVE IG COIL 2|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|16:23|16:03||
-FI3|0117|PNG|B.SEAL HL (Br)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|10:59|10:32||`,206:`FT|0120|PNG|B.SEAL HL (Br)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|23:09|22:55||
+FI3|0117|PNG|B.SEAL HL (Br)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|10:59|10:32||`,634:`FT|0120|PNG|B.SEAL HL (Br)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|23:09|22:55||
 FT|0208|TBD|SW.H.L RED (Dg)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|01:27|00:54||
 FT|0255|TBD|SW.H.L RED (Dg)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|03:03|02:42||
 FT|0262|PNG|B.SEAL HL (Br)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|03:19|02:52||
@@ -120623,7 +118254,7 @@ FI2|0233|PNG|B.SLEEVE IG COIL 2|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai
 FI2|0258|WOB|DETAIL JOINT 1|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|03:21|02:52||
 FI2|0279|BTap|BRANCH IG COIL 1|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|03:45|03:21||
 FI2|0315|PNG|B.SLEEVE HORN 1|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|04:26|04:08||
-FI3|0071|NFI|SW.H.L RED (B)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|21:59|21:41||`,207:`FT|0125|PNG|B.SEAL HL (Br)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|11:19|10:58||
+FI3|0071|NFI|SW.H.L RED (B)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|21:59|21:41||`,560:`FT|0125|PNG|B.SEAL HL (Br)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|11:19|10:58||
 FT|0182|Part Asing|TERMINAL (BrB)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|13:22|13:08||
 FT|0201|Part Asing|TERMINAL (BrB)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|13:51|13:36||
 FT|0221|Seal Out|HL (BY)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|14:33|14:05||
@@ -120659,7 +118290,7 @@ FI3|0147|Seal Out|HL (BY)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|12:11|
 FI3|0214|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|14:33|14:00||
 FI3|0253|BTap|BRANCH BD EARTH|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|15:27|14:58||
 FI3|0256|PNG|T.DEFORM TL (Dg)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|15:31|15:03||
-FI3|0284|PNG|B.WIRE ISC BLACK (Sb)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|15:58|15:44||`,208:`FT|0010|PNG|B.COVER METER|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|08:12|07:54||
+FI3|0284|PNG|B.WIRE ISC BLACK (Sb)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|15:58|15:44||`,564:`FT|0010|PNG|B.COVER METER|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|08:12|07:54||
 FT|0077|PNG|B.SEAL HL (Br)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|09:53|09:36||
 FT|0081|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|09:59|09:42||
 FT|0217|TBD|SW.H.L RED (Dg)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|14:32|14:10||
@@ -120698,7 +118329,7 @@ FI2|0205|DUS|LIPATAN PVC SS.SW.BLUE (25+-5)|[MATERIAL]:SOCKET|Kualitas komponen 
 FI3|0098|WPW|FP.S GRAY (GW, BG)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|11:03|10:30||
 FI3|0114|Unlock|FPS GRAY|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|11:22|10:55||
 FI3|0196|PNG|B.WIRE ISC BLACK (Sb)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|14:00|13:46||
-FI3|0214|Slec|FUSEBOX (RY)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|14:52|14:14||`,209:`FT|0064|Seal Out|HL (BY)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|09:33|09:13||
+FI3|0214|Slec|FUSEBOX (RY)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|14:52|14:14||`,537:`FT|0064|Seal Out|HL (BY)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|09:33|09:13||
 FT|0090|Seal Out|HL (BY)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|10:23|09:52||
 FT|0135|PNG|B.SEAL HL (Br)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|11:24|11:13||
 FT|0165|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|12:26|11:57||
@@ -120728,7 +118359,7 @@ FI2|0283|PNG|B.SLEEVE HORN 1|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|16:05|1
 FI2|0290|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|16:26|15:52||
 FI2|0292|PNG|B.SLEEVE HORN 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|16:10|15:55||
 FI3|0086|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|10:20|09:52||
-FI3|0268|NFI|SGCU 1 B (W)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|15:47|15:21||`,210:`FT|0078|PNG|B.SEAL HL (Br)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|22:11|21:58||
+FI3|0268|NFI|SGCU 1 B (W)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|15:47|15:21||`,605:`FT|0078|PNG|B.SEAL HL (Br)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|22:11|21:58||
 FT|0089|PNG|B.SEAL HL (Br)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|22:54|22:30||
 FT|0159|Seal Out|HL (BY)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|00:37|00:16||
 FT|0292|WPW|SMARTKEY (Dg, CH)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|04:33|04:25||
@@ -120761,7 +118392,7 @@ FI3|0041|NoP|NO RETAINER INJECTOR|[MACHINE]:AI|Setting parameter tidak optimal|S
 FI3|0053|WPW|FP.S GRAY (GW, BG)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|21:43|21:26||
 FI3|0138|NoP|NO RETAINER INJECTOR|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|00:09|23:50||
 FI3|0168|Detail NG|NO DETAIL JOINT 7|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|01:06|00:36||
-FI3|0194|PNG|B.SOKET INJECTOR|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|02:25|02:01||`,211:`FT|0091|Part Asing|TERMINAL (BrB)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|11:06|10:29||
+FI3|0194|PNG|B.SOKET INJECTOR|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|02:25|02:01||`,541:`FT|0091|Part Asing|TERMINAL (BrB)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|11:06|10:29||
 FT|0099|PNG|B.WIRE ISC BLACK (Sb)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|11:15|10:42||
 FT|0225|PNG|B.SEAL HL (Br)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|15:25|15:02||
 FI1|0002|BTap|BRANCH FUSEBOX|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|08:10|07:43||
@@ -120791,7 +118422,7 @@ FI2|0226|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[METHOD]:PROSES|Proses tidak mengikuti
 FI2|0244|PNG|B.SLEEVE HORN 1|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|16:16|15:40||
 FI2|0246|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|15:59|15:43||
 FI3|0025|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|08:56|08:27||
-FI3|0121|WPW|FP.S GRAY (GW, BG)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|11:46|11:27||`,212:`FT|0018|Seal In|OBD RED (LgL)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|21:01|20:30||
+FI3|0121|WPW|FP.S GRAY (GW, BG)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|11:46|11:27||`,610:`FT|0018|Seal In|OBD RED (LgL)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|21:01|20:30||
 FT|0033|Seal In|OBD RED (LgL)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|21:32|20:56||
 FT|0041|TBD|SW.H.L RED (Dg)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|21:37|21:11||
 FT|0096|PNG|B.WIRE ISC BLACK (Sb)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|23:30|23:03||
@@ -120831,7 +118462,7 @@ FI3|0001|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:FITRI|Posisi B-tap tidak sesuai 
 FI3|0069|NFI|SW.H.L RED (B)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|22:50|22:21||
 FI3|0082|PNG|B.SOKET INJECTOR|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|23:15|22:44||
 FI3|0104|Detail NG|NO DETAIL JOINT 7|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|23:39|23:23||
-FI3|0257|BTap|BRANCH TO MAIN RELAY|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|04:48|04:38||`,213:`FT|0006|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|08:11|07:47||
+FI3|0257|BTap|BRANCH TO MAIN RELAY|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|04:48|04:38||`,545:`FT|0006|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|08:11|07:47||
 FT|0186|PNG|B.SEAL HL (Br)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|13:24|12:56||
 FT|0255|TBD|SW.H.L RED (Dg)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|14:55|14:32||
 FT|0314|Seal In|OBD RED (LgL)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|16:09|15:54||
@@ -120863,7 +118494,7 @@ FI3|0018|WPW|FP.S GRAY (GW, BG)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|
 FI3|0021|NFI|SGCU 1 B (W)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|08:29|08:14||
 FI3|0067|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|09:37|09:17||
 FI3|0137|NFI|SW.H.L RED (B)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|11:29|11:09||
-FI3|0217|Detail NG|NO DETAIL JOINT 7|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|13:54|13:45||`,214:`FT|0101|NFI|SGCU 1 B (W)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|23:10|22:38||
+FI3|0217|Detail NG|NO DETAIL JOINT 7|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|13:54|13:45||`,615:`FT|0101|NFI|SGCU 1 B (W)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|23:10|22:38||
 FT|0221|PNG|B.WIRE ISC BLACK (Sb)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|02:48|02:15||
 FT|0259|PNG|B.SOKET INJECTOR|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|03:37|03:10||
 FI1|0029|WOB|BRANCH TERMINAL|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|20:54|20:41||
@@ -120887,7 +118518,7 @@ FI2|0246|BTap|DETAIL COVER SG|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai s
 FI2|0264|PNG|B.SLEEVE HORN 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|03:53|03:22||
 FI2|0296|DUS|SGCU 3 (225 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|04:32|04:08||
 FI2|0312|DUS|SGCU 3 (225 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|04:55|04:31||
-FI3|0066|WPW|FP.S GRAY (GW, BG)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|21:48|21:39||`,215:`FT|0089|NFI|SGCU 1 B (W)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|10:13|09:59||
+FI3|0066|WPW|FP.S GRAY (GW, BG)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|21:48|21:39||`,549:`FT|0089|NFI|SGCU 1 B (W)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|10:13|09:59||
 FT|0135|NFI|SGCU 1 B (W)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|12:00|11:27||
 FT|0210|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|14:25|14:11||
 FT|0225|NFI|SGCU 1 B (W)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|15:01|14:35||
@@ -120921,7 +118552,7 @@ FI2|0278|PNG|B.SLEEVE IG COIL 2|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai
 FI3|0049|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|09:33|09:02||
 FI3|0073|TBD|SW.H.L RED (Dg)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|09:57|09:40||
 FI3|0125|BTap|BRANCH BD EARTH|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|11:52|11:17||
-FI3|0182|BTap|BRANCH BD EARTH|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|14:02|13:33||`,216:`FT|0070|NFI|SGCU 1 B (W)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|22:25|21:53||
+FI3|0182|BTap|BRANCH BD EARTH|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|14:02|13:33||`,620:`FT|0070|NFI|SGCU 1 B (W)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|22:25|21:53||
 FT|0102|PNG|T.DEFORM TL (Dg)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|23:30|23:00||
 FT|0194|TBD|SW.H.L RED (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|02:33|02:16||
 FT|0278|NFI|SGCU 1 B (W)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|04:59|04:34||
@@ -120954,7 +118585,7 @@ FI2|0271|DUS|SGCU 3 (225 +-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|04:
 FI3|0017|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|20:51|20:32||
 FI3|0178|NFI|SW.H.L RED (B)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|02:23|01:56||
 FI3|0220|NoP|NO RETAINER INJECTOR|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|03:25|03:05||
-FI3|0222|NoP|NO RETAINER INJECTOR|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|03:40|03:08||`,217:`FT|0044|TBD|SW.H.L RED (Dg)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|09:09|08:36||
+FI3|0222|NoP|NO RETAINER INJECTOR|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|03:40|03:08||`,553:`FT|0044|TBD|SW.H.L RED (Dg)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|09:09|08:36||
 FT|0124|NFI|SGCU 1 B (W)|[MAN]:SITI|Belum hafal urutan assembly|SAMSIR|10:46|10:35||
 FI1|0037|WPW|FP.S GRAY (GW, BG)|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|08:41|08:28||
 FI1|0046|BTap|BRANCH FUSEBOX|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|09:13|08:40||
@@ -120988,7 +118619,7 @@ FI2|0282|PNG|B.SLEEVE IG COIL 2|[METHOD]:PROSES|Proses tidak mengikuti standar|M
 FI2|0306|DUS|SGCU 3 (225 +-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|15:36|15:23||
 FI2|0325|PNG|B.SLEEVE IG COIL 2|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|16:06|15:47||
 FI3|0335|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|16:34|16:01||
-FI3|0336|PNG|B.SEAL HL (Br)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|16:18|16:03||`,218:`FT|0011|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|20:24|20:13||
+FI3|0336|PNG|B.SEAL HL (Br)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|16:18|16:03||`,625:`FT|0011|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|20:24|20:13||
 FT|0126|Seal In|OBD RED (LgL)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|23:37|23:04||
 FT|0141|Seal In|OBD RED (LgL)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|23:37|23:24||
 FT|0143|Seal Out|HL (BY)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|23:57|23:26||
@@ -121019,7 +118650,7 @@ FI2|0259|BTap|BRANCH IG COIL 1|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|03
 FI2|0304|BTap|DETAIL COVER SG|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|04:24|03:53||
 FI2|0336|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|05:07|04:37||
 FI3|0164|BTap|BRANCH TO MAIN RELAY|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|00:24|00:01||
-FI3|0231|PNG|T.DEFORM TL (Dg)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|02:32|02:16||`,219:`FT|0128|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|12:21|11:50||
+FI3|0231|PNG|T.DEFORM TL (Dg)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|02:32|02:16||`,557:`FT|0128|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|12:21|11:50||
 FT|0240|PNG|B.SEAL HL (Br)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|16:37|16:02||
 FI1|0023|NFI|SW.H.L RED (B)|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|08:39|08:22||
 FI1|0032|WPW|FP.S GRAY (GW, BG)|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|08:58|08:38||
@@ -121054,7 +118685,7 @@ FI3|0029|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:BUDI|Posisi B-tap tidak sesuai W
 FI3|0037|WPW|FP.S GRAY (GW, BG)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|09:07|08:53||
 FI3|0085|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|11:03|10:36||
 FI3|0151|PNG|T.DEFORM TL (Dg)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|13:52|13:23||
-FI3|0154|NFI|SGCU 1 B (W)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|13:51|13:29||`,220:`FT|0085|PNG|B.WIRE ISC BLACK (Sb)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|23:34|22:56||
+FI3|0154|NFI|SGCU 1 B (W)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|13:51|13:29||`,630:`FT|0085|PNG|B.WIRE ISC BLACK (Sb)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|23:34|22:56||
 FT|0187|Seal Out|HL (BY)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|03:17|02:56||
 FI1|0015|BTap|BRANCH FUSEBOX|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|20:52|20:28||
 FI1|0031|PNG|B.SEAL SMARTKEY (Ch)|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|21:30|20:58||
@@ -121088,7 +118719,7 @@ FI3|0086|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:FITRI|Posisi B-tap tidak sesuai 
 FI3|0129|Unlock|FPS GRAY|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|00:48|00:26||
 FI3|0142|WPW|FP.S GRAY (GW, BG)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|01:19|00:51||
 FI3|0153|PNG|B.SOKET INJECTOR|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|02:21|01:57||
-FI3|0206|BTap|BRANCH FR STOP SW|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|03:49|03:38||`,221:`FT|0033|Seal In|OBD RED (LgL)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|08:37|08:22||
+FI3|0206|BTap|BRANCH FR STOP SW|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|03:49|03:38||`,532:`FT|0033|Seal In|OBD RED (LgL)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|08:37|08:22||
 FT|0165|TBD|SW.H.L RED (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|11:46|11:29||
 FT|0247|TBD|SW.H.L RED (Dg)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|14:26|14:01||
 FI1|0007|WPW|FP.S GRAY (GW, BG)|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|08:07|07:49||
@@ -121120,7 +118751,7 @@ FI2|0296|PNG|B.SLEEVE HORN 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai st
 FI3|0025|PNG|B.SOKET INJECTOR|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|08:40|08:17||
 FI3|0067|BTap|BRANCH BD EARTH|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|09:47|09:12||
 FI3|0181|Seal Out|HL (BY)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|12:18|11:56||
-FI3|0285|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|15:16|14:56||`,222:`FT|0010|Part Asing|TERMINAL (BrB)|[MAN]:SITI|Belum hafal urutan assembly|SAMSIR|20:38|20:12||
+FI3|0285|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|15:16|14:56||`,635:`FT|0010|Part Asing|TERMINAL (BrB)|[MAN]:SITI|Belum hafal urutan assembly|SAMSIR|20:38|20:12||
 FT|0021|PNG|B.WIRE ISC BLACK (Sb)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|20:55|20:27||
 FT|0238|TBD|SW.H.L RED (Dg)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|02:29|02:19||
 FT|0258|NFI|SGCU 1 B (W)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|03:15|02:46||
@@ -121158,7 +118789,7 @@ FI2|0288|PNG|B.SLEEVE IG COIL 2|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|04:0
 FI2|0317|DUS|SGCU 3 (225 +-5)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|04:21|04:11||
 FI2|0330|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|05:05|04:29||
 FI3|0190|NoP|NO RETAINER INJECTOR|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|01:13|00:36||
-FI3|0293|Slec|FUSEBOX (RY)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|04:05|03:40||`,223:`FT|0003|Part Asing|TERMINAL (BrB)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|08:20|07:43||
+FI3|0293|Slec|FUSEBOX (RY)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|04:05|03:40||`,561:`FT|0003|Part Asing|TERMINAL (BrB)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|08:20|07:43||
 FT|0055|Seal In|OBD RED (LgL)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|09:29|09:00||
 FT|0082|PNG|B.SEAL HL (Br)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|10:08|09:40||
 FT|0245|Part Asing|TERMINAL (BrB)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|14:49|14:41||
@@ -121188,7 +118819,7 @@ FI3|0093|PNG|B.SEAL HL (Br)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSI
 FI3|0117|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|11:18|10:51||
 FI3|0156|WPW|FP.S GRAY (GW, BG)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|12:14|11:49||
 FI3|0204|PNG|B.SEAL HL (Br)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|14:05|13:45||
-FI3|0299|BTap|BRANCH BD EARTH|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|16:38|16:07||`,224:`FT|0030|Seal Out|HL (BY)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|08:54|08:24||
+FI3|0299|BTap|BRANCH BD EARTH|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|16:38|16:07||`,565:`FT|0030|Seal Out|HL (BY)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|08:54|08:24||
 FT|0051|PNG|B.COVER METER|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|09:25|08:56||
 FT|0074|Part Asing|TERMINAL (BrB)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|10:00|09:32||
 FT|0128|PNG|B.SEAL HL (Br)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|11:43|11:09||
@@ -121229,7 +118860,7 @@ FI2|0280|PNG|B.SLEEVE IG COIL 2|[METHOD]:PROSES|Proses tidak mengikuti standar|M
 FI3|0011|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|08:33|08:01||
 FI3|0013|NFI|SW.H.L RED (B)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|08:33|08:04||
 FI3|0220|BTap|BRANCH TO MAIN RELAY|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|14:46|14:21||
-FI3|0229|NFI|SGCU 1 B (W)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|15:07|14:35||`,225:`FI1|0001|BTap|BRANCH FUSEBOX|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|MUJI|08:11|07:58||
+FI3|0229|NFI|SGCU 1 B (W)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|15:07|14:35||`,522:`FI1|0001|BTap|BRANCH FUSEBOX|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|MUJI|08:11|07:58||
 FI1|0022|BTap|BRANCH FUSEBOX|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|MUJI|08:40|08:24||
 FI1|0042|PNG|B.SOKET INJECTOR|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|09:09|08:50||
 FI1|0061|Seal Out|SMARTKEY (RB)|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|09:51|09:15||
@@ -121265,7 +118896,7 @@ FI3|0227|BTap|BRANCH TO MAIN RELAY|[METHOD]:PROSES|Proses tidak mengikuti standa
 FT|0001|PNG|B.SOKET INJECTOR|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|08:54|08:43||
 FT|0086|PNG|B.COVER METER|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|11:00|10:39||
 FT|0171|WPW|SMARTKEY (Dg, CH)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|13:07|12:36||
-FT|0256|PNG|B.SOKET INJECTOR|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|14:52|14:32||`,226:`FT|0013|Part Asing|TERMINAL (BrB)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|20:38|20:18||
+FT|0256|PNG|B.SOKET INJECTOR|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|14:52|14:32||`,606:`FT|0013|Part Asing|TERMINAL (BrB)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|20:38|20:18||
 FT|0058|WPW|SMARTKEY (Dg, CH)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|21:54|21:27||
 FT|0064|PNG|B.SOKET INJECTOR|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|22:07|21:36||
 FT|0286|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|04:40|04:16||
@@ -121293,7 +118924,7 @@ FI2|0297|BTap|DETAIL COVER SG|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJ
 FI3|0082|WPW|FP.S GRAY (GW, BG)|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|22:48|22:25||
 FI3|0103|Slec|FUSEBOX (RY)|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|23:16|22:57||
 FI3|0193|WPW|FP.S GRAY (GW, BG)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|02:14|01:59||
-FI3|0220|BTap|BRANCH TO MAIN RELAY|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|02:53|02:41||`,227:`FI1|0001|BTap|BRANCH FUSEBOX|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|08:11|07:56||
+FI3|0220|BTap|BRANCH TO MAIN RELAY|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|02:53|02:41||`,523:`FI1|0001|BTap|BRANCH FUSEBOX|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|08:11|07:56||
 FI1|0018|BTap|BRANCH FUSEBOX|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|08:46|08:17||
 FI1|0034|PNG|B.SOKET INJECTOR|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|09:04|08:38||
 FI1|0051|Seal Out|SMARTKEY (RB)|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|09:20|08:59||
@@ -121337,7 +118968,7 @@ FI3|0170|BTap|BRANCH TO MAIN RELAY|[MACHINE]:AI|Setting parameter tidak optimal|
 FI3|0255|Slec|FUSEBOX (RY)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|14:50|14:32||
 FT|0001|PNG|B.SOKET INJECTOR|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|09:17|09:03||
 FT|0114|PNG|B.COVER METER|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|12:08|11:38||
-FT|0227|WPW|SMARTKEY (Dg, CH)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|14:23|14:13||`,228:`FT|0030|PNG|B.COVER METER|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|21:17|20:51||
+FT|0227|WPW|SMARTKEY (Dg, CH)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|14:23|14:13||`,611:`FT|0030|PNG|B.COVER METER|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|21:17|20:51||
 FT|0159|Seal Out|HL (BY)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|01:14|00:54||
 FI1|0012|NoP|NO RETAINER INJECTOR|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|20:38|20:20||
 FI1|0028|NFI|SW.H.L RED (B)|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|21:03|20:47||
@@ -121369,7 +119000,7 @@ FI2|0196|BTap|BRANCH IG COIL 1|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|03
 FI2|0204|DOS|CLAMP 7 TO CLAMP 8 (400 +-10)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|03:32|03:02||
 FI2|0210|PNG|B.SLEEVE IG COIL 2|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|03:31|03:13||
 FI2|0219|DUS|LIPATAN PVC SS.SW.BLUE (25+-5)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|04:00|03:29||
-FI3|0227|PNG|B.SOKET INJECTOR|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|04:17|03:44||`,229:`FI1|0001|BTap|BRANCH FUSEBOX|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|08:21|07:59||
+FI3|0227|PNG|B.SOKET INJECTOR|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|04:17|03:44||`,524:`FI1|0001|BTap|BRANCH FUSEBOX|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|08:21|07:59||
 FI1|0022|BTap|BRANCH FUSEBOX|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|MUJI|08:37|08:26||
 FI1|0043|PNG|B.SOKET INJECTOR|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|09:07|08:53||
 FI1|0063|Seal Out|SMARTKEY (RB)|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|09:47|09:21||
@@ -121406,7 +119037,7 @@ FT|0001|PNG|B.SOKET INJECTOR|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|
 FT|0069|PNG|B.COVER METER|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|10:32|10:05||
 FT|0138|WPW|SMARTKEY (Dg, CH)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|12:10|11:38||
 FT|0205|PNG|B.SOKET INJECTOR|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|13:45|13:11||
-FT|0273|PNG|B.COVER METER|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|15:19|14:44||`,230:`FT|0048|Seal In|OBD RED (LgL)|[MAN]:SITI|Belum hafal urutan assembly|SAMSIR|21:37|21:07||
+FT|0273|PNG|B.COVER METER|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|15:19|14:44||`,616:`FT|0048|Seal In|OBD RED (LgL)|[MAN]:SITI|Belum hafal urutan assembly|SAMSIR|21:37|21:07||
 FT|0111|PNG|T.DEFORM TL (Dg)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|23:21|22:53||
 FT|0127|Part Asing|TERMINAL (BrB)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|23:47|23:16||
 FT|0160|PNG|T.DEFORM TL (Dg)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|00:18|00:03||
@@ -121430,7 +119061,7 @@ FI2|0073|DUS|LIPATAN PVC SS.SW.BLUE (25+-5)|[METHOD]:PROSES|Proses tidak mengiku
 FI2|0178|DUS|SGCU 3 (225 +-5)|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|00:54|00:34||
 FI2|0221|PNG|B.SLEEVE HORN 1|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|02:50|02:20||
 FI2|0295|DUS|SGCU 3 (225 +-5)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|04:36|04:06||
-FI3|0181|NoP|NO RETAINER INJECTOR|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|00:59|00:39||`,231:`FI1|0001|BTap|BRANCH FUSEBOX|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|MUJI|08:17|07:57||
+FI3|0181|NoP|NO RETAINER INJECTOR|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|00:59|00:39||`,525:`FI1|0001|BTap|BRANCH FUSEBOX|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|MUJI|08:17|07:57||
 FI1|0019|BTap|BRANCH FUSEBOX|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|08:55|08:20||
 FI1|0038|PNG|B.SOKET INJECTOR|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|09:13|08:43||
 FI1|0055|Seal Out|SMARTKEY (RB)|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|09:36|09:06||
@@ -121474,7 +119105,7 @@ FI3|0226|BTap|BRANCH TO MAIN RELAY|[METHOD]:PROSES|Proses tidak mengikuti standa
 FT|0001|PNG|B.SOKET INJECTOR|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|09:05|08:43||
 FT|0086|PNG|B.COVER METER|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|11:12|10:39||
 FT|0171|WPW|SMARTKEY (Dg, CH)|[MAN]:SITI|Belum hafal urutan assembly|SAMSIR|12:56|12:36||
-FT|0256|PNG|B.SOKET INJECTOR|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|14:58|14:32||`,232:`FT|0087|Seal Out|HL (BY)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|23:09|22:36||
+FT|0256|PNG|B.SOKET INJECTOR|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|14:58|14:32||`,621:`FT|0087|Seal Out|HL (BY)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|23:09|22:36||
 FT|0109|WPW|SMARTKEY (Dg, CH)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|23:26|23:12||
 FI1|0011|TOV|FL RELAY|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|20:38|20:17||
 FI1|0076|PNG|B.SOKET INJECTOR|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|22:33|22:19||
@@ -121509,7 +119140,7 @@ FI2|0250|DOS|CLAMP 1 TO CLAMP 3 (305 +-5)|[MAN]:EKO|Posisi B-tap tidak sesuai WI
 FI2|0253|PNG|B.SLEEVE IG COIL 2|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|04:10|03:58||
 FI3|0070|NFI|SW.H.L RED (B)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|22:36|22:15||
 FI3|0116|NFI|SW.H.L RED (B)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|00:02|23:29||
-FI3|0188|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|02:32|02:11||`,233:`FI1|0001|BTap|BRANCH FUSEBOX|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|08:32|07:54||
+FI3|0188|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|02:32|02:11||`,526:`FI1|0001|BTap|BRANCH FUSEBOX|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|08:32|07:54||
 FI1|0017|BTap|BRANCH FUSEBOX|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|MUJI|08:35|08:13||
 FI1|0032|PNG|B.SOKET INJECTOR|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|08:54|08:32||
 FI1|0045|Seal Out|SMARTKEY (RB)|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|09:27|08:50||
@@ -121555,7 +119186,7 @@ FI3|0204|Slec|FUSEBOX (RY)|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|13:
 FI3|0272|BTap|BRANCH TO MAIN RELAY|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|15:15|14:44||
 FT|0001|PNG|B.SOKET INJECTOR|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|09:19|09:03||
 FT|0115|PNG|B.COVER METER|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|12:06|11:38||
-FT|0228|WPW|SMARTKEY (Dg, CH)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|14:26|14:13||`,234:`FT|0088|PNG|T.DEFORM TL (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|22:23|21:57||
+FT|0228|WPW|SMARTKEY (Dg, CH)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|14:26|14:13||`,626:`FT|0088|PNG|T.DEFORM TL (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|22:23|21:57||
 FT|0299|Seal Out|HL (BY)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|04:11|03:42||
 FT|0330|PNG|B.WIRE ISC BLACK (Sb)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|04:49|04:24||
 FT|0334|TBD|SW.H.L RED (Dg)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|04:53|04:29||
@@ -121589,7 +119220,7 @@ FI2|0303|DUS|CLAMP 3 TO CLAMP 6 (555+-5)|[MACHINE]:CNC|Mesin perlu kalibrasi ula
 FI3|0024|BTap|BRANCH FR STOP SW|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|21:07|20:37||
 FI3|0143|BTap|BRANCH BD EARTH|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|00:03|23:33||
 FI3|0262|BTap|BRANCH TO MAIN RELAY|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|03:19|02:58||
-FI3|0306|PNG|B.COVER METER|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|04:06|03:57||`,235:`FI1|0001|BTap|BRANCH FUSEBOX|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|08:17|08:01||
+FI3|0306|PNG|B.COVER METER|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|04:06|03:57||`,527:`FI1|0001|BTap|BRANCH FUSEBOX|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|08:17|08:01||
 FI1|0025|BTap|BRANCH FUSEBOX|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|09:00|08:32||
 FI1|0049|PNG|B.SOKET INJECTOR|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|09:36|09:03||
 FI1|0071|Seal Out|SMARTKEY (RB)|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|09:58|09:34||
@@ -121622,7 +119253,7 @@ FT|0001|PNG|B.SOKET INJECTOR|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai st
 FT|0069|PNG|B.COVER METER|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|10:21|10:05||
 FT|0137|WPW|SMARTKEY (Dg, CH)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|11:53|11:38||
 FT|0205|PNG|B.SOKET INJECTOR|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|13:28|13:11||
-FT|0273|PNG|B.COVER METER|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|15:01|14:44||`,236:`FT|0121|TBD|SW.H.L RED (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|00:25|00:04||
+FT|0273|PNG|B.COVER METER|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|15:01|14:44||`,631:`FT|0121|TBD|SW.H.L RED (Dg)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|00:25|00:04||
 FT|0204|Seal In|OBD RED (LgL)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|03:54|03:28||
 FI1|0001|NFI|SW.H.L RED (B)|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|20:18|20:01||
 FI1|0045|NoP|NO RETAINER INJECTOR|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|21:42|21:25||
@@ -121648,45 +119279,7 @@ FI2|0207|PNG|B.SLEEVE IG COIL 2|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai
 FI3|0079|BTap|BRANCH TO MAIN RELAY|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|23:16|22:49||
 FI3|0092|BTap|BRANCH TO MAIN RELAY|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|23:40|23:13||
 FI3|0171|PNG|T.DEFORM TL (Dg)|[MAN]:SITI|Detail joint tidak sesuai drawing|SAMSIR|02:54|02:30||
-FI3|0174|Slec|FUSEBOX (RY)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|02:50|02:36||`,237:`FT|0107|PNG|B.SEAL HL (Br)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|10:17|09:50||
-FT|0122|Seal Out|HL (BY)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|10:38|10:24||
-FT|0178|PNG|T.DEFORM TL (Dg)|[MACHINE]:CNC|Setting mesin tidak sesuai parameter|SAMSIR|12:12|11:36||
-FT|0254|Seal Out|HL (BY)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|14:42|14:12||
-FT|0305|PNG|T.DEFORM TL (Dg)|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|15:45|15:17||
-FI1|0005|WPW|FP.S GRAY (GW, BG)|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|08:05|07:41||
-FI1|0021|DOS|DRAINHOLE SGCU 1 B (25 +10-0)|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|08:26|08:01||
-FI1|0034|NoP|NO RETAINER INJECTOR|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|08:35|08:18||
-FI1|0049|PNG|T.DEFORM TL (Dg)|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|08:52|08:37||
-FI1|0066|Slec|SGCU 1 B (LW)|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|09:19|08:59||
-FI1|0067|NFI|SW.H.L RED (B)|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|09:12|09:00||
-FI1|0088|NoP|NO RETAINER INJECTOR|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|09:47|09:27||
-FI1|0137|BTap|BRANCH FUSEBOX|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|MUJI|11:09|10:44||
-FI1|0180|BTap|BRANCH FUSEBOX|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|11:56|11:39||
-FI1|0198|NoP|NO RETAINER INJECTOR|[MAN]:AHMAD|Salah posisi wire saat routing|SAMSIR|13:13|13:02||
-FI1|0202|NoP|NO RETAINER INJECTOR|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|13:40|13:07||
-FI1|0211|BTap|BRANCH FUSEBOX|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|13:40|13:19||
-FI1|0213|WPW|FP.S GRAY (GW, BG)|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|13:42|13:21||
-FI1|0225|WPW|FP.S GRAY (GW, BG)|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|14:01|13:36||
-FI1|0231|WPW|FP.S GRAY (GW, BG)|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|14:05|13:44||
-FI1|0245|WOB|BRANCH TERMINAL|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|14:32|14:02||
-FI1|0295|DOS|DRAINHOLE SGCU 1 B (25 +10-0)|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|15:33|15:06||
-FI1|0311|BTap|BRANCH FUSEBOX|[MAN]:AHMAD|Salah posisi wire saat routing|MUJI|15:56|15:26||
-FI2|0026|BTap|BRANCH IG COIL 1|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|08:29|08:12||
-FI2|0062|BTap|BRANCH IG COIL 1|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|09:22|08:58||
-FI2|0075|PNG|B.SLEEVE HORN 1|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|09:51|09:15||
-FI2|0118|PNG|B.SLEEVE IG COIL 2|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|10:58|10:25||
-FI2|0148|DUS|SGCU 3 (225 +-5)|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|11:23|11:03||
-FI2|0154|DUS|SGCU 3 (225 +-5)|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|11:38|11:11||
-FI2|0191|PNG|B.SLEEVE HORN 1|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|13:30|12:58||
-FI2|0216|PNG|B.SLEEVE HORN 1|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|14:04|13:30||
-FI2|0243|PNG|B.SLEEVE HORN 1|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|14:26|14:04||
-FI2|0276|DUS|SGCU 3 (225 +-5)|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|15:06|14:45||
-FI2|0281|PNG|B.SLEEVE IG COIL 2|[MACHINE]:CNC|Mesin perlu kalibrasi ulang|MUJI|15:10|14:52||
-FI2|0284|PNG|B.SLEEVE IG COIL 2|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|MUJI|15:14|14:55||
-FI2|0330|BTap|DETAIL COVER SG|[METHOD]:PROSES|Proses tidak mengikuti standar|MUJI|16:20|15:54||
-FI3|0095|PNG|B.SEAL HL (Br)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|10:15|09:41||
-DCFT|0144|Seal Out|HL (BY)|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|11:24|11:00||
-DCFI|0238|BTap|BRANCH FUSEBOX|[MAN]:EKO|Posisi B-tap tidak sesuai WI|MUJI|14:23|14:02||`,238:`FT|0022|Seal Out|HL (BY)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|20:55|20:28||
+FI3|0174|Slec|FUSEBOX (RY)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|02:50|02:36||`,636:`FT|0022|Seal Out|HL (BY)|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|20:55|20:28||
 FT|0024|TBD|SW.H.L RED (Dg)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|20:48|20:31||
 FT|0166|WPW|SMARTKEY (Dg, CH)|[MAN]:BUDI|Kurang teliti saat proses pemasangan|SAMSIR|00:10|23:57||
 FI1|0020|DOS|DRAINHOLE SGCU 1 B (25 +10-0)|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|MUJI|20:53|20:27||
@@ -121720,7 +119313,7 @@ FI3|0096|PNG|B.SEAL HL (Br)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|22:42
 FI3|0122|NoP|NO RETAINER INJECTOR|[METHOD]:PROSES|Proses tidak mengikuti standar|SAMSIR|23:22|23:03||
 FI3|0140|BTap|BRANCH FR STOP SW|[MAN]:SITI|Detail joint tidak sesuai drawing|MUJI|23:41|23:28||
 FI3|0183|PNG|B.SEAL HL (Br)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|00:55|00:26||
-FI3|0192|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|01:01|00:38||`,239:`FI1|0001|BTap|BRANCH FUSEBOX|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|MUJI|08:06|07:55||
+FI3|0192|DOS|DRAINHOLE SGCU 1 B (25 +-10)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|MUJI|01:01|00:38||`,528:`FI1|0001|BTap|BRANCH FUSEBOX|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|MUJI|08:06|07:55||
 FI1|0017|BTap|BRANCH FUSEBOX|[MAN]:DANI|Kurang teliti saat proses pemasangan|MUJI|08:47|08:15||
 FI1|0034|PNG|B.SOKET INJECTOR|[MAN]:DANI|Kurang teliti saat proses pemasangan|SAMSIR|09:00|08:36||
 FI1|0048|Seal Out|SMARTKEY (RB)|[MATERIAL]:TERMINAL|Part tidak tersedia di kit|SAMSIR|09:26|08:56||
@@ -121769,7 +119362,7 @@ FI3|0227|BTap|BRANCH TO MAIN RELAY|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|
 FT|0001|PNG|B.SOKET INJECTOR|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|09:08|08:43||
 FT|0086|PNG|B.COVER METER|[METHOD]:PROSES|Instruksi kerja tidak diikuti|SAMSIR|10:55|10:39||
 FT|0171|WPW|SMARTKEY (Dg, CH)|[MATERIAL]:WIRE|Kualitas bahan baku tidak sesuai|SAMSIR|13:08|12:36||
-FT|0256|PNG|B.SOKET INJECTOR|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|14:58|14:32||`,240:`FT|0154|Seal Out|HL (BY)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|13:16|12:47||
+FT|0256|PNG|B.SOKET INJECTOR|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|14:58|14:32||`,566:`FT|0154|Seal Out|HL (BY)|[MATERIAL]:TERMINAL|Kontaminasi dari proses sebelumnya|SAMSIR|13:16|12:47||
 FT|0218|PNG|B.WIRE ISC BLACK (Sb)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|14:47|14:26||
 FT|0242|PNG|B.COVER METER|[MAN]:RINA|Kurang teliti saat proses pemasangan|SAMSIR|15:33|15:03||
 FT|0284|Part Asing|TERMINAL (BrB)|[MATERIAL]:SOCKET|Kualitas komponen tidak sesuai standar|SAMSIR|16:37|16:08||
@@ -121812,7 +119405,7 @@ FI3|0062|Seal Out|HL (BY)|[MACHINE]:AI|Setting parameter tidak optimal|SAMSIR|09
 FI3|0096|BTap|BRANCH TO MAIN RELAY|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|MUJI|10:42|10:22||
 FI3|0105|BTap|BRANCH BD EARTH|[MACHINE]:AI|Setting parameter tidak optimal|MUJI|11:06|10:36||
 FI3|0110|Part Asing|TERMINAL (BrB)|[MAN]:BUDI|Posisi B-tap tidak sesuai WI|SAMSIR|11:08|10:44||
-FI3|0254|NFI|SW.H.L RED (B)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|15:42|15:27||`},QC:{161:`FT|0005|RIZAL|08:09||
+FI3|0254|NFI|SW.H.L RED (B)|[MAN]:FITRI|Posisi B-tap tidak sesuai WI|SAMSIR|15:42|15:27||`},QC:{534:`FT|0005|RIZAL|08:09||
 FT|0177|RIZAL|13:28||
 FT|0226|RIZAL|14:29||
 FI1|0004|RIZAL|08:07||
@@ -121841,7 +119434,7 @@ FI2|0147|RIZAL|12:04||
 FI2|0192|RIZAL|13:58||
 FI2|0251|RIZAL|15:25||
 FI2|0257|RIZAL|15:27||
-FI3|0101|RIZAL|10:46||`,162:`FT|0084|RIZAL|22:50||
+FI3|0101|RIZAL|10:46||`,602:`FT|0084|RIZAL|22:50||
 FT|0183|RIZAL|01:17||
 FT|0249|RIZAL|03:52||
 FI1|0002|RIZAL|20:20||
@@ -121879,7 +119472,7 @@ FI3|0134|RIZAL|00:04||
 FI3|0244|RIZAL|03:27||
 FI3|0280|RIZAL|04:37||
 FI3|0286|RIZAL|04:56||
-FI3|0291|RIZAL|04:42||`,163:`FT|0035|RIZAL|08:51||
+FI3|0291|RIZAL|04:42||`,538:`FT|0035|RIZAL|08:51||
 FT|0089|RIZAL|11:03||
 FT|0132|RIZAL|12:06||
 FT|0151|RIZAL|13:07||
@@ -121912,7 +119505,7 @@ FI2|0175|RIZAL|14:07||
 FI2|0192|RIZAL|14:33||
 FI2|0205|RIZAL|15:07||
 FI3|0059|RIZAL|10:02||
-FI3|0167|RIZAL|14:02||`,164:`FT|0042|RIZAL|21:27||
+FI3|0167|RIZAL|14:02||`,607:`FT|0042|RIZAL|21:27||
 FT|0090|RIZAL|23:06||
 FT|0216|RIZAL|03:30||
 FI1|0002|RIZAL|20:32||
@@ -121936,7 +119529,7 @@ FI2|0119|RIZAL|00:21||
 FI2|0141|RIZAL|01:01||
 FI2|0157|RIZAL|01:21||
 FI2|0217|RIZAL|03:54||
-FI3|0051|RIZAL|22:07||`,165:`FT|0159|RIZAL|11:47||
+FI3|0051|RIZAL|22:07||`,542:`FT|0159|RIZAL|11:47||
 FT|0199|RIZAL|13:34||
 FT|0225|RIZAL|14:06||
 FI1|0007|RIZAL|08:08||
@@ -121962,7 +119555,7 @@ FI2|0240|RIZAL|14:26||
 FI2|0244|RIZAL|14:45||
 FI2|0311|RIZAL|16:06||
 FI3|0111|RIZAL|10:54||
-FI3|0293|RIZAL|15:57||`,166:`FT|0092|RIZAL|22:54||
+FI3|0293|RIZAL|15:57||`,612:`FT|0092|RIZAL|22:54||
 FT|0111|RIZAL|23:28||
 FT|0179|RIZAL|00:49||
 FI1|0003|RIZAL|20:38||
@@ -121985,7 +119578,7 @@ FI2|0061|RIZAL|21:54||
 FI2|0138|RIZAL|23:59||
 FI2|0201|RIZAL|02:02||
 FI2|0237|RIZAL|03:13||
-FI3|0151|RIZAL|00:15||`,167:`FT|0001|RIZAL|07:59||
+FI3|0151|RIZAL|00:15||`,546:`FT|0001|RIZAL|07:59||
 FT|0145|RIZAL|12:08||
 FT|0202|RIZAL|14:17||
 FI1|0018|RIZAL|08:30||
@@ -122019,7 +119612,7 @@ FI3|0043|RIZAL|09:14||
 FI3|0131|RIZAL|11:47||
 FI3|0166|RIZAL|13:23||
 FI3|0168|RIZAL|13:43||
-FI3|0264|RIZAL|16:00||`,168:`FT|0012|RIZAL|20:39||
+FI3|0264|RIZAL|16:00||`,617:`FT|0012|RIZAL|20:39||
 FT|0276|RIZAL|05:02||
 FI1|0059|RIZAL|21:54||
 FI1|0135|RIZAL|00:13||
@@ -122043,7 +119636,7 @@ FI3|0023|RIZAL|21:03||
 FI3|0087|RIZAL|23:02||
 FI3|0151|RIZAL|00:43||
 FI3|0190|RIZAL|02:40||
-FI3|0275|RIZAL|04:53||`,169:`FT|0040|RIZAL|09:08||
+FI3|0275|RIZAL|04:53||`,550:`FT|0040|RIZAL|09:08||
 FT|0073|RIZAL|09:44||
 FT|0235|RIZAL|14:15||
 FT|0305|RIZAL|15:34||
@@ -122072,7 +119665,7 @@ FI3|0066|RIZAL|09:28||
 FI3|0099|RIZAL|10:10||
 FI3|0104|RIZAL|10:52||
 FI3|0171|RIZAL|12:14||
-FI3|0292|RIZAL|15:36||`,170:`FT|0084|RIZAL|22:10||
+FI3|0292|RIZAL|15:36||`,622:`FT|0084|RIZAL|22:10||
 FT|0161|RIZAL|00:27||
 FT|0299|RIZAL|04:02||
 FI1|0041|RIZAL|21:12||
@@ -122103,7 +119696,7 @@ FI2|0273|RIZAL|03:43||
 FI2|0302|RIZAL|04:08||
 FI3|0015|RIZAL|20:33||
 FI3|0157|RIZAL|00:03||
-FI3|0190|RIZAL|01:06||`,171:`FT|0039|RIZAL|09:21||
+FI3|0190|RIZAL|01:06||`,554:`FT|0039|RIZAL|09:21||
 FT|0062|RIZAL|10:05||
 FT|0083|RIZAL|11:01||
 FI1|0001|RIZAL|07:58||
@@ -122129,7 +119722,7 @@ FI2|0169|RIZAL|14:15||
 FI2|0171|RIZAL|14:23||
 FI2|0192|RIZAL|14:51||
 FI2|0203|RIZAL|15:16||
-FI2|0225|RIZAL|16:10||`,172:`FT|0017|RIZAL|20:56||
+FI2|0225|RIZAL|16:10||`,627:`FT|0017|RIZAL|20:56||
 FT|0237|RIZAL|04:50||
 FI1|0019|RIZAL|21:02||
 FI1|0022|RIZAL|21:13||
@@ -122156,7 +119749,7 @@ FI2|0224|RIZAL|04:34||
 FI3|0037|RIZAL|21:41||
 FI3|0045|RIZAL|21:55||
 FI3|0119|RIZAL|00:22||
-FI3|0225|RIZAL|04:44||`,173:`FI1|0005|RIZAL|08:22||
+FI3|0225|RIZAL|04:44||`,529:`FI1|0005|RIZAL|08:22||
 FI1|0043|RIZAL|09:14||
 FI1|0068|RIZAL|09:26||
 FI1|0118|RIZAL|10:47||
@@ -122189,7 +119782,7 @@ FI3|0257|RIZAL|14:43||
 FT|0010|RIZAL|08:06||
 FT|0229|RIZAL|14:12||
 FT|0255|RIZAL|14:21||
-FT|0332|RIZAL|16:09||`,174:`FT|0271|RIZAL|03:23||
+FT|0332|RIZAL|16:09||`,632:`FT|0271|RIZAL|03:23||
 FT|0330|RIZAL|04:38||
 FT|0338|RIZAL|05:01||
 FI1|0011|RIZAL|20:45||
@@ -122229,7 +119822,7 @@ FI3|0040|RIZAL|21:15||
 FI3|0091|RIZAL|22:41||
 FI3|0129|RIZAL|23:29||
 FI3|0242|RIZAL|02:46||
-FI3|0303|RIZAL|04:23||`,175:`FT|0047|RIZAL|09:00||
+FI3|0303|RIZAL|04:23||`,558:`FT|0047|RIZAL|09:00||
 FT|0080|RIZAL|10:05||
 FT|0092|RIZAL|10:06||
 FT|0258|RIZAL|15:20||
@@ -122260,7 +119853,7 @@ FI2|0251|RIZAL|15:22||
 FI2|0267|RIZAL|15:51||
 FI2|0276|RIZAL|16:02||
 FI3|0094|RIZAL|10:42||
-FI3|0257|RIZAL|15:23||`,176:`FT|0050|RIZAL|09:17||
+FI3|0257|RIZAL|15:23||`,562:`FT|0050|RIZAL|09:17||
 FT|0077|RIZAL|10:09||
 FT|0113|RIZAL|11:10||
 FT|0160|RIZAL|12:20||
@@ -122302,7 +119895,7 @@ FI2|0274|RIZAL|16:17||
 FI3|0025|RIZAL|09:01||
 FI3|0098|RIZAL|11:00||
 FI3|0164|RIZAL|13:18||
-FI3|0269|RIZAL|16:11||`,177:`FT|0009|RIZAL|08:23||
+FI3|0269|RIZAL|16:11||`,535:`FT|0009|RIZAL|08:23||
 FT|0046|RIZAL|09:02||
 FT|0163|RIZAL|12:24||
 FT|0164|RIZAL|12:11||
@@ -122341,7 +119934,7 @@ FI2|0246|RIZAL|15:02||
 FI2|0277|RIZAL|15:48||
 FI2|0288|RIZAL|16:20||
 FI3|0003|RIZAL|08:14||
-FI3|0299|RIZAL|16:20||`,178:`FT|0076|RIZAL|22:27||
+FI3|0299|RIZAL|16:20||`,603:`FT|0076|RIZAL|22:27||
 FT|0196|RIZAL|02:18||
 FI1|0002|RIZAL|20:19||
 FI1|0041|RIZAL|21:39||
@@ -122374,7 +119967,7 @@ FI2|0272|RIZAL|04:17||
 FI2|0288|RIZAL|04:59||
 FI3|0068|RIZAL|21:59||
 FI3|0169|RIZAL|01:05||
-FI3|0248|RIZAL|03:39||`,179:`FT|0182|RIZAL|14:12||
+FI3|0248|RIZAL|03:39||`,539:`FT|0182|RIZAL|14:12||
 FI1|0002|RIZAL|08:09||
 FI1|0011|RIZAL|08:18||
 FI1|0012|RIZAL|08:29||
@@ -122405,7 +119998,7 @@ FI2|0208|RIZAL|14:48||
 FI2|0214|RIZAL|15:16||
 FI2|0221|RIZAL|15:38||
 FI2|0259|RIZAL|16:18||
-FI3|0013|RIZAL|08:28||`,180:`FT|0007|RIZAL|20:39||
+FI3|0013|RIZAL|08:28||`,608:`FT|0007|RIZAL|20:39||
 FT|0020|RIZAL|20:46||
 FT|0064|RIZAL|22:03||
 FT|0075|RIZAL|23:01||
@@ -122438,7 +120031,7 @@ FI3|0049|RIZAL|22:02||
 FI3|0096|RIZAL|23:28||
 FI3|0174|RIZAL|02:31||
 FI3|0205|RIZAL|03:31||
-FI3|0249|RIZAL|04:47||`,181:`FT|0147|RIZAL|11:36||
+FI3|0249|RIZAL|04:47||`,543:`FT|0147|RIZAL|11:36||
 FT|0183|RIZAL|13:16||
 FT|0186|RIZAL|13:11||
 FT|0255|RIZAL|14:54||
@@ -122476,7 +120069,7 @@ FI2|0293|RIZAL|16:00||
 FI3|0019|RIZAL|08:34||
 FI3|0026|RIZAL|08:56||
 FI3|0098|RIZAL|10:50||
-FI3|0307|RIZAL|16:20||`,182:`FT|0008|RIZAL|20:43||
+FI3|0307|RIZAL|16:20||`,613:`FT|0008|RIZAL|20:43||
 FT|0167|RIZAL|00:23||
 FT|0180|RIZAL|00:44||
 FT|0231|RIZAL|02:42||
@@ -122505,7 +120098,7 @@ FI2|0278|RIZAL|04:12||
 FI3|0109|RIZAL|23:24||
 FI3|0172|RIZAL|01:02||
 FI3|0222|RIZAL|02:57||
-FI3|0313|RIZAL|05:06||`,183:`FT|0139|RIZAL|11:56||
+FI3|0313|RIZAL|05:06||`,547:`FT|0139|RIZAL|11:56||
 FT|0168|RIZAL|13:18||
 FT|0188|RIZAL|13:52||
 FI1|0019|RIZAL|08:36||
@@ -122541,7 +120134,7 @@ FI2|0256|RIZAL|15:56||
 FI3|0003|RIZAL|08:07||
 FI3|0079|RIZAL|10:05||
 FI3|0231|RIZAL|15:05||
-FI3|0249|RIZAL|15:48||`,184:`FT|0106|RIZAL|23:24||
+FI3|0249|RIZAL|15:48||`,618:`FT|0106|RIZAL|23:24||
 FT|0169|RIZAL|01:07||
 FT|0177|RIZAL|02:22||
 FT|0270|RIZAL|04:55||
@@ -122574,7 +120167,7 @@ FI3|0024|RIZAL|21:00||
 FI3|0138|RIZAL|00:39||
 FI3|0145|RIZAL|00:31||
 FI3|0248|RIZAL|04:23||
-FI3|0262|RIZAL|04:32||`,185:`FT|0021|RIZAL|08:34||
+FI3|0262|RIZAL|04:32||`,551:`FT|0021|RIZAL|08:34||
 FT|0057|RIZAL|09:24||
 FT|0227|RIZAL|13:52||
 FT|0256|RIZAL|14:20||
@@ -122598,7 +120191,7 @@ FI2|0183|RIZAL|12:13||
 FI2|0233|RIZAL|14:11||
 FI2|0253|RIZAL|14:39||
 FI2|0285|RIZAL|15:20||
-FI3|0101|RIZAL|10:10||`,186:`FT|0015|RIZAL|20:41||
+FI3|0101|RIZAL|10:10||`,623:`FT|0015|RIZAL|20:41||
 FT|0086|RIZAL|22:15||
 FT|0276|RIZAL|03:26||
 FT|0317|RIZAL|04:23||
@@ -122627,7 +120220,7 @@ FI3|0054|RIZAL|21:45||
 FI3|0122|RIZAL|23:20||
 FI3|0233|RIZAL|02:52||
 FI3|0258|RIZAL|03:14||
-FI3|0275|RIZAL|03:24||`,187:`FT|0025|RIZAL|08:36||
+FI3|0275|RIZAL|03:24||`,555:`FT|0025|RIZAL|08:36||
 FT|0076|RIZAL|10:20||
 FT|0210|RIZAL|15:36||
 FI1|0053|RIZAL|09:45||
@@ -122657,7 +120250,7 @@ FI2|0153|RIZAL|13:44||
 FI2|0220|RIZAL|15:52||
 FI3|0140|RIZAL|13:34||
 FI3|0168|RIZAL|14:25||
-FI3|0223|RIZAL|15:57||`,188:`FT|0112|RIZAL|00:08||
+FI3|0223|RIZAL|15:57||`,628:`FT|0112|RIZAL|00:08||
 FT|0115|RIZAL|00:02||
 FI1|0005|RIZAL|20:36||
 FI1|0019|RIZAL|20:53||
@@ -122689,7 +120282,7 @@ FI3|0068|RIZAL|22:58||
 FI3|0126|RIZAL|00:39||
 FI3|0150|RIZAL|02:14||
 FI3|0230|RIZAL|04:41||
-FI3|0231|RIZAL|04:54||`,189:`FI1|0038|RIZAL|08:56||
+FI3|0231|RIZAL|04:54||`,530:`FI1|0038|RIZAL|08:56||
 FI1|0051|RIZAL|09:00||
 FI1|0062|RIZAL|09:29||
 FI1|0088|RIZAL|10:07||
@@ -122726,7 +120319,7 @@ FI3|0101|RIZAL|10:17||
 FI3|0334|RIZAL|16:17||
 FT|0180|RIZAL|11:56||
 FT|0185|RIZAL|12:19||
-FT|0305|RIZAL|15:42||`,190:`FT|0180|RIZAL|00:46||
+FT|0305|RIZAL|15:42||`,633:`FT|0180|RIZAL|00:46||
 FT|0303|RIZAL|04:13||
 FI1|0059|RIZAL|21:36||
 FI1|0074|RIZAL|22:13||
@@ -122753,7 +120346,7 @@ FI2|0213|RIZAL|02:10||
 FI2|0299|RIZAL|04:12||
 FI2|0317|RIZAL|04:31||
 FI3|0018|RIZAL|20:41||
-FI3|0111|RIZAL|23:14||`,191:`FT|0086|RIZAL|10:19||
+FI3|0111|RIZAL|23:14||`,559:`FT|0086|RIZAL|10:19||
 FT|0247|RIZAL|15:05||
 FI1|0004|RIZAL|08:06||
 FI1|0012|RIZAL|08:23||
@@ -122792,7 +120385,7 @@ FI2|0294|RIZAL|16:24||
 FI2|0296|RIZAL|16:25||
 FI3|0023|RIZAL|08:31||
 FI3|0033|RIZAL|09:00||
-FI3|0259|RIZAL|15:25||`,192:`FT|0005|RIZAL|08:00||
+FI3|0259|RIZAL|15:25||`,563:`FT|0005|RIZAL|08:00||
 FT|0048|RIZAL|09:16||
 FT|0057|RIZAL|09:25||
 FT|0081|RIZAL|09:57||
@@ -122831,7 +120424,7 @@ FI2|0230|RIZAL|14:52||
 FI3|0102|RIZAL|10:45||
 FI3|0132|RIZAL|11:48||
 FI3|0151|RIZAL|12:25||
-FI3|0259|RIZAL|15:34||`,193:`FT|0030|RIZAL|08:57||
+FI3|0259|RIZAL|15:34||`,536:`FT|0030|RIZAL|08:57||
 FT|0231|RIZAL|14:49||
 FT|0280|RIZAL|15:49||
 FT|0286|RIZAL|15:52||
@@ -122856,7 +120449,7 @@ FI2|0257|RIZAL|15:23||
 FI2|0283|RIZAL|15:56||
 FI3|0074|RIZAL|10:02||
 FI3|0093|RIZAL|10:41||
-FI3|0291|RIZAL|16:24||`,194:`FT|0035|RIZAL|21:26||
+FI3|0291|RIZAL|16:24||`,604:`FT|0035|RIZAL|21:26||
 FT|0245|RIZAL|03:36||
 FT|0275|RIZAL|04:27||
 FI1|0001|RIZAL|20:19||
@@ -122894,7 +120487,7 @@ FI3|0179|RIZAL|01:17||
 FI3|0197|RIZAL|02:24||
 FI3|0253|RIZAL|03:46||
 FI3|0261|RIZAL|03:58||
-FI3|0285|RIZAL|04:52||`,195:`FT|0083|RIZAL|10:41||
+FI3|0285|RIZAL|04:52||`,540:`FT|0083|RIZAL|10:41||
 FT|0129|RIZAL|11:56||
 FT|0147|RIZAL|13:21||
 FT|0219|RIZAL|15:19||
@@ -122926,7 +120519,7 @@ FI3|0050|RIZAL|09:29||
 FI3|0126|RIZAL|11:45||
 FI3|0149|RIZAL|13:30||
 FI3|0212|RIZAL|15:01||
-FI3|0254|RIZAL|16:32||`,196:`FT|0067|RIZAL|22:20||
+FI3|0254|RIZAL|16:32||`,609:`FT|0067|RIZAL|22:20||
 FT|0097|RIZAL|23:39||
 FT|0121|RIZAL|00:23||
 FT|0180|RIZAL|02:52||
@@ -122960,7 +120553,7 @@ FI2|0145|RIZAL|01:05||
 FI2|0209|RIZAL|03:28||
 FI2|0251|RIZAL|04:50||
 FI2|0255|RIZAL|05:09||
-FI3|0099|RIZAL|23:46||`,197:`FT|0020|RIZAL|08:15||
+FI3|0099|RIZAL|23:46||`,544:`FT|0020|RIZAL|08:15||
 FT|0128|RIZAL|11:19||
 FT|0283|RIZAL|15:39||
 FT|0284|RIZAL|15:30||
@@ -122994,7 +120587,7 @@ FI3|0035|RIZAL|08:53||
 FI3|0045|RIZAL|08:59||
 FI3|0085|RIZAL|09:57||
 FI3|0123|RIZAL|11:06||
-FI3|0124|RIZAL|11:11||`,198:`FT|0098|RIZAL|22:45||
+FI3|0124|RIZAL|11:11||`,614:`FT|0098|RIZAL|22:45||
 FT|0184|RIZAL|00:55||
 FT|0209|RIZAL|02:11||
 FT|0263|RIZAL|03:32||
@@ -123023,7 +120616,7 @@ FI2|0316|RIZAL|05:01||
 FI3|0042|RIZAL|21:27||
 FI3|0147|RIZAL|00:08||
 FI3|0222|RIZAL|02:51||
-FI3|0303|RIZAL|04:49||`,199:`FT|0017|RIZAL|08:20||
+FI3|0303|RIZAL|04:49||`,548:`FT|0017|RIZAL|08:20||
 FT|0019|RIZAL|08:36||
 FT|0067|RIZAL|09:57||
 FT|0202|RIZAL|14:31||
@@ -123056,7 +120649,7 @@ FI2|0206|RIZAL|14:45||
 FI2|0238|RIZAL|15:29||
 FI2|0245|RIZAL|15:34||
 FI3|0210|RIZAL|14:49||
-FI3|0219|RIZAL|14:57||`,200:`FT|0042|RIZAL|21:23||
+FI3|0219|RIZAL|14:57||`,619:`FT|0042|RIZAL|21:23||
 FT|0180|RIZAL|02:26||
 FT|0198|RIZAL|02:38||
 FT|0250|RIZAL|04:18||
@@ -123093,7 +120686,7 @@ FI3|0121|RIZAL|00:07||
 FI3|0126|RIZAL|23:56||
 FI3|0190|RIZAL|02:44||
 FI3|0211|RIZAL|03:14||
-FI3|0254|RIZAL|04:19||`,201:`FT|0214|RIZAL|13:51||
+FI3|0254|RIZAL|04:19||`,552:`FT|0214|RIZAL|13:51||
 FT|0216|RIZAL|13:38||
 FT|0309|RIZAL|15:51||
 FI1|0038|RIZAL|09:07||
@@ -123120,7 +120713,7 @@ FI2|0126|RIZAL|11:18||
 FI2|0155|RIZAL|11:44||
 FI2|0221|RIZAL|13:56||
 FI3|0054|RIZAL|09:06||
-FI3|0315|RIZAL|16:09||`,202:`FT|0044|RIZAL|21:14||
+FI3|0315|RIZAL|16:09||`,624:`FT|0044|RIZAL|21:14||
 FT|0236|RIZAL|02:41||
 FI1|0003|RIZAL|20:32||
 FI1|0013|RIZAL|20:46||
@@ -123147,7 +120740,7 @@ FI2|0140|RIZAL|23:44||
 FI2|0158|RIZAL|00:07||
 FI2|0275|RIZAL|03:42||
 FI3|0036|RIZAL|21:27||
-FI3|0330|RIZAL|05:03||`,203:`FT|0082|RIZAL|10:44||
+FI3|0330|RIZAL|05:03||`,556:`FT|0082|RIZAL|10:44||
 FT|0155|RIZAL|13:41||
 FI1|0011|RIZAL|08:25||
 FI1|0015|RIZAL|08:29||
@@ -123183,7 +120776,7 @@ FI3|0083|RIZAL|11:01||
 FI3|0125|RIZAL|11:59||
 FI3|0140|RIZAL|13:31||
 FI3|0150|RIZAL|13:52||
-FI3|0162|RIZAL|14:10||`,204:`FT|0077|RIZAL|23:05||
+FI3|0162|RIZAL|14:10||`,629:`FT|0077|RIZAL|23:05||
 FT|0087|RIZAL|23:28||
 FT|0183|RIZAL|03:18||
 FT|0191|RIZAL|03:20||
@@ -123220,7 +120813,7 @@ FI3|0135|RIZAL|01:03||
 FI3|0208|RIZAL|04:09||
 FI3|0221|RIZAL|04:35||
 FI3|0231|RIZAL|04:56||
-FI3|0232|RIZAL|05:05||`,205:`FI1|0163|RIZAL|11:58||
+FI3|0232|RIZAL|05:05||`,531:`FI1|0163|RIZAL|11:58||
 FI1|0181|RIZAL|12:15||
 FI1|0211|RIZAL|13:41||
 FI1|0227|RIZAL|14:03||
@@ -123248,7 +120841,7 @@ FT|0078|RIZAL|09:53||
 FT|0087|RIZAL|09:52||
 FT|0291|RIZAL|15:31||
 FT|0294|RIZAL|15:28||
-FT|0295|RIZAL|15:15||`,206:`FT|0120|RIZAL|23:09||
+FT|0295|RIZAL|15:15||`,634:`FT|0120|RIZAL|23:09||
 FT|0208|RIZAL|01:27||
 FT|0255|RIZAL|03:03||
 FT|0262|RIZAL|03:19||
@@ -123278,7 +120871,7 @@ FI2|0233|RIZAL|02:47||
 FI2|0258|RIZAL|03:21||
 FI2|0279|RIZAL|03:45||
 FI2|0315|RIZAL|04:26||
-FI3|0071|RIZAL|21:59||`,207:`FT|0125|RIZAL|11:19||
+FI3|0071|RIZAL|21:59||`,560:`FT|0125|RIZAL|11:19||
 FT|0182|RIZAL|13:22||
 FT|0201|RIZAL|13:51||
 FT|0221|RIZAL|14:33||
@@ -123314,7 +120907,7 @@ FI3|0147|RIZAL|12:11||
 FI3|0214|RIZAL|14:33||
 FI3|0253|RIZAL|15:27||
 FI3|0256|RIZAL|15:31||
-FI3|0284|RIZAL|15:58||`,208:`FT|0010|RIZAL|08:12||
+FI3|0284|RIZAL|15:58||`,564:`FT|0010|RIZAL|08:12||
 FT|0077|RIZAL|09:53||
 FT|0081|RIZAL|09:59||
 FT|0217|RIZAL|14:32||
@@ -123353,7 +120946,7 @@ FI2|0205|RIZAL|14:23||
 FI3|0098|RIZAL|11:03||
 FI3|0114|RIZAL|11:22||
 FI3|0196|RIZAL|14:00||
-FI3|0214|RIZAL|14:52||`,209:`FT|0064|RIZAL|09:33||
+FI3|0214|RIZAL|14:52||`,537:`FT|0064|RIZAL|09:33||
 FT|0090|RIZAL|10:23||
 FT|0135|RIZAL|11:24||
 FT|0165|RIZAL|12:26||
@@ -123383,7 +120976,7 @@ FI2|0283|RIZAL|16:05||
 FI2|0290|RIZAL|16:26||
 FI2|0292|RIZAL|16:10||
 FI3|0086|RIZAL|10:20||
-FI3|0268|RIZAL|15:47||`,210:`FT|0078|RIZAL|22:11||
+FI3|0268|RIZAL|15:47||`,605:`FT|0078|RIZAL|22:11||
 FT|0089|RIZAL|22:54||
 FT|0159|RIZAL|00:37||
 FT|0292|RIZAL|04:33||
@@ -123416,7 +121009,7 @@ FI3|0041|RIZAL|21:39||
 FI3|0053|RIZAL|21:43||
 FI3|0138|RIZAL|00:09||
 FI3|0168|RIZAL|01:06||
-FI3|0194|RIZAL|02:25||`,211:`FT|0091|RIZAL|11:06||
+FI3|0194|RIZAL|02:25||`,541:`FT|0091|RIZAL|11:06||
 FT|0099|RIZAL|11:15||
 FT|0225|RIZAL|15:25||
 FI1|0002|RIZAL|08:10||
@@ -123446,7 +121039,7 @@ FI2|0226|RIZAL|15:39||
 FI2|0244|RIZAL|16:16||
 FI2|0246|RIZAL|15:59||
 FI3|0025|RIZAL|08:56||
-FI3|0121|RIZAL|11:46||`,212:`FT|0018|RIZAL|21:01||
+FI3|0121|RIZAL|11:46||`,610:`FT|0018|RIZAL|21:01||
 FT|0033|RIZAL|21:32||
 FT|0041|RIZAL|21:37||
 FT|0096|RIZAL|23:30||
@@ -123486,7 +121079,7 @@ FI3|0001|RIZAL|20:41||
 FI3|0069|RIZAL|22:50||
 FI3|0082|RIZAL|23:15||
 FI3|0104|RIZAL|23:39||
-FI3|0257|RIZAL|04:48||`,213:`FT|0006|RIZAL|08:11||
+FI3|0257|RIZAL|04:48||`,545:`FT|0006|RIZAL|08:11||
 FT|0186|RIZAL|13:24||
 FT|0255|RIZAL|14:55||
 FT|0314|RIZAL|16:09||
@@ -123518,7 +121111,7 @@ FI3|0018|RIZAL|08:36||
 FI3|0021|RIZAL|08:29||
 FI3|0067|RIZAL|09:37||
 FI3|0137|RIZAL|11:29||
-FI3|0217|RIZAL|13:54||`,214:`FT|0101|RIZAL|23:10||
+FI3|0217|RIZAL|13:54||`,615:`FT|0101|RIZAL|23:10||
 FT|0221|RIZAL|02:48||
 FT|0259|RIZAL|03:37||
 FI1|0029|RIZAL|20:54||
@@ -123542,7 +121135,7 @@ FI2|0246|RIZAL|03:13||
 FI2|0264|RIZAL|03:53||
 FI2|0296|RIZAL|04:32||
 FI2|0312|RIZAL|04:55||
-FI3|0066|RIZAL|21:48||`,215:`FT|0089|RIZAL|10:13||
+FI3|0066|RIZAL|21:48||`,549:`FT|0089|RIZAL|10:13||
 FT|0135|RIZAL|12:00||
 FT|0210|RIZAL|14:25||
 FT|0225|RIZAL|15:01||
@@ -123576,7 +121169,7 @@ FI2|0278|RIZAL|16:24||
 FI3|0049|RIZAL|09:33||
 FI3|0073|RIZAL|09:57||
 FI3|0125|RIZAL|11:52||
-FI3|0182|RIZAL|14:02||`,216:`FT|0070|RIZAL|22:25||
+FI3|0182|RIZAL|14:02||`,620:`FT|0070|RIZAL|22:25||
 FT|0102|RIZAL|23:30||
 FT|0194|RIZAL|02:33||
 FT|0278|RIZAL|04:59||
@@ -123609,7 +121202,7 @@ FI2|0271|RIZAL|04:36||
 FI3|0017|RIZAL|20:51||
 FI3|0178|RIZAL|02:23||
 FI3|0220|RIZAL|03:25||
-FI3|0222|RIZAL|03:40||`,217:`FT|0044|RIZAL|09:09||
+FI3|0222|RIZAL|03:40||`,553:`FT|0044|RIZAL|09:09||
 FT|0124|RIZAL|10:46||
 FI1|0037|RIZAL|08:41||
 FI1|0046|RIZAL|09:13||
@@ -123643,7 +121236,7 @@ FI2|0282|RIZAL|15:06||
 FI2|0306|RIZAL|15:36||
 FI2|0325|RIZAL|16:06||
 FI3|0335|RIZAL|16:34||
-FI3|0336|RIZAL|16:18||`,218:`FT|0011|RIZAL|20:24||
+FI3|0336|RIZAL|16:18||`,625:`FT|0011|RIZAL|20:24||
 FT|0126|RIZAL|23:37||
 FT|0141|RIZAL|23:37||
 FT|0143|RIZAL|23:57||
@@ -123674,7 +121267,7 @@ FI2|0259|RIZAL|03:21||
 FI2|0304|RIZAL|04:24||
 FI2|0336|RIZAL|05:07||
 FI3|0164|RIZAL|00:24||
-FI3|0231|RIZAL|02:32||`,219:`FT|0128|RIZAL|12:21||
+FI3|0231|RIZAL|02:32||`,557:`FT|0128|RIZAL|12:21||
 FT|0240|RIZAL|16:37||
 FI1|0023|RIZAL|08:39||
 FI1|0032|RIZAL|08:58||
@@ -123709,7 +121302,7 @@ FI3|0029|RIZAL|09:14||
 FI3|0037|RIZAL|09:07||
 FI3|0085|RIZAL|11:03||
 FI3|0151|RIZAL|13:52||
-FI3|0154|RIZAL|13:51||`,220:`FT|0085|RIZAL|23:34||
+FI3|0154|RIZAL|13:51||`,630:`FT|0085|RIZAL|23:34||
 FT|0187|RIZAL|03:17||
 FI1|0015|RIZAL|20:52||
 FI1|0031|RIZAL|21:30||
@@ -123743,7 +121336,7 @@ FI3|0086|RIZAL|23:37||
 FI3|0129|RIZAL|00:48||
 FI3|0142|RIZAL|01:19||
 FI3|0153|RIZAL|02:21||
-FI3|0206|RIZAL|03:49||`,221:`FI1|0007|RIZAL|08:07||
+FI3|0206|RIZAL|03:49||`,532:`FI1|0007|RIZAL|08:07||
 FI1|0016|RIZAL|08:22||
 FI1|0034|RIZAL|08:54||
 FI1|0054|RIZAL|09:20||
@@ -123775,7 +121368,7 @@ FI3|0181|RIZAL|12:18||
 FI3|0285|RIZAL|15:16||
 FT|0033|RIZAL|08:37||
 FT|0165|RIZAL|11:46||
-FT|0247|RIZAL|14:26||`,222:`FT|0010|RIZAL|20:38||
+FT|0247|RIZAL|14:26||`,635:`FT|0010|RIZAL|20:38||
 FT|0021|RIZAL|20:55||
 FT|0238|RIZAL|02:29||
 FT|0258|RIZAL|03:15||
@@ -123813,7 +121406,7 @@ FI2|0288|RIZAL|04:05||
 FI2|0317|RIZAL|04:21||
 FI2|0330|RIZAL|05:05||
 FI3|0190|RIZAL|01:13||
-FI3|0293|RIZAL|04:05||`,223:`FT|0003|RIZAL|08:20||
+FI3|0293|RIZAL|04:05||`,561:`FT|0003|RIZAL|08:20||
 FT|0055|RIZAL|09:29||
 FT|0082|RIZAL|10:08||
 FT|0245|RIZAL|14:49||
@@ -123843,7 +121436,7 @@ FI3|0093|RIZAL|10:27||
 FI3|0117|RIZAL|11:18||
 FI3|0156|RIZAL|12:14||
 FI3|0204|RIZAL|14:05||
-FI3|0299|RIZAL|16:38||`,224:`FT|0030|RIZAL|08:54||
+FI3|0299|RIZAL|16:38||`,565:`FT|0030|RIZAL|08:54||
 FT|0051|RIZAL|09:25||
 FT|0074|RIZAL|10:00||
 FT|0128|RIZAL|11:43||
@@ -123884,7 +121477,7 @@ FI2|0280|RIZAL|16:08||
 FI3|0011|RIZAL|08:33||
 FI3|0013|RIZAL|08:33||
 FI3|0220|RIZAL|14:46||
-FI3|0229|RIZAL|15:07||`,225:`FI1|0001|RIZAL|08:11||
+FI3|0229|RIZAL|15:07||`,522:`FI1|0001|RIZAL|08:11||
 FI1|0022|RIZAL|08:40||
 FI1|0042|RIZAL|09:09||
 FI1|0061|RIZAL|09:51||
@@ -123920,7 +121513,7 @@ FI3|0227|RIZAL|14:30||
 FT|0001|RIZAL|08:54||
 FT|0086|RIZAL|11:00||
 FT|0171|RIZAL|13:07||
-FT|0256|RIZAL|14:52||`,226:`FT|0013|RIZAL|20:38||
+FT|0256|RIZAL|14:52||`,606:`FT|0013|RIZAL|20:38||
 FT|0058|RIZAL|21:54||
 FT|0064|RIZAL|22:07||
 FT|0286|RIZAL|04:40||
@@ -123948,7 +121541,7 @@ FI2|0297|RIZAL|04:50||
 FI3|0082|RIZAL|22:48||
 FI3|0103|RIZAL|23:16||
 FI3|0193|RIZAL|02:14||
-FI3|0220|RIZAL|02:53||`,227:`FI1|0001|RIZAL|08:11||
+FI3|0220|RIZAL|02:53||`,523:`FI1|0001|RIZAL|08:11||
 FI1|0018|RIZAL|08:46||
 FI1|0034|RIZAL|09:04||
 FI1|0051|RIZAL|09:20||
@@ -123992,7 +121585,7 @@ FI3|0170|RIZAL|12:51||
 FI3|0255|RIZAL|14:50||
 FT|0001|RIZAL|09:17||
 FT|0114|RIZAL|12:08||
-FT|0227|RIZAL|14:23||`,228:`FT|0030|RIZAL|21:17||
+FT|0227|RIZAL|14:23||`,611:`FT|0030|RIZAL|21:17||
 FT|0159|RIZAL|01:14||
 FI1|0012|RIZAL|20:38||
 FI1|0028|RIZAL|21:03||
@@ -124024,7 +121617,7 @@ FI2|0196|RIZAL|03:04||
 FI2|0204|RIZAL|03:32||
 FI2|0210|RIZAL|03:31||
 FI2|0219|RIZAL|04:00||
-FI3|0227|RIZAL|04:17||`,229:`FI1|0001|RIZAL|08:21||
+FI3|0227|RIZAL|04:17||`,524:`FI1|0001|RIZAL|08:21||
 FI1|0022|RIZAL|08:37||
 FI1|0043|RIZAL|09:07||
 FI1|0063|RIZAL|09:47||
@@ -124061,7 +121654,7 @@ FT|0001|RIZAL|08:55||
 FT|0069|RIZAL|10:32||
 FT|0138|RIZAL|12:10||
 FT|0205|RIZAL|13:45||
-FT|0273|RIZAL|15:19||`,230:`FT|0048|RIZAL|21:37||
+FT|0273|RIZAL|15:19||`,616:`FT|0048|RIZAL|21:37||
 FT|0111|RIZAL|23:21||
 FT|0127|RIZAL|23:47||
 FT|0160|RIZAL|00:18||
@@ -124085,7 +121678,7 @@ FI2|0073|RIZAL|22:03||
 FI2|0178|RIZAL|00:54||
 FI2|0221|RIZAL|02:50||
 FI2|0295|RIZAL|04:36||
-FI3|0181|RIZAL|00:59||`,231:`FI1|0001|RIZAL|08:17||
+FI3|0181|RIZAL|00:59||`,525:`FI1|0001|RIZAL|08:17||
 FI1|0019|RIZAL|08:55||
 FI1|0038|RIZAL|09:13||
 FI1|0055|RIZAL|09:36||
@@ -124129,7 +121722,7 @@ FI3|0226|RIZAL|14:33||
 FT|0001|RIZAL|09:05||
 FT|0086|RIZAL|11:12||
 FT|0171|RIZAL|12:56||
-FT|0256|RIZAL|14:58||`,232:`FT|0087|RIZAL|23:09||
+FT|0256|RIZAL|14:58||`,621:`FT|0087|RIZAL|23:09||
 FT|0109|RIZAL|23:26||
 FI1|0011|RIZAL|20:38||
 FI1|0076|RIZAL|22:33||
@@ -124164,7 +121757,7 @@ FI2|0250|RIZAL|04:19||
 FI2|0253|RIZAL|04:10||
 FI3|0070|RIZAL|22:36||
 FI3|0116|RIZAL|00:02||
-FI3|0188|RIZAL|02:32||`,233:`FI1|0001|RIZAL|08:32||
+FI3|0188|RIZAL|02:32||`,526:`FI1|0001|RIZAL|08:32||
 FI1|0017|RIZAL|08:35||
 FI1|0032|RIZAL|08:54||
 FI1|0045|RIZAL|09:27||
@@ -124210,7 +121803,7 @@ FI3|0204|RIZAL|13:42||
 FI3|0272|RIZAL|15:15||
 FT|0001|RIZAL|09:19||
 FT|0115|RIZAL|12:06||
-FT|0228|RIZAL|14:26||`,234:`FT|0088|RIZAL|22:23||
+FT|0228|RIZAL|14:26||`,626:`FT|0088|RIZAL|22:23||
 FT|0299|RIZAL|04:11||
 FT|0330|RIZAL|04:49||
 FT|0334|RIZAL|04:53||
@@ -124244,7 +121837,7 @@ FI2|0303|RIZAL|04:12||
 FI3|0024|RIZAL|21:07||
 FI3|0143|RIZAL|00:03||
 FI3|0262|RIZAL|03:19||
-FI3|0306|RIZAL|04:06||`,235:`FI1|0001|RIZAL|08:17||
+FI3|0306|RIZAL|04:06||`,527:`FI1|0001|RIZAL|08:17||
 FI1|0025|RIZAL|09:00||
 FI1|0049|RIZAL|09:36||
 FI1|0071|RIZAL|09:58||
@@ -124277,7 +121870,7 @@ FT|0001|RIZAL|08:46||
 FT|0069|RIZAL|10:21||
 FT|0137|RIZAL|11:53||
 FT|0205|RIZAL|13:28||
-FT|0273|RIZAL|15:01||`,236:`FT|0121|RIZAL|00:25||
+FT|0273|RIZAL|15:01||`,631:`FT|0121|RIZAL|00:25||
 FT|0204|RIZAL|03:54||
 FI1|0001|RIZAL|20:18||
 FI1|0045|RIZAL|21:42||
@@ -124303,45 +121896,7 @@ FI2|0207|RIZAL|03:49||
 FI3|0079|RIZAL|23:16||
 FI3|0092|RIZAL|23:40||
 FI3|0171|RIZAL|02:54||
-FI3|0174|RIZAL|02:50||`,237:`FI1|0005|RIZAL|08:05||
-FI1|0021|RIZAL|08:26||
-FI1|0034|RIZAL|08:35||
-FI1|0049|RIZAL|08:52||
-FI1|0066|RIZAL|09:19||
-FI1|0067|RIZAL|09:12||
-FI1|0088|RIZAL|09:47||
-FI1|0137|RIZAL|11:09||
-FI1|0180|RIZAL|11:56||
-FI1|0198|RIZAL|13:13||
-FI1|0202|RIZAL|13:40||
-FI1|0211|RIZAL|13:40||
-FI1|0213|RIZAL|13:42||
-FI1|0225|RIZAL|14:01||
-FI1|0231|RIZAL|14:05||
-FI1|0245|RIZAL|14:32||
-FI1|0295|RIZAL|15:33||
-FI1|0311|RIZAL|15:56||
-FI2|0026|RIZAL|08:29||
-FI2|0062|RIZAL|09:22||
-FI2|0075|RIZAL|09:51||
-FI2|0118|RIZAL|10:58||
-FI2|0148|RIZAL|11:23||
-FI2|0154|RIZAL|11:38||
-FI2|0191|RIZAL|13:30||
-FI2|0216|RIZAL|14:04||
-FI2|0243|RIZAL|14:26||
-FI2|0276|RIZAL|15:06||
-FI2|0281|RIZAL|15:10||
-FI2|0284|RIZAL|15:14||
-FI2|0330|RIZAL|16:20||
-FI3|0095|RIZAL|10:15||
-FT|0107|RIZAL|10:17||
-FT|0122|RIZAL|10:38||
-FT|0178|RIZAL|12:12||
-FT|0254|RIZAL|14:42||
-FT|0305|RIZAL|15:45||
-DCFT|0144|RIZAL|11:24||
-DCFI|0238|RIZAL|14:23||`,238:`FT|0022|RIZAL|20:55||
+FI3|0174|RIZAL|02:50||`,636:`FT|0022|RIZAL|20:55||
 FT|0024|RIZAL|20:48||
 FT|0166|RIZAL|00:10||
 FI1|0020|RIZAL|20:53||
@@ -124375,7 +121930,7 @@ FI3|0096|RIZAL|22:42||
 FI3|0122|RIZAL|23:22||
 FI3|0140|RIZAL|23:41||
 FI3|0183|RIZAL|00:55||
-FI3|0192|RIZAL|01:01||`,239:`FI1|0001|RIZAL|08:06||
+FI3|0192|RIZAL|01:01||`,528:`FI1|0001|RIZAL|08:06||
 FI1|0017|RIZAL|08:47||
 FI1|0034|RIZAL|09:00||
 FI1|0048|RIZAL|09:26||
@@ -124424,7 +121979,7 @@ FI3|0227|RIZAL|14:35||
 FT|0001|RIZAL|09:08||
 FT|0086|RIZAL|10:55||
 FT|0171|RIZAL|13:08||
-FT|0256|RIZAL|14:58||`,240:`FT|0154|RIZAL|13:16||
+FT|0256|RIZAL|14:58||`,566:`FT|0154|RIZAL|13:16||
 FT|0218|RIZAL|14:47||
 FT|0242|RIZAL|15:33||
 FT|0284|RIZAL|16:37||
@@ -124467,4 +122022,7 @@ FI3|0062|RIZAL|09:25||
 FI3|0096|RIZAL|10:42||
 FI3|0105|RIZAL|11:06||
 FI3|0110|RIZAL|11:08||
-FI3|0254|RIZAL|15:42||`}};export{t as BLOK,e as SESI};
+FI3|0254|RIZAL|15:42||`}},Re=`modulepreload`,ze=function(e){return`/demo-cbs/`+e},Be={},E=function(e,t,n){let r=Promise.resolve();if(t&&t.length>0){let e=document.getElementsByTagName(`link`),i=document.querySelector(`meta[property=csp-nonce]`),a=i?.nonce||i?.getAttribute(`nonce`);function o(e){return Promise.all(e.map(e=>Promise.resolve(e).then(e=>({status:`fulfilled`,value:e}),e=>({status:`rejected`,reason:e}))))}r=o(t.map(t=>{if(t=ze(t,n),t in Be)return;Be[t]=!0;let r=t.endsWith(`.css`),i=r?`[rel="stylesheet"]`:``;if(n)for(let n=e.length-1;n>=0;n--){let i=e[n];if(i.href===t&&(!r||i.rel===`stylesheet`))return}else if(document.querySelector(`link[href="${t}"]${i}`))return;let o=document.createElement(`link`);if(o.rel=r?`stylesheet`:Re,r||(o.as=`script`),o.crossOrigin=``,o.href=t,a&&o.setAttribute(`nonce`,a),document.head.appendChild(o),r)return new Promise((e,n)=>{o.addEventListener(`load`,e),o.addEventListener(`error`,()=>n(Error(`Unable to preload CSS for ${t}`)))})}))}function i(e){let t=new Event(`vite:preloadError`,{cancelable:!0});if(t.payload=e,window.dispatchEvent(t),!t.defaultPrevented)throw e}return r.then(t=>{for(let e of t||[])e.status===`rejected`&&i(e.reason);return e().catch(i)})},D=[...Ie],O={OK:{...Le.OK},NG:{...Le.NG},REWORK:{...Le.REWORK},QC:{...Le.QC}},Ve=new Map(D.map(e=>[e.id,e])),k=e=>Ve.get(Number(e))??null,He=new Map;function Ue(e,t,n){let r=k(t);if(!r)return[];let i=He.get(e);i||He.set(e,i=new Map);let a=i.get(r.id);if(a)return a;let o=O[e][r.id],s=o?o.split(`
+`).map((e,t)=>n(e.split(`|`),t,r)):[];return i.set(r.id,s),s}var A=(e,t)=>e===``?t:e,j=(e,t,n)=>`a${e.id}-${t}-${n}`,We=e=>Ue(`OK`,e,([e,t,n,r,i,a],o,s)=>({id:j(s,`ok`,o),station:e,no_label:t,waktu:n,tanggal:A(i,s.tanggal),group_name:A(a,s.group_name),part_number:s.part_number,packing_no:r===``?null:Number(r)})),M=null;function Ge(){if(M)return M;M=[];for(let e of D){let t=O.OK[e.id];t&&t.split(`
+`).forEach((t,n)=>{if(!t.startsWith(`Packing|`))return;let[r,i,a,o,s,c]=t.split(`|`);M.push({id:j(e,`ok`,n),station:r,no_label:i,waktu:a,tanggal:A(s,e.tanggal),group_name:A(c,e.group_name),part_number:e.part_number,line:e.line,packing_no:o===``?null:Number(o)})})}return M}var Ke=e=>Ue(`NG`,e,([e,t,n,r,i,a,o,s,c,l],u,d)=>({id:j(d,`ng`,u),station:e,no_label:t,waktu:n,kategori:r,jenis:i,keterangan:a,rework:o,part_number:A(s,d.part_number),tanggal:A(c,d.tanggal),group_name:A(l,d.group_name)})),qe=e=>{let t=new Map(Ke(e).map(e=>[`${e.station}|${e.no_label}`,e.rework]));return Ue(`REWORK`,e,([e,n,r,i,a,o,s,c,l,u,d],f,p)=>({id:j(p,`rw`,f),shift_id:p.id,station:e,no_label:n,jenis:r,keterangan:i,pelaku_ng:a,root_cause:o,dirework_oleh:s===``?null:s,waktu:c,ng_waktu:l===``?null:l,tanggal:A(u,p.tanggal),group_name:A(d,p.group_name),rework_status:t.get(`${e}|${n}`)??`CLOSE`}))},Je=e=>{let t=`|${e}|`;return D.filter(e=>O.OK[e.id]?.includes(t)||O.NG[e.id]?.includes(t)).map(e=>e.id)},Ye=e=>Ue(`QC`,e,([e,t,n,r,i,a],o,s)=>({id:j(s,`qc`,o),shift_id:s.id,station:e,no_label:t,diverifikasi_oleh:n,waktu:r,tanggal:A(i,s.tanggal),group_name:A(a,s.group_name)})),Xe={"2026-01":()=>E(()=>import(`./arsip-2026-01-D8821aT4.js`),[]),"2026-02":()=>E(()=>import(`./arsip-2026-02-B4Fm0rkR.js`),[]),"2026-03":()=>E(()=>import(`./arsip-2026-03-CjLAtKQr.js`),[]),"2026-04":()=>E(()=>import(`./arsip-2026-04-D4bqElKp.js`),[]),"2026-05":()=>E(()=>import(`./arsip-2026-05-CsvcjCTJ.js`),[]),"2026-06":()=>E(()=>import(`./arsip-2026-06-DAm8RM9X.js`),[])},Ze=[[1,80,`2026-01`],[81,160,`2026-02`],[161,240,`2026-03`],[241,320,`2026-04`],[321,400,`2026-05`],[401,480,`2026-06`],[522,636,`2026-07`]],Qe=new Set([`2026-07`]),$e=new Map,et=e=>String(e??``).slice(0,7),tt=e=>{let t=Number(e),n=Ze.find(([e,n])=>t>=e&&t<=n);return n?n[2]:null};async function nt(e){let t=et(e);!t||Qe.has(t)||Object.hasOwn(Xe,t)&&($e.has(t)||$e.set(t,Xe[t]().then(e=>{for(let t of e.SESI)Ve.has(t.id)||(Ve.set(t.id,t),D.push(t));for(let t of[`OK`,`NG`,`REWORK`,`QC`])Object.assign(O[t],e.BLOK[t]);D.sort((e,t)=>e.tanggal<t.tanggal?-1:e.tanggal>t.tanggal?1:e.line-t.line||e.id-t.id),M=null,Qe.add(t)})),await $e.get(t))}var rt=e=>nt(e),it=e=>nt(tt(e)??`2026-07`);async function at(e,t){let n=et(e),r=et(t||e)||n;if(!n)return ot();await Promise.all(Object.keys(Xe).filter(e=>e>=n&&e<=r).map(nt))}var ot=()=>Promise.all(Object.keys(Xe).map(nt)),st=/-00-80$/i,ct=e=>String(e??``).replace(/group/gi,``).trim().toUpperCase(),lt=(e,t,n,r,i)=>`${String(e??``).toUpperCase()}|${t}|${ct(n)}|${r}|${i}`,ut=[`scan_in_at`,`scan_out_at`,`kirim_at`],dt=e=>!e||!e.scan_in_at?`before`:e.scan_out_at?e.kirim_at?`terkirim`:`entry`:`stock`,ft={"scan-in":{kiri:`before`,kanan:`stock`,kolom:`scan_in_at`},"scan-out":{kiri:`stock`,kanan:`entry`,kolom:`scan_out_at`}},pt=()=>x(new Date,{detik:!1}),N=e=>({id:e.id,tanggal:e.tanggal,group:e.group,line:e.line,packingNo:e.packingNo,waktu:e.waktu,labels:e.labels,tanggalScanIn:e.stempel?.scan_in_at??void 0,tanggalScanOut:e.stempel?.scan_out_at??void 0});function mt(e,t,n){let r=new Map;e.forEach((e,i)=>{if(e.packing_no==null)return;let a=String(e.part_number).toUpperCase();if(n&&a!==n)return;let o=lt(a,e.tanggal,e.group_name,e.line,e.packing_no),s=r.get(o);s||(s={id:o,pn:a,tanggal:e.tanggal,group:ct(e.group_name),line:e.line,packingNo:e.packing_no,waktu:e.waktu,urut:i,labels:[],stempel:t[o]??null},r.set(o,s)),s.labels.push(e.no_label),i>s.urut&&(s.urut=i,s.waktu=e.waktu)});let i=[...r.values()].sort((e,t)=>e.urut-t.urut);for(let e of i)e.keadaan=dt(e.stempel);return i}var P=(e,t,n)=>mt(e,t,n);function ht(e,t){let n=new Map;for(let r of mt(e,t)){let e=n.get(r.pn);e||(e={pn:r.pn,beforePcs:0,beforeBox:0,stockPcs:0,stockBox:0,entryPcs:0,kirimPcs:0,stockTertuaMasuk:null},n.set(r.pn,e));let t=r.labels.length;if(r.keadaan===`before`)e.beforePcs+=t,e.beforeBox+=1;else if(r.keadaan===`stock`){e.stockPcs+=t,e.stockBox+=1;let n=r.stempel?.scan_in_at??null;n&&(!e.stockTertuaMasuk||n<e.stockTertuaMasuk)&&(e.stockTertuaMasuk=n)}else r.keadaan===`entry`?e.entryPcs+=t:e.kirimPcs+=t}return[...n.values()].sort((e,t)=>t.beforePcs+t.stockPcs+t.entryPcs+t.kirimPcs-(e.beforePcs+e.stockPcs+e.entryPcs+e.kirimPcs))}function gt({slug:e,pn:t,label:n,barisPacking:r,stempelBox:i}){let a=ft[e];if(!a)return[{error:`layar tidak dikenal`},404];let o=String(t??``).trim().toUpperCase(),s=String(n??``).trim().split(`|`).map(e=>e.trim());if(s.length!==6||!s[4]||!s[5]||s[2].toUpperCase()!==`WIRE HARNESS ASSY`||s[3].toUpperCase()!==`CH7651`)return[{reason:`format`},400];let c=s[0].toUpperCase().replace(st,``);if(!c||c!==o)return[{reason:`partnum`,pnScan:c},409];let l=/^(\d+)([A-Za-z]+)$/.exec(s[5]);if(!l)return[{reason:`format`},400];let u=lt(o,s[1],l[2],Number(l[1]),Number(s[4])),d=P(r,i,o).find(e=>e.id===u);if(d?.stempel?.[a.kolom])return[{reason:`duplikat`},409];if(!d||d.keadaan!==a.kiri)return[{reason:`tidak-dikenal`},404];let f={...i[u]??{id:u,part_number:o},[a.kolom]:pt()};d.stempel=f;let p={...i,[u]:f},m=null;if(e===`scan-out`&&f.scan_in_at){let e=Object.values(i).filter(e=>String(e.part_number).toUpperCase()===o&&e.id!==u&&e.scan_in_at&&!e.scan_out_at&&e.scan_in_at.slice(0,10)<f.scan_in_at.slice(0,10));e.length&&(m={lebihTua:e.length,tertuaMasuk:e.reduce((e,t)=>!e||t.scan_in_at<e?t.scan_in_at:e,null)})}return[{box:N(d),fifo:m},200,p]}function _t({slug:e,id:t,barisPacking:n,stempelBox:r}){let i=ft[e];if(!i)return[{error:`layar tidak dikenal`},404];let a=r[t];if(!a||!a[i.kolom])return[{reason:`tidak-ada`},404];if(a.kirim_at)return[{reason:`sudah-dikirim`},409];if(ut.slice(ut.indexOf(i.kolom)+1).some(e=>a[e]))return[{reason:`ada-lanjutan`},409];let o={...a,[i.kolom]:null},s=ut.every(e=>!o[e]),c=String(a.part_number).toUpperCase(),l={...r};s?delete l[t]:l[t]=o;let u=P(n,l,c).find(e=>e.id===t);return u?[{box:N(u)},200,l]:[{reason:`tidak-ada`},404]}function vt({slug:e,pn:t,barisPacking:n,stempelBox:r}){let i=ft[e];if(!i)return[{error:`layar tidak dikenal`},404];let a=String(t??``).trim().toUpperCase(),o=a?P(n,r,a):[];return[{kiri:o.filter(e=>e.keadaan===i.kiri).map(N),kanan:o.filter(e=>e.keadaan===i.kanan).map(N)},200]}function yt({pn:e,barisPacking:t,stempelBox:n}){let r=P(t,n,String(e??``).trim().toUpperCase()).filter(e=>e.keadaan===`entry`);if(!r.length)return[{reason:`kosong`},409];let i=pt(),a={...n};for(let e of r)a[e.id]={...a[e.id],kirim_at:i};return[{ok:!0,box:r.length,pcs:r.reduce((e,t)=>e+t.labels.length,0),waktu:i},200,a]}function bt({barisPacking:e,stempelBox:t,dari:n=``,sampai:r=``}){let i=new Map;for(let a of mt(e,t)){if(a.keadaan!==`terkirim`)continue;let e=String(a.stempel.scan_out_at??``).slice(0,10);if(n&&e<n||r&&e>r)continue;let t=`${a.pn}|${e}`,o=i.get(t)??{pn:a.pn,tanggal:e,box:0,pcs:0,kirimTerakhir:null};o.box+=1,o.pcs+=a.labels.length,(!o.kirimTerakhir||a.stempel.kirim_at>o.kirimTerakhir)&&(o.kirimTerakhir=a.stempel.kirim_at),i.set(t,o)}return[...i.values()].sort((e,t)=>t.tanggal.localeCompare(e.tanggal)||e.pn.localeCompare(t.pn))}function xt({pn:e,tanggal:t,barisPacking:n,stempelBox:r}){let i=String(e??``).trim().toUpperCase();return i?P(n,r,i).filter(e=>e.keadaan===`terkirim`&&String(e.stempel?.scan_out_at??``).slice(0,10)===String(t??``)).map(N):[]}var St=(e,t)=>`${e}|${t}`,Ct={FT:{kiriNik:`21045`,kiriNama:`SAMSIR`,kananNik:`21046`,kananNama:`RINA`},FI1:{kiriNik:`21112`,kiriNama:`AGUS`,kananNik:`21113`,kananNama:`DEWI`},FI2:{kiriNik:`21087`,kiriNama:`HENDRA`,kananNik:`21088`,kananNama:`PUTRI`},FI3:{kiriNik:`21130`,kiriNama:`JOKO`,kananNik:`21131`,kananNama:`SARI`},[i]:{kiriNik:`21204`,kiriNama:`RUDI`,kananNik:`21205`,kananNama:`MAYA`},[a]:{kiriNik:`21217`,kiriNama:`DEDI`,kananNik:`21218`,kananNama:`NINA`},Packing:{kiriNik:`21066`,kiriNama:`YOGI`,kananNik:`21067`,kananNama:`LESTARI`}},wt=e=>{let t=Ct[e];return t?{operator_nik:t.kiriNik,operator_kiri_nik:t.kiriNik,operator_kiri_nama:t.kiriNama,operator_kanan_nik:t.kananNik,operator_kanan_nama:t.kananNama}:{operator_nik:null,operator_kiri_nik:null,operator_kiri_nama:null,operator_kanan_nik:null,operator_kanan_nama:null}},Tt=e=>{let t=e?.operatorKiriNik??e?.operatorNik??null;return{operator_nik:t,operator_kiri_nik:t,operator_kiri_nama:e?.operatorKiriNama??null,operator_kanan_nik:e?.operatorKananNik??null,operator_kanan_nama:e?.operatorKananNama??null}},Et=e=>{let t=e.operator_kiri_nik??e.operator_nik??null;return{operator_nik:t,operator_kiri_nik:t,operator_kiri_nama:e.operator_kiri_nama??null,operator_kanan_nik:e.operator_kanan_nik??null,operator_kanan_nama:e.operator_kanan_nama??null}},Dt=e=>{let t=e.operator_kiri_nik??e.operator_nik??null,n=e.operator_kiri_nama??null,r=e.operator_kanan_nik??null,i=e.operator_kanan_nama??null;return{operator:t,operatorKiri:t||n?{nik:t,nama:n}:null,operatorKanan:r||i?{nik:r,nama:i}:null}},Ot={...w,Packing:l(`Packing`,pe,g)};function F(e,t=533){let n=new Set(r(`scansOkBaru`).filter(e=>e._buang).map(e=>e.id)),i=e=>Number(e.shift_id??533)===Number(t),a=(Number(t)===533?Ot[e]??[]:[]).filter(e=>!n.has(e.id)).map(t=>({...wt(e),...t})),o=r(`scansOkBaru`).filter(t=>t.station===e&&!t._buang&&i(t));return[...a,...o]}function I(e,t=533){let n=r(`reworkStatus`),i=r(`ngFields`),a=new Set(r(`scansNgBaru`).filter(e=>e._buang).map(e=>e.id)),o=e=>Number(e.shift_id??533)===Number(t),s=(Number(t)===533?T[e]??[]:[]).filter(e=>!a.has(e.id)).map(t=>({...wt(e),...t,...i[t.id],rework:n[St(e,t.no_label)]??t.rework})),c=r(`scansNgBaru`).filter(t=>t.station===e&&!t._buang&&o(t)).map(t=>({...t,...i[t.id],rework:n[St(e,t.no_label)]??t.rework}));return[...s,...c]}var L=()=>o.filter(e=>e!==`Rework`),kt=()=>{let e=r(`shifts`);return e.find(e=>Number(e.id)===533)??e[0]??null},R=()=>[...D,...r(`shifts`)],z=e=>!e||!!(e&&r(`shifts`).some(t=>Number(t.id)===Number(e))),At=e=>({...wt(e.station),...e}),B=(e,t)=>z(e)?F(t,e||533):We(e).filter(e=>e.station===t).map(At),V=(e,t)=>z(e)?I(t,e||533):Ke(e).filter(e=>e.station===t).map(At),jt=e=>z(e)?L().flatMap(t=>F(t,e||533)):We(e).map(At),H=e=>z(e)?L().flatMap(t=>I(t,e||533)):Ke(e).map(At),U=({tanggal:e,group:t,partNumber:n,shift:r}={})=>R().filter(i=>(!e||i.tanggal===e)&&(!t||i.group_name===t)&&(!n||i.part_number===n)&&(!r||r===`ALL`||i.shift===r)),Mt=e=>U({tanggal:e.get(`tanggal`),group:e.get(`group`),partNumber:e.get(`partNumber`),shift:e.get(`shift`)}),W={tanggal:e=>rt(e||`2026-07-10`),sesi:e=>at(e.q.get(`tanggal`),e.q.get(`tanggal`)),rentang:e=>at(e.q.get(`from`)??e.q.get(`dari`)??e.q.get(`tanggal`)??``,e.q.get(`to`)??e.q.get(`sampai`)??e.q.get(`tanggal`)??``),id:e=>it(e),semua:()=>ot()},Nt=(e,t,n=()=>!0)=>R().filter(r=>(!e||r.tanggal>=e)&&(!t||r.tanggal<=t)&&n(r)),Pt=[],G=(e,t,n)=>Pt.push([e,t,n]),K=(e,t)=>G(`GET`,e,t),q=(e,t)=>G(`POST`,e,t),J=(e,t)=>G(`PUT`,e,t),Y=(e,t)=>G(`PATCH`,e,t),X=(e,t)=>G(`DELETE`,e,t);K(`/api/health`,()=>({status:`ok`,versi:`1.0.0-demo`,commit:null,kotor:!1,dibangun:c})),K(`/api/status-sistem`,()=>{let e=new Date;return{status:`ok`,timestamp:e.toISOString(),versi:`1.0.0-demo`,commit:null,kotor:!1,dibangun:c,uptimeSec:23400,uptime:`6j 30m`,db:{path:`data/inspection.db`,sizeBytes:48234496,walBytes:1048576,ok:!0,error:null},disk:{totalBytes:240057409536,freeBytes:186231324672},node:`v24.21.0`,mem:{rss:132308992,heapTotal:62914560,heapUsed:48234496,external:2097152},ws:{total:L().length,perLine:{8:L().length},belumSubscribe:0},denyutPc:L().map((t,n)=>({line:8,pc:`PC-${t.replace(/\s+/g,`-`).toUpperCase()}`,station:t,ip:`192.168.1.${20+n}`,pertama:e.getTime()-234e5,terakhir:e.getTime(),detikLalu:2+n,jumlah:4680-n})),backup:{folder:`data/backup`,jumlah:0,terakhir:null,offsite:null,ujiPulih:null,scanDiam:null,ringkasanShift:null}}}),K(`/api/shifts/today`,async e=>{await W.tanggal(e.q.get(`tanggal`));let t=e.q.get(`line`)?Number(e.q.get(`line`)):null;return U({tanggal:e.q.get(`tanggal`)||`2026-07-10`}).filter(e=>t==null||e.line===t).map(e=>({...e,dc_enabled:e.dc_enabled??0}))}),K(`/api/shifts/latest`,async e=>{await W.tanggal(e.q.get(`tanggal`));let t=Number(e.q.get(`line`))||8;if(t===8)return kt()??{};let n=e.q.get(`tanggal`)||`2026-07-10`;return R().filter(e=>e.line===t&&e.tanggal===n).sort((e,t)=>t.id-e.id)[0]??{error:`Belum ada shift hari ini untuk line ${t}`}}),K(/^\/api\/shifts\/(\d+)\/selesai$/,()=>[]),K(/^\/api\/shifts\/(\d+)\/ringkasan$/,()=>vn()),K(`/api/shifts/find`,async e=>(await W.sesi(e),[...new Set(U({tanggal:e.q.get(`tanggal`),group:e.q.get(`group`),partNumber:e.q.get(`partNumber`)}).map(e=>e.shift))])),K(`/api/shifts/part-numbers`,async e=>(await W.sesi(e),[...new Set(U({tanggal:e.q.get(`tanggal`),group:e.q.get(`group`)}).map(e=>e.part_number))])),K(`/api/shifts/by-date`,async e=>(await W.sesi(e),U({tanggal:e.q.get(`tanggal`)}).flatMap(e=>[{partNumber:e.part_number,slot:1},{partNumber:e.part_number_2??null,slot:2},{partNumber:e.part_number_3??null,slot:3},{partNumber:e.part_number_4??null,slot:4}].filter(e=>e.partNumber).map(t=>({id:e.id,line:e.line,group:e.group_name,partNumber:t.partNumber,shift:e.shift,slot:t.slot}))))),K(`/api/shifts/ng-summary`,async e=>(await W.sesi(e),yn(e.q))),K(`/api/shifts/jenis-detail`,e=>bn(e.q)),K(`/api/shifts/ng-jenis-detail`,e=>bn(e.q,!0)),K(`/api/shifts/trend`,async e=>{await W.sesi(e);let t=Mt(e.q),n=t[0];return n?z(n.id)?{ongoing:!0}:{ongoing:!1,chartHistory:[],stationChartHistories:{FT:[],FI1:[],FI2:[],FI3:[]},breakIntervals:[],shift:{shift:n.shift,line:n.line,lineLain:[...new Set(t.slice(1).map(e=>e.line))],waktuMulai:n.waktu_mulai,waktuAkhir:n.waktu_akhir,target:n.target,target2:n.target_2??null,target3:n.target_3??null,target4:n.target_4??null,durasi:n.durasi,durationSec:0}}:[{error:`Shift tidak ditemukan`},404]}),K(`/api/shifts/periodic`,async e=>{await W.rentang(e);let t=Nt(e.q.get(`from`),e.q.get(`to`),t=>(!e.q.get(`group`)||t.group_name===e.q.get(`group`))&&(!e.q.get(`partNumber`)||t.part_number===e.q.get(`partNumber`))),n=new Map;for(let e of t)n.set(e.tanggal,[...n.get(e.tanggal)??[],e]);let r=[...n.entries()].sort(([e],[t])=>e.localeCompare(t)).map(([e,t])=>xn(e,t));if(e.q.get(`perBulan`)===`1`){let e=new Map;for(let t of r){let n=String(t.tanggal).slice(0,7),r=e.get(n)??{bulan:Number(n.slice(5,7)),target:0,outputFi3:0,ngTotal:0,ngFt:0,ngFi1:0,ngFi2:0,ngFi3:0,ngDcFt:0,ngDcFi:0,dcAktif:!1};for(let e of[`target`,`outputFi3`,`ngTotal`,`ngFt`,`ngFi1`,`ngFi2`,`ngFi3`,`ngDcFt`,`ngDcFi`])r[e]+=t[e];r.dcAktif=r.dcAktif||t.dcAktif,e.set(n,r)}return[...e.entries()].sort(([e],[t])=>e.localeCompare(t)).map(([,e])=>e)}return r}),K(`/api/shifts/line-ranking`,async e=>{await W.rentang(e);let t=Nt(e.q.get(`from`),e.q.get(`to`),t=>!e.q.get(`shift`)||t.shift===e.q.get(`shift`)),n=new Map;for(let e of t){let t=n.get(e.group_name)??{group:e.group_name,output:0,ng:0};t.output+=B(e.id,`FI3`).length+V(e.id,`FI3`).filter(e=>e.rework===`CLOSE`).length,t.ng+=H(e.id).length,n.set(e.group_name,t)}return[...n.values()].map(e=>({...e,ngPct:e.output>0?e.ng/e.output*100:0})).sort((e,t)=>e.group.localeCompare(t.group))}),q(`/api/shifts`,async t=>{await W.id(t.body?.id);let n=t.body.changeModelDari==null?null:r(`shifts`).find(e=>e.id===t.body.changeModelDari),i={...b,id:r(`shifts`).reduce((e,t)=>Math.max(e,t.id),533)+1,induk_shift_id:n?n.induk_shift_id??n.id:null,line:Number(t.body.line)||b.line,nama_leader:t.body.namaLeader??b.nama_leader,tanggal:t.body.tanggal??b.tanggal,shift:t.body.shift??b.shift,part_number:t.body.partNumber??b.part_number,group_name:t.body.group??b.group_name,target:Number(t.body.target)||b.target,waktu_mulai:t.body.waktuMulai??b.waktu_mulai,waktu_akhir:t.body.waktuAkhir??b.waktu_akhir,durasi:t.body.durasi??b.durasi,hari:t.body.hari??b.hari,fase_bulan:t.body.faseBulan??b.fase_bulan,part_number_2:t.body.partNumber2??null,target_2:t.body.target2??null,part_number_3:t.body.partNumber3??null,target_3:t.body.target3??null,part_number_4:t.body.partNumber4??null,target_4:t.body.target4??null,dc_enabled:+!!t.body.dcAktif,dc_2:+!!t.body.dc2,dc_3:+!!t.body.dc3,dc_4:+!!t.body.dc4,revisi_log:null};return e(`shifts`,e=>[...e,i]),[i,201]}),Y(/^\/api\/shifts\/(\d+)\/revisi$/,(t,n)=>{let i=r(`shifts`).find(e=>e.id===Number(n[1]));if(!i)return[{error:`Shift tidak ditemukan`},404];let a=JSON.parse(i.revisi_log??`[]`),o=new Date,s=e=>String(e).padStart(2,`0`),l=[];for(let[e,n]of[[2,`target_2`],[3,`target_3`],[4,`target_4`]]){let r=t.body[`target${e}`];r==null||r===i[n]||(l.push({slot:e,partNumber:i[`part_number_${e}`],lama:i[n],baru:r}),i[n]=r)}if(a.push({waktu:`${s(o.getHours())}:${s(o.getMinutes())}:${s(o.getSeconds())}`,tanggal:c,waktuAkhirLama:t.body.waktuAkhir?i.waktu_akhir:null,waktuAkhirBaru:t.body.waktuAkhir??null,targetLama:t.body.target==null?null:i.target,targetBaru:t.body.target??null,antrean:l,dc:[]}),t.body.waktuAkhir){i.waktu_akhir=t.body.waktuAkhir;let[e,n]=i.waktu_mulai.split(`:`).map(Number),[r,a]=t.body.waktuAkhir.split(`:`).map(Number),o=r*60+a-(e*60+n);o<=0&&(o+=1440),i.durasi=`${Math.floor(o/60)} jam ${o%60} menit`}return t.body.target!=null&&(i.target=t.body.target),i.revisi_log=JSON.stringify(a),e(`shifts`,e=>e.map(e=>e.id===i.id?i:e)),{...i}}),X(/^\/api\/shifts\/(\d+)\/setup$/,(t,n)=>{let i=Number(n[1]),a=r(`shifts`).find(e=>e.id===i);return a?Number(i)===533||k(i)?[{error:`Sesi ini sudah punya data — Setup tidak bisa dihapus`,jumlah:{scanOk:jt(i).length,scanNg:H(i).length,rework:(z(i)?r(`reworkAnalisa`):qe(i)).length,verifikasi:(z(i)?r(`verifikasiQc`):Ye(i)).length,abnormal:0,carry:0}},409]:(e(`shifts`,e=>e.filter(e=>e.id!==i)),Q(`hapusSetup`,{pelaku:`leader:RIZAL`,rowId:i,sebelum:a}),{ok:!0,dihapus:1}):[{error:`Shift tidak ditemukan`},404]}),X(RegExp(`^/api/shifts/([^/]+)/model$`),(t,n)=>{let i=Number(n[1]),a=Number(t.body?.slot??1);if(![1,2,3,4].includes(a))return[{error:`slot harus 1, 2, 3, atau 4`},400];let o=r(`shifts`).find(e=>e.id===i);if(!o)return[{error:`Baris model tidak ditemukan`},404];let s={1:`part_number`,2:`part_number_2`,3:`part_number_3`,4:`part_number_4`}[a];if(!o[s])return[{error:`Slot ${a} kosong pada baris ini`},404];if(a!==1){let t={2:`target_2`,3:`target_3`,4:`target_4`}[a],n={2:`dc_2`,3:`dc_3`,4:`dc_4`}[a];return e(`shifts`,e=>e.map(e=>e.id===i?{...e,[s]:null,[t]:null,[n]:0}:e)),{ok:!0,slot:a,dihapus:{antrean:1}}}let c=e=>e.shift_id!==i,l=r(`scansOkBaru`).filter(e=>!c(e)).length,u=r(`scansNgBaru`).filter(e=>!c(e)).length,d=r(`reworkAnalisa`).filter(e=>e.shift_id===i).length,f=r(`verifikasiQc`).filter(e=>e.shift_id===i).length;return e(`scansOkBaru`,e=>e.filter(c)),e(`scansNgBaru`,e=>e.filter(c)),e(`reworkAnalisa`,e=>e.filter(e=>e.shift_id!==i)),e(`verifikasiQc`,e=>e.filter(e=>e.shift_id!==i)),e(`shifts`,e=>e.filter(e=>e.id!==i)),Q(`hapusModel`,{pelaku:`leader:RIZAL`,rowId:i,sebelum:o}),{ok:!0,slot:a,dihapus:{scans_ok:l,scans_ng:u,rework:d,verifikasi:f,shift:1}}}),Y(/^\/api\/shifts\/(\d+)\/leader$/,(t,n)=>{let i=Number(n[1]),a=r(`shifts`).find(e=>e.id===i);if(!a)return[{error:`Shift tidak ditemukan`},404];let o=a.induk_shift_id??a.id,s=String(t.body.namaLeader??``).trim();return s?(e(`shifts`,e=>e.map(e=>e.id===o||e.induk_shift_id===o?{...e,nama_leader:s}:e)),r(`shifts`).find(e=>e.id===i)):[{error:`namaLeader wajib diisi`},400]}),Y(/^\/api\/shifts\/(\d+)\/extratime$/,()=>({ok:!0})),K(`/api/scans/ok`,async e=>(await W.id(e.q.get(`shiftId`)),B(e.q.get(`shiftId`),e.q.get(`station`)))),K(`/api/scans/ng`,async e=>(await W.id(e.q.get(`shiftId`)),V(e.q.get(`shiftId`),e.q.get(`station`)))),K(`/api/scans/ng-history`,()=>({rows:[]})),K(`/api/scans/ng/by-label`,e=>{let t=e.q.get(`noLabel`),n=e.q.get(`tanggal`),r=(e.q.get(`group`)??``).toUpperCase();return{rows:L().flatMap(e=>I(e).filter(e=>e.no_label===t&&e.rework===`OPEN`&&(!n||e.tanggal===n)&&(!r||String(e.group_name??``).toUpperCase()===r)))}}),K(`/api/scans/prev-station-check`,()=>({passed:!1})),q(`/api/scans/ok`,n=>{let r={id:t(),shift_id:Number(n.body.shiftId)||533,station:n.body.station,no_label:n.body.noLabel,waktu:n.body.waktu,tanggal:n.body.tanggal??`2026-07-10`,group_name:n.body.group??`Group A`,part_number:n.body.partNumber??`BXY-H2590-00`,...Tt(n.body),packing_no:null};return r.station===`Packing`&&(r.packing_no=Wt()),e(`scansOkBaru`,e=>[...e,r]),[r,201]}),q(`/api/scans/ng`,n=>{let r=(n.body.rows??[]).map(e=>({id:t(),shift_id:Number(n.body.shiftId)||533,station:n.body.station,no_label:e.noLabel??n.body.noLabel,waktu:e.waktu??n.body.waktu,tanggal:n.body.tanggal??`2026-07-10`,group_name:n.body.group??`Group A`,part_number:n.body.partNumber??`BXY-H2590-00`,kategori:e.kategori,jenis:e.jenis,keterangan:e.keterangan,...Tt(n.body),rework:`OPEN`}));return e(`scansNgBaru`,e=>[...e,...r]),[r,201]});var Ft=(t,n,r)=>(e(`reworkStatus`,e=>({...e,[St(t,n)]:r})),{ok:!0,rework:r}),It=`([^/]+)`,Lt=e=>decodeURIComponent(e[1]);Y(RegExp(`^/api/scans/ng/${It}/rework$`),(e,t)=>{let n=Lt(t);for(let t of L()){let r=I(t).find(e=>String(e.id)===n);if(r)return Ft(t,r.no_label,e.body.rework)}return[{error:`Baris NG tidak ditemukan`,reason:`belum-ada`},409]}),Y(`/api/scans/ng/rework`,e=>Ft(e.body.station,e.body.noLabel,e.body.rework)),Y(`/api/scans/ng/rework-by-label`,e=>Ft(e.body.station,e.body.noLabel,e.body.rework));var Rt=e=>{for(let t of L()){let n=I(t).find(t=>String(t.id)===String(e));if(n)return{baris:n,station:t}}return null},zt=e=>{for(let t of L()){let n=F(t).find(t=>String(t.id)===String(e));if(n)return{baris:n,station:t}}return null};function Bt(t,n){if(I(t).some(e=>e.no_label===n))return;let r=e=>!(e.station===t&&e.no_label===n);e(`reworkAnalisa`,e=>e.filter(r)),e(`verifikasiQc`,e=>e.filter(r))}Y(RegExp(`^/api/scans/ng/${It}/fields$`),(t,n)=>{let r=Lt(n),i=Rt(r);if(!i)return[{error:`Data NG tidak ditemukan`},404];let a={};for(let e of[`kategori`,`jenis`,`keterangan`])t.body?.[e]!==void 0&&(a[e]=t.body[e]);e(`ngFields`,e=>({...e,[r]:{...e[r],...a}}));let o={...i.baris,...a};return Q(`ubahNg`,{pelaku:`leader:RIZAL`,rowId:r,sebelum:i.baris,sesudah:o}),o}),X(RegExp(`^/api/scans/ng/${It}$`),(e,t)=>{let n=Lt(t),r=Rt(n),i=Cn(`scansNgBaru`,T,n,`hapusNg`);return r&&Bt(r.station,r.baris.no_label),i}),X(RegExp(`^/api/scans/ok/${It}$`),(e,t)=>Cn(`scansOkBaru`,Ot,Lt(t),`hapusOk`)),q(`/api/scans/convert/ng-to-ok`,n=>{let r=String(n.body?.id??``),i=Rt(r);if(!i)return[{error:`Data NG tidak ditemukan`},404];let{baris:a,station:o}=i;wn(`scansNgBaru`,T,r),Bt(o,a.no_label);let s={id:t(),station:o,no_label:a.no_label,waktu:a.waktu,tanggal:a.tanggal??`2026-07-10`,group_name:a.group_name??`Group A`,part_number:a.part_number??`BXY-H2590-00`,...Et(a),packing_no:o===`Packing`?Wt():null};return e(`scansOkBaru`,e=>[...e,s]),Q(`konversiNgOk`,{pelaku:`leader:RIZAL`,rowId:r,sebelum:a,sesudah:s}),s}),q(`/api/scans/convert/ok-to-ng`,async n=>{await W.semua();let r=String(n.body?.id??``),{kategori:i,jenis:a,keterangan:o}=n.body??{};if(!r||!i||!a||!o)return[{error:`id, kategori, jenis, keterangan wajib diisi`},400];let s=zt(r);if(!s)return[{error:`Data OK tidak ditemukan`},404];let{baris:c,station:l}=s;if(l===`Packing`)return[{error:`Scan Packing tidak bisa diubah menjadi NG: barisnya isi sebuah kardus (Group Box). Bila unitnya memang salah masuk kardus, hapus barisnya lewat tab Packing.`,reason:`packing`},409];wn(`scansOkBaru`,Ot,r);let u={id:t(),station:l,no_label:c.no_label,part_number:c.part_number??`BXY-H2590-00`,tanggal:c.tanggal??`2026-07-10`,group_name:c.group_name??`Group A`,kategori:i,jenis:a,keterangan:o,waktu:c.waktu,...Et(c),rework:`OPEN`};return e(`scansNgBaru`,e=>[...e,u]),Q(`konversiOkNg`,{pelaku:`leader:RIZAL`,rowId:r,sebelum:c,sesudah:u}),u});var Vt=5,Ht=()=>F(`Packing`),Ut=()=>[...Ge(),...Ht().map(e=>({...e,line:8}))],Wt=()=>{let e=Z(),t=e.length?e[e.length-1]:null;return t?t.dicetak?t.packingNo+1:t.isi<Vt?t.packingNo:t.packingNo+1:1};K(`/api/scans/packing`,()=>Ht()),K(`/api/scans/packing-record`,async e=>{await W.sesi(e);let t=e.q.get(`tanggal`),n=e.q.get(`group`)??``;if(!t||!n)return[{error:`tanggal, group wajib diisi`},400];let r=U({tanggal:t}).filter(e=>String(e.group_name).toUpperCase()===n.toUpperCase());if(!r.length)return{found:!1,reason:`SHIFT_NOT_FOUND`,boxes:[]};let i=[],a=0;for(let e of r){let t=B(e.id,`Packing`).filter(e=>e.packing_no!=null),n=new Map;for(let e of t)n.set(e.packing_no,[...n.get(e.packing_no)??[],e]);for(let[t,r]of[...n.entries()].sort((e,t)=>e[0]-t[0]))i.push({packingNo:t,shiftId:e.id,shift:e.shift,partNumber:e.part_number,items:r.map(t=>({seq:++a,noLabel:t.no_label,waktu:t.waktu,tanggal:t.tanggal,group:t.group_name,line:e.line}))})}return i.length?{found:!0,tanggal:t,line:r[0].line,group:n.toUpperCase(),shift:e.q.get(`shift`)||null,jumlahShift:new Set(r.map(e=>e.shift)).size,boxes:i}:{found:!1,reason:`NO_DATA`,boxes:[]}});var Z=()=>{let e=Ht(),t=[...new Set(e.map(e=>e.packing_no).filter(Boolean))].sort((e,t)=>e-t),n=r(`boxCetak`),i=t.length?t[t.length-1]:0;return t.map(t=>{let r=e.filter(e=>e.packing_no===t).length,a=n[t];return{packingNo:t,isi:r,penuh:r>=Vt,boxTerakhir:t===i,dicetak:!!a?.pada,dicetakPada:a?.pada??null,qtyDicetak:a?.qty??null,pernahDicetak:!!a,perluCetakUlang:!!a&&a.qty!==r}})};K(`/api/scans/packing/boxes`,()=>Z()),q(`/api/scans/packing/print`,t=>{let n=t.body.packingNo,r=Ht().filter(e=>e.packing_no===n).length;return e(`boxCetak`,e=>({...e,[n]:{pada:x(),qty:r}})),Z()}),X(`/api/scans/packing/print`,t=>{let n=Number(t.q.get(`packingNo`));return e(`boxCetak`,e=>e[n]?{...e,[n]:{...e[n],pada:null}}:{...e}),Q(`resetCetak`,{pelaku:`leader:RIZAL`,rowId:n}),Z()}),q(`/api/scans/packing/penuhi`,n=>{let r=Number(n.body.packingNo),i=Z().find(e=>e.packingNo===r);if(!i)return[{error:`BOX TIDAK DITEMUKAN.`,reason:`box`},404];if(i.penuh)return[{error:`BOX SUDAH PENUH 5 PCS.`,reason:`penuh`},409];if(i.dicetak)return[{error:`BOX INI SUDAH DICETAK.
+BATALKAN STATUS CETAK DULU.`,reason:`tercetak`},409];let a={id:t(),station:`Packing`,no_label:n.body.noLabel,waktu:n.body.waktu,tanggal:n.body.tanggal??`2026-07-10`,group_name:n.body.group??`Group A`,part_number:n.body.partNumber??`BXY-H2590-00`,packing_no:n.body.packingNo,...Tt(n.body)};return e(`scansOkBaru`,e=>[...e,a]),[{row:a,boxes:Z()},201]}),K(`/api/rework`,async e=>{await W.id(e.q.get(`shiftId`));let t=e.q.get(`shiftId`);return z(t)?r(`reworkAnalisa`).filter(e=>Number(e.shift_id??533)===Number(t||533)):qe(t)}),q(`/api/rework`,n=>{let i=n.body.clientId??null;if(i){let e=r(`reworkAnalisa`).filter(e=>e.client_id===i);if(e.length)return e}let a=(n.body.entries??[]).map(e=>({id:t(),shift_id:Number(n.body.shiftId)||533,station:e.station,no_label:e.noLabel,jenis:e.jenis??null,keterangan:e.keterangan??null,pelaku_ng:e.pelakuNg,root_cause:e.rootCause,dirework_oleh:e.direworkOleh??null,waktu:e.waktu,ng_waktu:e.ngWaktu??null,tanggal:e.tanggal||null,group_name:e.group||null,client_id:i,rework_status:`WAIT`}));return e(`reworkAnalisa`,e=>[...e.filter(e=>!a.some(t=>t.station===e.station&&t.no_label===e.no_label)),...a]),[a,201]}),Y(/^\/api\/rework\/(\d+)\/fields$/,(t,n)=>(e(`reworkAnalisa`,e=>e.map(e=>String(e.id)===n[1]?{...e,...t.body}:e)),{ok:!0})),K(`/api/verifikasi-qc`,async e=>{await W.id(e.q.get(`shiftId`));let t=e.q.get(`shiftId`);return z(t)?r(`verifikasiQc`).filter(e=>Number(e.shift_id??533)===Number(t||533)):Ye(t)});var Gt=n=>{let i=Number(n.shiftId)||533,a=r(`verifikasiQc`).find(e=>Number(e.shift_id??533)===i&&e.station===n.station&&e.no_label===n.noLabel);if(a)return a;let o={id:t(),shift_id:i,station:n.station,no_label:n.noLabel,diverifikasi_oleh:n.diverifikasiOleh,waktu:n.waktu};return e(`verifikasiQc`,e=>[...e,o]),o};q(`/api/verifikasi-qc`,e=>Gt(e.body)),J(`/api/verifikasi-qc`,async t=>(await W.id(t.body?.shiftId??t.body?.id),Q(`suntingVerifikasiQc`,{pelaku:`leader:RIZAL`,rowId:t.body.noLabel,sesudah:{station:t.body.station,diverifikasi_oleh:t.body.diverifikasiOleh}}),e(`verifikasiQc`,e=>e.map(e=>e.station===t.body.station&&e.no_label===t.body.noLabel?{...e,diverifikasi_oleh:t.body.diverifikasiOleh,waktu:t.body.waktu}:e)),Gt(t.body))),K(/^\/api\/monitoring\/(\d+)$/,(e,t)=>{let n=Number(t[1]);if(n===533)return Fe(e.q);let i=r(`shifts`).find(e=>Number(e.id)===n)??k(n);return i?Qt(i):Fe(e.q)}),K(/^\/api\/monitoring\/oee\/(\d+)$/,()=>_n());var Kt=`skipChartHistory=1&skipStationHistories=1`,qt=()=>Fe(new URLSearchParams(Kt)),Jt=new Set(C.map(e=>e.code)),Yt=e=>`${e.no_label}|${e.tanggal??``}|${e.group_name??``}`;function Xt(e){if(Number(e.id)===533){let e=qt();return{target:b.target,liveTarget:e.liveTarget,output:e.outputFI3,unitOk:e.unitOk,unitNg:e.unitNg,packing:e.outputPacking}}let t=jt(e.id),n=H(e.id),r=new Set(n.filter(e=>Jt.has(e.station)).map(Yt)),i=t.filter(e=>e.station===`FI3`),a=new Set(i.map(Yt).filter(e=>!r.has(e)));return{target:e.target,liveTarget:e.target,output:i.length,unitOk:a.size,unitNg:r.size,packing:t.filter(e=>e.station===`Packing`).length}}function Zt(e){return{line:e.line,partNumber:e.part_number,group:e.group_name,...Xt(e)}}function Qt(e){let t=Xt(e),n=jt(e.id),r=H(e.id),i=e.dc_enabled?C:C.slice(0,4);return{shift:{...e,dc_enabled:e.dc_enabled??0},stationsData:i.map(({code:e,name:t})=>{let i=r.filter(t=>t.station===e);return{code:e,name:t,ok:n.filter(t=>t.station===e).length,ng:i.length,ngData:[...i].reverse().map(e=>({noLabel:e.no_label,partNumber:e.part_number,tanggal:e.tanggal,group:e.group_name,kategori:e.kategori,jenis:e.jenis,keterangan:e.keterangan,waktu:e.waktu,rework:e.rework}))}}),outputFI3:t.output,unitOk:t.unitOk,unitNg:t.unitNg,outputPacking:t.packing,liveTarget:t.liveTarget,chartHistory:[],stationChartHistories:{FI3:[]}}}function $t(){let e=new Map;for(let t of R().filter(e=>e.tanggal===c)){let n=e.get(t.line);if(!n){e.set(t.line,t);continue}Number(n.id)!==533&&(Number(t.id)===533||Number(t.id)>Number(n.id))&&e.set(t.line,t)}return[...e.values()].sort((e,t)=>e.line-t.line).map(Zt)}K(`/api/monitoring/targeting`,()=>({cards:$t().map(e=>({line:e.line,partNumber:e.partNumber,group:e.group,liveTarget:e.liveTarget,output:e.output,target:e.target,unitOk:e.unitOk,unitNg:e.unitNg}))})),K(`/api/monitoring/packing`,()=>({cards:$t().map(e=>({line:e.line,partNumber:e.partNumber,group:e.group,output:e.output,packing:e.packing}))})),K(`/api/lines`,()=>r(`lines`)),Y(/^\/api\/lines\/(\d+)$/,(t,n)=>{let r=Number(n[1]);return e(`lines`,e=>e.map(e=>e.line===r?{...e,active:!!t.body.active}:e)),{line:r,active:!!t.body.active}}),K(`/api/groups`,()=>r(`groups`)),Y(/^\/api\/groups\/([A-Za-z])$/,(t,n)=>{let r=n[1].toUpperCase();return e(`groups`,e=>e.map(e=>e.letter===r?{...e,active:!!t.body.active}:e)),{letter:r,active:!!t.body.active}}),K(`/api/ng-types`,()=>r(`ngTypes`)),q(`/api/ng-types`,n=>{let r={id:t(),kode:n.body.kode,nama:n.body.nama};return e(`ngTypes`,e=>[...e,r]),[r,201]}),J(/^\/api\/ng-types\/(\d+)$/,(t,n)=>{let r=Number(n[1]),i={id:r,kode:t.body.kode,nama:t.body.nama};return e(`ngTypes`,e=>e.map(e=>e.id===r?{...e,...i}:e)),i}),X(/^\/api\/ng-types\/(\d+)$/,(t,n)=>(e(`ngTypes`,e=>e.filter(e=>String(e.id)!==n[1])),{ok:!0}));var en=e=>({partNumber:e.partNumber,nama:e.nama??null,targetStandar:e.targetStandar??null,aktif:e.aktif!==!1,dipakai:r(`shifts`).filter(t=>t.part_number===e.partNumber).length});K(`/api/part-numbers`,()=>r(`partNumbers`).map(en)),q(`/api/part-numbers`,t=>{let n={partNumber:String(t.body.partNumber??``).toUpperCase(),nama:t.body.nama??null,targetStandar:t.body.targetStandar??null,aktif:!0};return e(`partNumbers`,e=>[...e,n]),[en(n),201]}),J(/^\/api\/part-numbers\/([^/]+)$/,(t,n)=>{let i=decodeURIComponent(n[1]).toUpperCase();e(`partNumbers`,e=>e.map(e=>e.partNumber===i?{...e,nama:t.body.nama??e.nama,targetStandar:t.body.targetStandar??e.targetStandar,aktif:t.body.aktif??e.aktif}:e));let a=r(`partNumbers`).find(e=>e.partNumber===i);return a?en(a):[{error:`Part number tidak ditemukan`},404]}),X(/^\/api\/part-numbers\/([^/]+)$/,(t,n)=>{let i=decodeURIComponent(n[1]).toUpperCase(),a=r(`partNumbers`).find(e=>e.partNumber===i)??null;return e(`partNumbers`,e=>e.filter(e=>e.partNumber!==i)),Q(`partNumberHapus`,{pelaku:`admin:admin`,rowId:i,sebelum:a}),{ok:!0}});var tn=n=>{K(`/api/${n.rute}`,()=>r(n.kunci)),q(`/api/${n.rute}`,r=>{let i={id:t(),username:r.body.username,bawaan:0};return e(n.kunci,e=>[...e,i]),[i,201]}),J(RegExp(`^/api/${n.rute}/(\\d+)$`),(t,r)=>(e(n.kunci,e=>e.map(e=>String(e.id)===r[1]?{...e,username:t.body.username??e.username}:e)),{id:Number(r[1]),username:t.body.username,bawaan:0})),X(RegExp(`^/api/${n.rute}/(\\d+)$`),(t,r)=>(e(n.kunci,e=>e.filter(e=>String(e.id)!==r[1])),{ok:!0}))};tn({rute:`admin-users`,kunci:`adminUsers`}),tn({rute:`leader-users`,kunci:`leaderUsers`}),tn({rute:`qc-users`,kunci:`qcUsers`}),tn({rute:`finishgood-users`,kunci:`finishgoodUsers`}),q(`/api/leader-users/verify`,e=>y(e.body?.username,e.body?.password)?{ok:!0,token:`demo-leader-token`,expiresIn:12*3600}:[{ok:!1,error:`Username atau password salah.`},401]),q(`/api/qc-users/verify`,e=>y(e.body?.username,e.body?.pin)?{ok:!0,qcToken:`demo-qc-token`,username:te.username}:[{ok:!1,error:`Username atau PIN QC salah`},401]),K(`/api/qc-users/pengaturan`,()=>({pinWajib:r(`pinQcWajib`)})),J(`/api/qc-users/pengaturan`,e=>(n(`pinQcWajib`,!!e.body.pinWajib),{pinWajib:!!e.body.pinWajib})),q(`/api/finishgood-users/verify`,e=>y(e.body?.username,e.body?.password)?{ok:!0}:[{ok:!1},401]),q(`/api/auth/login`,e=>y(e.body?.username,e.body?.password)?{ok:!0,token:`demo-admin-token`,username:te.username}:[{error:`Username atau password salah`},401]),K(`/api/auth/verify`,()=>({ok:!0,username:`admin`})),q(`/api/auth/logout`,()=>({ok:!0}));var nn={hapusNg:[`hapus_ng`,`scans_ng`],hapusOk:[`hapus_ok`,`scans_ok`],ubahNg:[`ubah_ng`,`scans_ng`],konversiNgOk:[`konversi_ng_ok`,`scans_ng`],konversiOkNg:[`konversi_ok_ng`,`scans_ok`],resetCetak:[`reset_cetak`,`packing_boxes`],hapusSetup:[`hapus_setup`,`shifts`],suntingVerifikasiQc:[`sunting_verifikasi_qc`,`verifikasi_qc`],partNumberHapus:[`part_number_hapus`,`part_numbers`],downtimeSelesai:[`downtime_selesai`,`line_downtime`],downtimeHapus:[`downtime_hapus`,`line_downtime`]};function Q(n,{pelaku:r=null,rowId:i=null,sebelum:a=null,sesudah:o=null}={}){let[s,c]=nn[n];e(`auditLog`,e=>[...e,{id:t(),waktu:x(),pelaku:r,aksi:s,tabel:c,row_id:i==null?null:String(i),line:8,sebelum:a?JSON.stringify(a):null,sesudah:o?JSON.stringify(o):null}])}K(`/api/audit-log`,e=>{let t=e.q.get(`tanggal`),n=e.q.get(`line`),i=(e.q.get(`pelaku`)??``).toLowerCase(),a=e.q.get(`aksi`),o=[...r(`auditLog`)].filter(e=>(!t||String(e.waktu).slice(0,10)===t)&&(!n||e.line===Number(n))&&(!i||String(e.pelaku??``).toLowerCase().includes(i))&&(!a||e.aksi===a)).sort((e,t)=>t.id-e.id),s=Number(e.q.get(`limit`))||50,c=Number(e.q.get(`offset`))||0;return{rows:o.slice(c,c+s),total:o.length}}),K(`/api/audit-log/aksi`,()=>[...new Set(r(`auditLog`).map(e=>e.aksi))].sort()),K(`/api/ng-beruntun/pengaturan`,()=>r(`ngBeruntun`)),J(`/api/ng-beruntun/pengaturan`,e=>{let t=Number(e.body?.ambang),r=Number(e.body?.menit);return!Number.isInteger(t)||t<0||t>50?[{error:`Ambang harus bilangan bulat 0–50 (0 = peringatan mati)`},400]:!Number.isInteger(r)||r<5||r>480?[{error:`Jendela harus bilangan bulat 5–480 menit`},400]:n(`ngBeruntun`,{ambang:t,menit:r})}),K(`/api/station-calls`,()=>r(`stationCalls`)),q(`/api/station-calls`,n=>{let i=n.body.station,a=typeof n.body.waktu==`string`?n.body.waktu.slice(0,5):``,o=r(`stationCalls`).find(e=>e.station===i);if(o)return e(`panggilanRiwayat`,e=>e.map(e=>e.id===o.id?{...e,jumlah_panggil:(e.jumlah_panggil??1)+1}:e)),{ok:!0,sudahTerdaftar:!0};let s=t();return e(`panggilanRiwayat`,e=>[...e,{id:s,line:8,station:i,dipanggil_pada:x(),jumlah_panggil:1,diterima_pada:null,diterima_oleh:null,durasi_detik:null}]),e(`stationCalls`,e=>[...e,{id:s,line:8,station:i,waktu:a}]),{ok:!0}}),X(/^\/api\/station-calls\/(\d+)\/(.+)$/,(t,n)=>{let r=decodeURIComponent(n[2]),i=x();return e(`stationCalls`,e=>e.filter(e=>e.station!==r)),e(`panggilanRiwayat`,e=>e.map(e=>e.station===r&&!e.diterima_pada?{...e,diterima_pada:i,diterima_oleh:`leader:RIZAL`,durasi_detik:Math.max(0,Math.round((S(i)-S(e.dipanggil_pada))/1e3))}:e)),{ok:!0}});function rn(e){let t=e=>{let t=e.filter(e=>e.diterima_pada!=null&&Number.isFinite(e.durasi_detik)).map(e=>e.durasi_detik).sort((e,t)=>e-t),n=Math.floor(t.length/2);return{total:e.length,diterima:t.length,belum:e.length-t.length,rataDetik:t.length?Math.round(t.reduce((e,t)=>e+t,0)/t.length):null,medianDetik:t.length?t.length%2?t[n]:Math.round((t[n-1]+t[n])/2):null,maksDetik:t.length?t[t.length-1]:null}},n={};for(let t of e)(n[t.station]??=[]).push(t);return{...t(e),perStation:Object.fromEntries(Object.entries(n).map(([e,n])=>[e,t(n)]))}}K(`/api/station-calls/riwayat`,e=>{let t=e.q.get(`dari`)??``,n=e.q.get(`sampai`)??``,i=r(`panggilanRiwayat`).filter(e=>(!t||e.dipanggil_pada>=t)&&(!n||e.dipanggil_pada<n)).sort((e,t)=>String(t.dipanggil_pada).localeCompare(String(e.dipanggil_pada)));return{dari:t||`2026-07-10`,sampai:n||null,baris:i,ringkasan:rn(i)}});var an=e=>{let t=String(e).slice(0,5),n=/^\d{2}:\d{2}:\d{2}$/.test(String(e))?String(e):`${t}:00`,r=e=>{let[t,n]=e.split(`:`).map(Number);return t*60+n},i=se(b.waktu_mulai)??`00:00`;return`${r(t)<r(i)?oe(c,1):c} ${n}`},on=(e,t)=>Math.max(0,Math.round((S(e.selesai??t)-S(e.mulai))/6e4));K(`/api/downtime`,()=>{let e=x(),t=r(`downtime`).map(t=>({...t,durasiMenit:on(t,e)}));return{baris:t,berlangsung:t.filter(e=>!e.selesai).length,menitKotor:t.reduce((e,t)=>e+t.durasiMenit,0)}}),q(`/api/downtime`,n=>{let r={id:t(),shift_id:Number(n.body.shiftId)||533,line:8,part_number:ne,mulai:an(n.body.mulai),selesai:n.body.selesai?an(n.body.selesai):null,kategori:n.body.kategori,keterangan:n.body.keterangan?.trim()||null,dicatat_oleh:`leader:RIZAL`};return e(`downtime`,e=>[...e,r]),[{...r,durasiMenit:on(r,x())},201]}),Y(/^\/api\/downtime\/(\d+)\/selesai$/,(t,n)=>{let i=an(t.body.selesai);e(`downtime`,e=>e.map(e=>String(e.id)===n[1]?{...e,selesai:i}:e));let a=r(`downtime`).find(e=>String(e.id)===n[1]);return a?(Q(`downtimeSelesai`,{pelaku:`leader:RIZAL`,rowId:a.id,sesudah:a}),{...a,durasiMenit:on(a,x())}):[{error:`Catatan berhenti tidak ditemukan`},404]}),X(/^\/api\/downtime\/(\d+)$/,(t,n)=>{let i=r(`downtime`).find(e=>String(e.id)===n[1])??null;return e(`downtime`,e=>e.filter(e=>String(e.id)!==n[1])),Q(`downtimeHapus`,{pelaku:`leader:RIZAL`,rowId:n[1],sebelum:i}),{ok:!0}}),K(`/api/rekap-operator`,async e=>{await W.rentang(e);let t=e.q.get(`dari`)||`2026-07-10`,n=e.q.get(`sampai`)||t,r=e.q.get(`line`)?Number(e.q.get(`line`)):null,i=Nt(t,n,e=>r==null||e.line===r),a=new Map,o=0,s=0,c=(e,t)=>{a.has(e)||a.set(e,{nik:e,nama:t??null,unitOk:0,unitNg:0,barisNg:0,perStation:{}});let n=a.get(e);return!n.nama&&t&&(n.nama=t),n},l=(e,t)=>e.perStation[t]??={unitOk:0,unitNg:0},u=e=>{let t=e.operator_kiri_nik??e.operator_nik??null,n=e.operator_kanan_nik??null,r=[];return t&&r.push({nik:t,nama:e.operator_kiri_nama??null}),n&&n!==t&&r.push({nik:n,nama:e.operator_kanan_nama??null}),r};for(let e of L()){for(let t of i.flatMap(t=>B(t.id,e))){let n=u(t);if(n.length===0){o+=1;continue}for(let t of n){let n=c(t.nik,t.nama);n.unitOk+=1,l(n,e).unitOk+=1}}let t=new Set;for(let n of i.flatMap(t=>V(t.id,e))){let r=u(n);if(r.length===0){s+=1;continue}for(let i of r){let r=c(i.nik,i.nama);r.barisNg+=1;let a=`${i.nik}|${n.no_label}|${n.tanggal??``}|${n.group_name??``}`;t.has(a)||(t.add(a),r.unitNg+=1,l(r,e).unitNg+=1)}}}return{dari:t,sampai:n,line:r,operator:[...a.values()].map(e=>{let t=e.unitOk+e.unitNg;return{...e,diperiksa:t,persenNg:t?Math.round(e.unitNg/t*1e3)/10:null}}).sort((e,t)=>e.nik.localeCompare(t.nik)),tanpaOperator:{scanOk:o,scanNg:s}}});var sn=e=>{let t=String(e??``).trim();if(!t)return null;let n=t.split(`|`).map(e=>e.trim());if(n.length===5){let[e,t,r,i,a]=n;if(!a||!/^\d{4}-\d{2}-\d{2}$/.test(t))return null;let o=parseInt(r.replace(/\D/g,``),10);return{noLabel:a,tanggal:t,line:Number.isInteger(o)?o:null,group:i||null,partNumber:e.replace(/-00-80$/i,``)||null}}return n.length===1&&/^[A-Za-z0-9-]{1,30}$/.test(t)?{noLabel:t,tanggal:null,line:null,group:null,partNumber:null}:null};K(`/api/lacak`,async e=>{await W.semua();let t=sn(e.q.get(`q`));if(!t)return[{error:`Masukkan nomor label, atau scan label PRODUK (5 ruas). Label box tak bisa dilacak di sini.`},400];let{noLabel:n,tanggal:i,line:a,group:o,partNumber:s}=t,c=[`OK`,`NG`,`ANALISA`,`WAIT`,`CLOSE`,`QC`,`BOX`,`SCAN_IN`,`SCAN_OUT`,`KIRIM`],l=[],u=e=>l.filter(t=>t.jenis===e).length<500,d=e=>k(e)??R().find(t=>Number(t.id)===Number(e))??(z(e)?b:null),f=/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}/,p=(e,t)=>{if(!t)return null;let n=String(t).trim();if(f.test(n))return n.length===16?`${n}:00`:n.slice(0,19);if(!e)return null;let r=/^\d{2}:\d{2}:\d{2}$/.test(n)?n:`${n.slice(0,5)}:00`,i=se(e.waktu_mulai)??String(e.waktu_mulai??`00:00`).slice(0,5),a=e=>{let[t,n]=e.split(`:`).map(Number);return t*60+n};return`${a(r.slice(0,5))<a(i)?oe(e.tanggal,1):e.tanggal} ${r}`},m=(e,t)=>({noLabel:e.no_label,tanggal:e.tanggal??t.tanggal,group:e.group_name??t.group_name,line:t.line,partNumber:e.part_number??t.part_number}),h=(e,t)=>{if(e.no_label!==n)return!1;let r=e.tanggal??t.tanggal,c=e.group_name??t.group_name,l=e.part_number??t.part_number;return!(i&&r!==i||o&&String(c??``).toUpperCase()!==String(o).toUpperCase()||a!=null&&Number(t.line)!==Number(a)||s&&String(l??``).toUpperCase()!==String(s).toUpperCase())},ee=()=>{for(let e of L()){for(let t of F(e)){let n=d(t.shift_id??533);if(!n||!h(t,n)||!u(`OK`))continue;let i=m(t,n),a=p(n,t.waktu);if(l.push({unit:i,jenis:`OK`,station:e,stempel:a,...Dt(t)}),e===`Packing`&&t.packing_no!=null){if(!u(`BOX`))continue;l.push({unit:i,jenis:`BOX`,station:`Packing`,stempel:a,detail:`Box #${t.packing_no}`});let e=lt(n.part_number,n.tanggal,n.group_name,n.line,t.packing_no),o=r(`fgBox`)[e]??null;for(let[e,r]of[[`SCAN_IN`,`scan_in_at`],[`SCAN_OUT`,`scan_out_at`],[`KIRIM`,`kirim_at`]])o?.[r]&&u(e)&&l.push({unit:i,jenis:e,station:`Gudang`,stempel:p(n,o[r]),detail:`Box #${t.packing_no}`})}}for(let t of I(e)){let n=d(t.shift_id??533);if(!n||!h(t,n)||!u(`NG`))continue;let r=m(t,n),i=p(n,t.waktu);l.push({unit:r,jenis:`NG`,station:e,stempel:i,detail:[t.kategori,t.jenis,t.keterangan].filter(Boolean).join(` · `),rework:t.rework,...Dt(t)}),(t.rework===`WAIT`||t.rework===`CLOSE`)&&u(`WAIT`)&&l.push({unit:r,jenis:`WAIT`,station:e,stempel:i}),t.rework===`CLOSE`&&u(`CLOSE`)&&l.push({unit:r,jenis:`CLOSE`,station:e,stempel:i})}}for(let e of r(`reworkAnalisa`)){if(e.no_label!==n||!u(`ANALISA`))continue;let t=d(e.shift_id??533);!t||!h(e,t)||l.push({unit:m(e,t),jenis:`ANALISA`,station:e.station,stempel:p(t,e.waktu),detail:[e.jenis,e.pelaku_ng&&`pelaku ${e.pelaku_ng}`,e.root_cause&&`root cause ${e.root_cause}`,e.dirework_oleh&&`dirework ${e.dirework_oleh}`].filter(Boolean).join(` · `)})}for(let e of r(`verifikasiQc`)){if(e.no_label!==n||!u(`QC`))continue;let t=d(e.shift_id??533);!t||!h(e,t)||l.push({unit:m(e,t),jenis:`QC`,station:e.station,stempel:p(t,e.waktu),detail:e.diverifikasi_oleh?`oleh ${e.diverifikasi_oleh}`:null})}},g=e=>{let t=k(e);if(t){for(let n of We(e)){if(!h(n,t)||!u(`OK`))continue;let e=m(n,t),i=p(t,n.waktu);if(l.push({unit:e,jenis:`OK`,station:n.station,stempel:i,...Dt(n)}),n.station===`Packing`&&n.packing_no!=null){if(!u(`BOX`))continue;l.push({unit:e,jenis:`BOX`,station:`Packing`,stempel:i,detail:`Box #${n.packing_no}`});let a=lt(t.part_number,t.tanggal,t.group_name,t.line,n.packing_no),o=r(`fgBox`)[a]??null;for(let[r,i]of[[`SCAN_IN`,`scan_in_at`],[`SCAN_OUT`,`scan_out_at`],[`KIRIM`,`kirim_at`]])o?.[i]&&u(r)&&l.push({unit:e,jenis:r,station:`Gudang`,stempel:p(t,o[i]),detail:`Box #${n.packing_no}`})}}for(let n of Ke(e)){if(!h(n,t)||!u(`NG`))continue;let e=m(n,t),r=p(t,n.waktu);l.push({unit:e,jenis:`NG`,station:n.station,stempel:r,detail:[n.kategori,n.jenis,n.keterangan].filter(Boolean).join(` · `),rework:n.rework,...Dt(n)}),(n.rework===`WAIT`||n.rework===`CLOSE`)&&u(`WAIT`)&&l.push({unit:e,jenis:`WAIT`,station:n.station,stempel:r}),n.rework===`CLOSE`&&u(`CLOSE`)&&l.push({unit:e,jenis:`CLOSE`,station:n.station,stempel:r})}for(let n of qe(e))!h(n,t)||!u(`ANALISA`)||l.push({unit:m(n,t),jenis:`ANALISA`,station:n.station,stempel:p(t,n.waktu),detail:[n.jenis,n.pelaku_ng&&`pelaku ${n.pelaku_ng}`,n.root_cause&&`root cause ${n.root_cause}`,n.dirework_oleh&&`dirework ${n.dirework_oleh}`].filter(Boolean).join(` · `)});for(let n of Ye(e))!h(n,t)||!u(`QC`)||l.push({unit:m(n,t),jenis:`QC`,station:n.station,stempel:p(t,n.waktu),detail:n.diverifikasi_oleh?`oleh ${n.diverifikasi_oleh}`:null})}};ee();for(let e of Je(n))g(e);let _=e=>[e.line,e.partNumber,e.tanggal,String(e.group??``).toUpperCase(),e.noLabel].join(`|`),v=new Map;for(let e of l){let t=_(e.unit);v.has(t)||v.set(t,{unit:e.unit,peristiwa:[]});let{unit:n,...r}=e;v.get(t).peristiwa.push(r)}let y=[...v.values()];for(let e of y)e.peristiwa.sort((e,t)=>String(e.stempel??``).localeCompare(String(t.stempel??``))||c.indexOf(e.jenis)-c.indexOf(t.jenis));return y.sort((e,t)=>String(t.peristiwa.at(-1)?.stempel??``).localeCompare(String(e.peristiwa.at(-1)?.stempel??``))),{masukan:{noLabel:n,tanggal:i,grp:o,line:a,pn:s},terpotong:[`OK`,`NG`,`ANALISA`,`QC`].some(e=>l.filter(t=>t.jenis===e).length>=500),unit:y}}),K(`/api/defect`,async e=>{await W.sesi(e);let t=Mt(e.q),n=ce(R()),i=e=>t.flatMap(t=>e(t.id).map(e=>({shift_id:t.id,...e,menitKe:n({...e,shift_id:t.id})}))).sort((e,t)=>e.menitKe-t.menitKe);return{ngData:i(e=>H(e)),okData:i(e=>jt(e)),reworkData:i(e=>z(e)?r(`reworkAnalisa`):qe(e)),verifikasiQc:i(e=>z(e)?r(`verifikasiQc`):Ye(e)),namaLeader:t[0]?.nama_leader??b.nama_leader,dcAktif:t.some(e=>!!e.dc_enabled)}}),K(`/api/abnormal`,()=>[]),K(/^\/api\/abnormal\/(\d+)$/,()=>[]),K(`/api/shift-schedule`,()=>({rows:r(`jadwalShift`),bebasEnabled:r(`shiftBebas`)}));var cn=e=>{let[t,n]=e.split(`:`).map(Number);return t*60+n},ln=/^([01]\d|2[0-3]):[0-5]\d$/,un=e=>{let t=String(e??``).trim();return t===``?null:t};J(/^\/api\/shift-schedule\/(\d+)$/,(t,n)=>{let i=Number(n[1]),a=r(`jadwalShift`).find(e=>e.id===i);if(!a)return[{error:`Baris jadwal tidak ditemukan`},404];let{breaks:o,waktuAkhir:s}=t.body??{};if(!Array.isArray(o)||o.length!==4||!Array.isArray(s))return[{error:`Format tidak valid: butuh 4 break dan 4 Waktu Akhir`},400];let c=[];for(let e=0;e<4;e++){let t=un(o[e]?.start),n=un(o[e]?.end);if(t&&!n||!t&&n)return[{error:`Break ${e+1}: jam mulai dan selesai harus diisi keduanya`},400];for(let r of[t,n])if(r&&!ln.test(r))return[{error:`Break ${e+1}: format jam harus HH:MM`},400];if(t&&n&&cn(n)<=cn(t))return[{error:`Break ${e+1}: jam selesai harus sesudah jam mulai`},400];c.push({start:t,end:n})}let l=c.map((e,t)=>({no:t+1,a:e.start?cn(e.start):null,b:e.end?cn(e.end):null})).filter(e=>e.a!=null).sort((e,t)=>e.a-t.a);for(let e=1;e<l.length;e++)if(l[e].a<l[e-1].b){let[t,n]=[l[e-1].no,l[e].no].sort();return[{error:`Break ${t} dan Break ${n} saling tumpang-tindih`},400]}let u=[];for(let e=0;e<4;e++){let t=un(s[e]);if(t&&!ln.test(t))return[{error:`Waktu Akhir ${e+1}: format jam harus HH:MM`},400];u.push(t)}let d={...a,breaks:c,waktuAkhir:u};return e(`jadwalShift`,e=>e.map(e=>e.id===i?d:e)),d}),J(`/api/shift-schedule/bebas`,e=>({bebasEnabled:n(`shiftBebas`,!!e.body.enabled)})),K(`/api/sugesti`,()=>ie);var dn=[{error:`Backup & Restore tidak tersedia di Halaman Demonstrasi.`,reason:`demo`},501];K(`/api/proses-backup/installed`,()=>[{year:`2026`,shifts:r(`shifts`).length,hasBackup:!1},{year:`2025`,shifts:1284,hasBackup:!0}]),K(`/api/proses-backup/archived`,()=>[{year:`2025`,shifts:1284,createdAt:`2026-01-04T02:15:00.000Z`,sizeBytes:24117248}]),q(`/api/proses-backup/backup`,()=>dn),q(`/api/proses-backup/restore`,()=>dn),q(`/api/proses-backup/upload`,()=>dn),K(/^\/api\/proses-backup\/download\/(\d+)$/,()=>dn),X(/^\/api\/proses-backup\/(installed|archived)\/(\d+)$/,()=>dn);var $=()=>({barisPacking:Ut(),stempelBox:r(`fgBox`)}),fn=([e,t,r])=>(r&&n(`fgBox`,r),[e,t]);K(`/api/finish-good/stok`,async()=>(await W.semua(),{rows:ht(Ut(),r(`fgBox`))})),q(`/api/finish-good/denyut`,()=>({ok:!0,dikembalikan:0})),q(`/api/finish-good/batal-sesi`,()=>({dikembalikan:0})),q(`/api/finish-good/kirim`,e=>{let[t,r,i]=yt({pn:e.body.pn,...$()});return i&&n(`fgBox`,i),[t,r]}),K(`/api/finish-good/delivery`,async e=>(await W.semua(),{rows:bt({dari:e.q.get(`dari`)??``,sampai:e.q.get(`sampai`)??``,...$()})})),K(`/api/finish-good/delivery/boxes`,async e=>(await W.semua(),{rows:xt({pn:e.q.get(`pn`),tanggal:e.q.get(`tanggal`)??``,...$()})})),K(/^\/api\/finish-good\/(scan-in|scan-out)\/boxes$/,async(e,t)=>fn(vt({slug:t[1],pn:e.q.get(`pn`),...(await W.semua(),$())}))),q(/^\/api\/finish-good\/(scan-in|scan-out)$/,(e,t)=>fn(gt({slug:t[1],pn:e.body.pn,label:e.body.label,...$()}))),X(/^\/api\/finish-good\/(scan-in|scan-out)\/(.+)$/,(e,t)=>fn(_t({slug:t[1],id:decodeURIComponent(t[2]),...$()})));var pn=`${c} ${se(b.waktu_mulai)??`00:00`}:00`,mn=e=>(S(e)-S(pn))/6e4,hn=h.map(([e,t])=>({startElapsed:(e-_)/60,endElapsed:(t-_)/60})),gn=(e,t)=>e.map(e=>({mulai:Math.max(0,mn(e.mulai)),selesai:Math.min(t,mn(e.selesai??x()))})).filter(e=>e.selesai>e.mulai);function _n(){let e=qt(),t=r(`downtime`),n=Math.round(d()/60*10)/10,i=mn(x()),a=e=>ue(gn(e,i),hn),o={menitKerja:n,menitBerhenti:Math.round(a(t)*10)/10,output:e.outputFI3,liveTarget:e.liveTarget,unitOk:e.unitOk,unitNg:e.unitNg},s={};for(let e of new Set(t.map(e=>e.kategori??`Lainnya`)))s[e]=Math.round(a(t.filter(t=>(t.kategori??`Lainnya`)===e)));return{shiftId:533,line:8,partNumber:ne,target:b.target,jendela:{mulai:pn,akhir:`${c} ${b.waktu_akhir}:00`},...o,...fe(o),berhenti:{kejadian:t.length,menit:Math.round(o.menitBerhenti),berlangsung:t.filter(e=>!e.selesai).length,perKategori:s}}}function vn(){let e=_n();return{...e,shiftId:533,line:8,tanggal:c,teks:`Line 8 · ${c} · Output FI3 ${e.output}/${e.target} · OEE ${e.oee==null?`—`:`${(e.oee*100).toFixed(1)}%`}`}}function yn(e){let t=Mt(e);if(!t.length)return{};let n=t.map(e=>e.id),r=e=>n.flatMap(t=>B(t,e)),i=e=>n.flatMap(t=>V(t,e)),a={},o=0,s=0,c=new Map;for(let{code:e}of C){let t=i(e),n=new Map,l=0,u=0;for(let e of t)e.kategori===`Critical`?l+=1:u+=1,n.set(e.jenis,(n.get(e.jenis)??0)+1),c.set(e.jenis,(c.get(e.jenis)??0)+1);o+=l,s+=u,a[e]={ok:r(e).length,ng:t.length,critical:l,nonCritical:u,jenisNg:[...n.entries()].map(([e,t])=>({jenis:e,jumlah:t})).sort((e,t)=>t.jumlah-e.jumlah)}}let l=i(`FI3`).filter(e=>e.rework===`CLOSE`).length;return a.total={ok:a.FI3.ok+l,ng:n.flatMap(e=>H(e)).length,critical:o,nonCritical:s,jenisNg:[...c.entries()].map(([e,t])=>({jenis:e,jumlah:t})).sort((e,t)=>t.jumlah-e.jumlah)},a.dcAktif=t.some(e=>!!e.dc_enabled),a}function bn(e,t=!1){let n=t?Nt(e.get(`dari`),e.get(`sampai`),t=>(!e.get(`group`)||t.group_name===e.get(`group`))&&(!e.get(`partNumber`)||t.part_number===e.get(`partNumber`))):Mt(e);if(!n.length)return[];let r=e.get(`jenis`),i=e.get(`station`),a=(e.get(`stations`)??``).split(`,`).filter(Boolean),o=L().filter(e=>i&&i!==`ALL`?e===i:!0).filter(e=>a.length?a.includes(e):!0).flatMap(e=>n.flatMap(t=>V(t.id,e))),s=!r||r===`ALL`?o:o.filter(e=>e.jenis===r),c=new Map;for(let e of s){let t=`${e.jenis}\u0000${e.keterangan??``}\u0000${e.part_number}`,n=c.get(t);n?n.jumlah+=1:c.set(t,{jenis:e.jenis,keterangan:e.keterangan??``,part_number:e.part_number,jumlah:1})}return[...c.values()].sort((e,t)=>t.jumlah-e.jumlah)}function xn(e,t){let n=t.flatMap(e=>H(e.id)),r=e=>t.flatMap(t=>V(t.id,e)).length;return{tanggal:e,partNumber:t[0]?.part_number??`BXY-H2590-00`,target:t.reduce((e,t)=>e+(Number(t.target)||0),0),outputFi3:t.reduce((e,t)=>e+B(t.id,`FI3`).length+V(t.id,`FI3`).filter(e=>e.rework===`CLOSE`).length,0),ngTotal:n.length,ngFt:r(`FT`),ngFi1:r(`FI1`),ngFi2:r(`FI2`),ngFi3:r(`FI3`),ngDcFt:r(i),ngDcFi:r(a),dcAktif:t.some(e=>!!e.dc_enabled),ngCritical:n.filter(e=>e.kategori===`Critical`).length,ngNoncritical:n.filter(e=>e.kategori!==`Critical`).length,jenisNg:Sn(n)}}function Sn(e){let t=new Map;for(let n of e){let e=`${n.station}\u0000${n.jenis}`,r=t.get(e);r||(r={station:n.station,jenis:n.jenis,count:0,ket:new Map},t.set(e,r)),r.count+=1;let i=n.keterangan??``,a=r.ket.get(i);a||(a={count:0,pn:new Map},r.ket.set(i,a)),a.count+=1;let o=n.part_number??``;a.pn.set(o,(a.pn.get(o)??0)+1)}return[...t.values()].sort((e,t)=>t.count-e.count).map(({station:e,jenis:t,count:n,ket:r})=>({station:e,jenis:t,count:n,keterangan:[...r.entries()].sort((e,t)=>t[1].count-e[1].count).map(([e,t])=>({keterangan:e,count:t.count,partNumbers:[...t.pn.entries()].sort((e,t)=>t[1]-e[1]).map(([e,t])=>({partNumber:e,count:t}))}))}))}function Cn(e,t,n,r){let i=wn(e,t,n);return i?(Q(r,{pelaku:`leader:RIZAL`,rowId:n,sebelum:i}),{ok:!0}):[{error:`Baris tidak ditemukan`},404]}function wn(t,n,i){let a=r(t).find(e=>String(e.id)===String(i));if(a)return e(t,e=>e.filter(e=>String(e.id)!==String(i))),a;let o=Object.values(n).flat().find(e=>String(e.id)===String(i));return o?(e(t,e=>[...e,{id:i,_buang:!0}]),o):null}var Tn=(e,t)=>typeof e==`string`?e===t?[t]:null:t.match(e),En=class extends p{constructor(e){if(super(),this.url=String(e),new URL(this.url,window.location.origin).pathname!==`/api/station-calls/stream`)return;let t=null,n=()=>{if(this.readyState!==1||!this.onmessage)return;let e=JSON.stringify(r(`stationCalls`));e!==t&&(t=e,this.onmessage({data:e}))};setTimeout(n,0),this.timer=setInterval(n,1e3)}close(){clearInterval(this.timer),super.close()}},Dn=new Set;function On(){let e=window.fetch.bind(window);window.fetch=async(t,n={})=>{let r=new URL(typeof t==`string`?t:t.url,window.location.origin),i=r.pathname;if(!i.startsWith(`/api/`))return e(t,n);let a=(n.method??`GET`).toUpperCase(),o=(()=>{try{return n.body?JSON.parse(n.body):{}}catch{return{}}})(),s={q:r.searchParams,body:o,metode:a,path:i};for(let[e,t,n]of Pt){if(e!==a)continue;let r=Tn(t,i);if(!r)continue;let o=await n(s,r);return Array.isArray(o)&&o.length===2&&typeof o[1]==`number`?v(o[0],o[1]):v(o)}return Dn.has(`${a} ${i}`)||(Dn.add(`${a} ${i}`),console.warn(`[demo] belum ada penangan untuk ${a} ${i} — dijawab kosong`)),v(a===`GET`?[]:{ok:!0})},window.WebSocket=f(()=>kt()),window.EventSource=En}function kn(){document.addEventListener(`click`,e=>{if(e.defaultPrevented||e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;let t=e.target?.closest?.(`a[href]`);if(!t||t.target===`_blank`)return;let n=t.getAttribute(`href`);if(!n||!n.startsWith(`/`))return;let r=ae(n);r!==n&&(e.preventDefault(),window.location.href=r)},!0)}function An(){window.__DEMO_CANGKANG__=!0}function jn(){On(),kn(),An()}export{E as n,jn as t};
